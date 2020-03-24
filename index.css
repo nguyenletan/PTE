@@ -4,23 +4,23 @@
   font-family: 'cartograph';
   font-weight: bold;
   font-style: italic;
-  src: url('./font/cartograph/CartographSansCF-BoldItalic.otf');
+  src: url('./static/CartographSansCF-BoldItalic.otf');
 }
 @font-face {
   font-family: 'cartograph';
   font-weight: bold;
   font-style: normal;
-  src: url('./font/cartograph/CartographSansCF-Bold.otf');
+  src: url('./static/CartographSansCF-Bold.otf');
 }
 @font-face {
   font-family: 'cartograph';
   font-weight: normal;
   font-style: italic;
-  src: url('./font/cartograph/CartographSansCF-MediumItalic.otf');
+  src: url('./static/CartographSansCF-MediumItalic.otf');
 }
 @font-face {
   font-family: 'cartograph';
   font-weight: normal;
   font-style: normal;
-  src: url('./font/cartograph/CartographSansCF-medium.otf');
+  src: url('./static/CartographSansCF-medium.otf');
 }
