@@ -5,7 +5,7 @@ export default {
     },
     styles: {
       h1: {
-        textTransform: 'uppercase'
+        /*textTransform: 'uppercase'*/
       },
     },
     fonts: {
