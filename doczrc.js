@@ -3,10 +3,15 @@ export default {
   themeConfig: {
     head: {
     },
+    styles: {
+      h1: {
+        textTransform: 'uppercase'
+      },
+    },
     fonts: {
-      body: '"IBM Plex Serif", sans-serif',
+      body: '"Merriweather", sans-serif',
       heading: 'IBM Plex Sans, serif',
-      size: '14px'
+      size: '16px'
     },
     lineHeights: {
       body: 1.6,
@@ -16,10 +21,10 @@ export default {
       12,
       14,
       16,
-      20,
+      19,
       24,
       32,
-      44,
+      48,
       64,
       96
     ],
