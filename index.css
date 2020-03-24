@@ -1,26 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-@font-face {
-  font-family: 'cartograph';
-  font-weight: bold;
-  font-style: italic;
-  src: url('./static/CartographSansCF-BoldItalic.otf');
-}
-@font-face {
-  font-family: 'cartograph';
-  font-weight: bold;
-  font-style: normal;
-  src: url('./static/CartographSansCF-Bold.otf');
-}
-@font-face {
-  font-family: 'cartograph';
-  font-weight: normal;
-  font-style: italic;
-  src: url('./static/CartographSansCF-MediumItalic.otf');
-}
-@font-face {
-  font-family: 'cartograph';
-  font-weight: normal;
-  font-style: normal;
-  src: url('./static/CartographSansCF-medium.otf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+

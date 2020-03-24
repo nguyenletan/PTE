@@ -4,19 +4,19 @@ export default {
     head: {
     },
     fonts: {
-      body: '"cartograph", sans-serif',
-      heading: 'cartograph,serif',
+      body: '"IBM Plex Serif", sans-serif',
+      heading: 'IBM Plex Sans, serif',
       size: '14px'
     },
     lineHeights: {
-      body: 1.72,
+      body: 1.6,
       heading: 1.125
     },
     fontSizes: [
-      11,
-      13,
-      15,
-      17,
+      12,
+      14,
+      16,
+      20,
       24,
       32,
       44,
