@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@font-face {
+  font-family: 'cartograph';
+  font-weight: bold;
+  font-style: italic;
+  src: url('./font/cartograph/CartographSansCF-BoldItalic.otf');
+}
+@font-face {
+  font-family: 'cartograph';
+  font-weight: bold;
+  font-style: normal;
+  src: url('./font/cartograph/CartographSansCF-Bold.otf');
+}
+@font-face {
+  font-family: 'cartograph';
+  font-weight: normal;
+  font-style: italic;
+  src: url('./font/cartograph/CartographSansCF-MediumItalic.otf');
+}
+@font-face {
+  font-family: 'cartograph';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./font/cartograph/CartographSansCF-medium.otf');
+}

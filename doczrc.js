@@ -1,9 +1,11 @@
 export default {
   title: "PTE Academic: Pearson English Language Test",
   themeConfig: {
+    head: {
+    },
     fonts: {
-      body: '"Avenir Next", sans-serif',
-      heading: 'serif',
+      body: '"cartograph", sans-serif',
+      heading: 'cartograph,serif',
       size: '14px'
     },
     lineHeights: {
@@ -11,10 +13,10 @@ export default {
       heading: 1.125
     },
     fontSizes: [
-      12,
-      14,
-      16,
-      18,
+      11,
+      13,
+      15,
+      17,
       24,
       32,
       44,
