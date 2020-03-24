@@ -1,0 +1,13 @@
+{
+  "name": "PTE",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "dependencies": {
+    "docz": "latest",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
