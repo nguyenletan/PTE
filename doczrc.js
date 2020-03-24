@@ -1,5 +1,5 @@
 export default {
-  title: "PTE Academic: Pearson English Language Test",
+  title: "Pearson English Language Test",
   themeConfig: {
     head: {
     },
