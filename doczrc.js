@@ -1,6 +1,18 @@
 export default {
   title: "Pearson Tests of English",
   themeConfig: {
+    colors: {
+      text: '#000',
+      background: '#fff',
+      primary: '#07c',
+      modes: {
+        dark: {
+          text: '#fff',
+          background: '#000',
+          primary: '#0cf',
+        }
+      }
+    },
     head: {
     },
     styles: {
@@ -9,7 +21,7 @@ export default {
       },
     },
     fonts: {
-      body: '"Merriweather", sans-serif',
+      body: '"Roboto Slab", sans-serif',
       heading: 'IBM Plex Sans, serif',
       size: '16px'
     },
