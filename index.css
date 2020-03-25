@@ -5,3 +5,30 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+.input {
+  font-size: 17px;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: italic;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+textarea {
+  font-size: 17px;
+  font-family: "Merriweather", serif;
+}
+
+.small-input {
+  width: 5rem;
+}
+
+.medium-input {
+  width: 10rem;
+}
+
+.large-input {
+  width: 15rem;
+}
