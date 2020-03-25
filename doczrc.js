@@ -14,15 +14,15 @@ export default {
       size: '16px'
     },
     lineHeights: {
-      body: 1.6,
+      body: 1.66,
       heading: 1.125
     },
     fontSizes: [
       12,
       14,
       16,
-      19,
-      24,
+      18,
+      22,
       32,
       45,
       64,
