@@ -1,5 +1,23 @@
 export default {
   title: "Pearson Tests of English",
+  menu: [
+    'Pearson Tests of English',
+    { 
+      name: 'Collocations', 
+      menu: [
+        'Introduction', 
+        '1. Family', 
+        '2. Relationships',
+        '3. Appearance',
+        '4. Character and Behavior',
+        '5. Feeling',
+        '6. Houses and Apartments',
+        '7. Eating',
+        '8. Movies and Books',
+        '9. Music'
+      ] 
+    }
+  ],
   themeConfig: {
     // colors: {
     //   text: '#000',
