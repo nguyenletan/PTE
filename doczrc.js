@@ -1,18 +1,18 @@
 export default {
   title: "Pearson Tests of English",
   themeConfig: {
-    colors: {
-      text: '#000',
-      background: '#fff',
-      primary: '#07c',
-      modes: {
-        dark: {
-          text: '#fff',
-          background: '#000',
-          primary: '#0cf',
-        }
-      }
-    },
+    // colors: {
+    //   text: '#000',
+    //   background: '#fff',
+    //   primary: '#07c',
+    //   modes: {
+    //     dark: {
+    //       text: '#fff',
+    //       background: '#000',
+    //       primary: '#0cf',
+    //     }
+    //   }
+    // },
     head: {
     },
     styles: {
@@ -33,10 +33,10 @@ export default {
       12,
       14,
       16,
-      18,
+      19,
       22,
       32,
-      45,
+      42,
       64,
       96
     ],
