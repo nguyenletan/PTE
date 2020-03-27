@@ -40,8 +40,8 @@ export default {
       },
     },
     fonts: {
-      body: '"Roboto Slab", sans-serif',
-      heading: 'IBM Plex Sans, serif',
+      body: '"Lora", sans-serif',
+      heading: '"IBM Plex Sans", serif',
       size: '16px'
     },
     lineHeights: {
