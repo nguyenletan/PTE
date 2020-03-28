@@ -5,7 +5,7 @@ export default {
     {
       name: 'Collocations',
       menu: [
-        '0. Introduction',
+        'Introduction',
         '1. Family',
         '2. Relationships',
         '3. Appearance',
