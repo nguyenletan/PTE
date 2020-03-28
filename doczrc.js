@@ -15,7 +15,8 @@ export default {
         '7. Eating',
         '8. Movies and Books',
         '9. Music',
-        '10. Sports'
+        '10. Sports',
+        '11. Health and Sickness'
       ]
     }
   ],
