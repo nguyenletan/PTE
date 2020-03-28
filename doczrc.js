@@ -5,11 +5,11 @@ export default {
     {
       name: 'Collocations',
       menu: [
-        'Introduction',
+        '0. Introduction',
         '1. Family',
         '2. Relationships',
         '3. Appearance',
-        '4. Character and Behavior',
+        '4. Character and Behaviour',
         '5. Feeling',
         '6. Houses and Apartments',
         '7. Eating',
