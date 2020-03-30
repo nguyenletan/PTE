@@ -16,7 +16,9 @@ export default {
         '8. Movies and Books',
         '9. Music',
         '10. Sports',
-        '11. Health and Sickness'
+        '11. Health and Sickness',
+        '12. Computers',
+        '13. Study'
       ]
     }
   ],
@@ -34,6 +36,7 @@ export default {
     //   }
     // },
     head: {
+      
     },
     styles: {
       h1: {
