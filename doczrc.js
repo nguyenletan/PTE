@@ -45,8 +45,9 @@ export default {
       },
     },
     fonts: {
-      body: '"Lora", sans-serif',
-      heading: '"IBM Plex Sans", serif',
+      body: 'serif',
+      heading: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+      monospace: 'Menlo, monospace',
       size: '16px'
     },
     lineHeights: {
@@ -56,11 +57,11 @@ export default {
     fontSizes: [
       12,
       14,
-      16,
-      19,
-      22,
+      17,
+      20,
+      24,
       32,
-      42,
+      40,
       64,
       96
     ],
