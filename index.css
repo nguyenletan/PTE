@@ -6,7 +6,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Slab:wght@400;500;700;800&display=swap');*/
 /* @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 .input {
-  font-size: 17px;
+  font-size: 20px;
   font-family: serif;
   font-weight: 700;
   font-style: italic;
@@ -14,16 +14,17 @@
   padding-right: 0.25rem;
   border: none;
   border-bottom: 1px solid black;
+  text-align: center;
 }
 
 textarea {
-  font-size: 17px;
+  font-size: 20;
   font-family: serif;
   padding: 0.5rem;
 }
 
 .small-input {
-  width: 5rem;
+  width: 7rem;
 }
 
 .medium-input {
