@@ -18,7 +18,7 @@
 }
 
 textarea {
-  font-size: 20;
+  font-size: 20px;
   font-family: serif;
   padding: 0.5rem;
 }
@@ -33,4 +33,8 @@ textarea {
 
 .large-input {
   width: 15rem;
+}
+
+.wrong {
+  color: red;
 }
