@@ -45,9 +45,9 @@ export default {
       }
     },
     fonts: {
-      body: "serif",
+      body: "'EB Garamond', serif",
       heading:
-        '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+        '"Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       monospace: "Menlo, monospace",
       size: "16px"
     },
