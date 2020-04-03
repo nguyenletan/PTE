@@ -20,7 +20,8 @@ export default {
         '12. Computers',
         '13. Study',
         '14. Academic English',
-        '15. Work'
+        '15. Work',
+        '16. Business'
       ]
     }
   ],
@@ -38,7 +39,7 @@ export default {
     //   }
     // },
     head: {
-      
+    
     },
     styles: {
       h1: {
