@@ -23,6 +23,7 @@ export default {
         "15. Work",
         "16. Business",
         "17. Money",
+        "18. Travel"
       ]
     }
   ],
