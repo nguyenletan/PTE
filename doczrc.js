@@ -23,7 +23,8 @@ export default {
         "15. Work",
         "16. Business",
         "17. Money",
-        "18. Travel"
+        "18. Travel",
+        "19. Weather"
       ]
     }
   ],
@@ -57,6 +58,6 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [12, 14, 17, 20, 24, 32, 40, 64, 96]
+    fontSizes: [14, 16, 18, 22, 24, 32, 40, 64, 96]
   }
 };

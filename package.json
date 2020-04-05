@@ -6,7 +6,7 @@
     "docz:serve": "docz build && docz serve"
   },
   "dependencies": {
-    "docz": "2.3.0",
+    "docz": "2.3.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "theme-ui": "0.3.1"
