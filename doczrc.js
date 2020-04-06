@@ -24,7 +24,8 @@ export default {
         "16. Business",
         "17. Money",
         "18. Travel",
-        "19. Weather"
+        "19. Weather",
+        "20. City"
       ]
     }
   ],
