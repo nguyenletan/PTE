@@ -41,3 +41,6 @@ textarea {
 .wrong {
   color: red;
 }
+.incompleted {
+  color: coral;
+}
