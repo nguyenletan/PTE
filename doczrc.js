@@ -25,7 +25,8 @@ export default {
         "17. Money",
         "18. Travel",
         "19. Weather",
-        "20. City"
+        "20. City",
+        "21. Countryside"
       ]
     }
   ],
@@ -47,6 +48,6 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [14, 16, 18, 22, 24, 32, 40, 64, 96]
+    fontSizes: [14, 16, 18, 21, 24, 32, 40, 64, 96]
   }
 };
