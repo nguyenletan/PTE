@@ -26,7 +26,8 @@ export default {
         "18. Travel",
         "19. Weather",
         "20. City",
-        "21. Countryside"
+        "21. Countryside",
+        "22. Crime"
       ]
     }
   ],
