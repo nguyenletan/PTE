@@ -27,7 +27,8 @@ export default {
         "19. Weather",
         "20. City",
         "21. Countryside",
-        "22. Crime"
+        "22. Crime",
+        "23. Law/Justice"
       ]
     }
   ],
