@@ -28,7 +28,8 @@ export default {
         "20. City",
         "21. Countryside",
         "22. Crime",
-        "23. Law/Justice"
+        "23. Law/Justice",
+        "24. War & Peace"
       ]
     }
   ],
