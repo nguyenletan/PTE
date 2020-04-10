@@ -29,7 +29,8 @@ export default {
         "21. Countryside",
         "22. Crime",
         "23. Law/Justice",
-        "24. War & Peace"
+        "24. War & Peace",
+        "25. Global Problems"
       ]
     }
   ],
