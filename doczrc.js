@@ -30,7 +30,8 @@ export default {
         "22. Crime",
         "23. Law/Justice",
         "24. War & Peace",
-        "25. Global Problems"
+        "25. Global Problems",
+        "26. Time"
       ]
     }
   ],

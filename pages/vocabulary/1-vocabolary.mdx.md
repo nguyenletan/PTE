@@ -4,7 +4,7 @@ menu: Vocabulary
 route: /vocabulary/1-vocabulary
 ---
 
-# 1. Vocabulary
+# 1. Vocabulary 1.1
 
 1. astronomical observatory _/ˌastrəˈnämikəl əbˈzərvəˌtôrē/_ = đài quan sát thiên văn
 
@@ -45,3 +45,32 @@ route: /vocabulary/1-vocabulary
 19. obstacle (adj) = trở ngại
 
 20. prey (noun) = con mồi != predator = động vật săn mồi
+
+# Vocabulary 1.2
+
+1. restive _/ˈrestiv/_ (adj) = cứng đầu headstrong, obstinate, tenacious, rebellious, willful, restive
+
+2. in the shape of = in the from of = dưới hình thức
+
+3. intertwine _/ˌintərˈtwīn/_ = đan xen
+
+4. interpenetrate _/ˌintərˈpeniˌtrāt/_ = thâm nhập
+
+5. intervene _/ˌintərˈvēn/_ = can thiệp, xen vào
+
+6. interfere _/ˌintərˈfi(ə)r/_ = gây trở ngại, can thiệp  
+  example: don’t interfere with him
+
+7. take pride of place = đạt được vị trí quan trọng
+
+8. eke _/ik/_ out on = khó khăn lắm mới đạt được
+
+9. repute _/riˈpyo͞ot/_ (noun) = danh tiếng
+
+10. reputation _/ˌrepyəˈtāSHən/_ = uy tín, danh tiếng
+
+11. undertaking = đảm nhiệm
+
+12. child-centric mother = người mẹ xem con cái là trên hết
+
+
