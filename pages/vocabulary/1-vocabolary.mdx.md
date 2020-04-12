@@ -4,7 +4,9 @@ menu: Vocabulary
 route: /vocabulary/1-vocabulary
 ---
 
-# 1. Vocabulary 1.1
+# 1. Vocabulary (1)
+
+## 1.1 Vocabulary 1.1
 
 1. astronomical observatory _/ˌastrəˈnämikəl əbˈzərvəˌtôrē/_ = đài quan sát thiên văn
 
@@ -16,7 +18,7 @@ route: /vocabulary/1-vocabulary
 
 5. punk _/pəNGk/_ (adj) = kiểu tóc chỉa chỉa lên
 
-6. darn _/därn/_ (verb) = vá 
+6. darn _/därn/_ (verb) = vá
 
 7. twigs _/wig/_ (adj) = cành non
 
@@ -24,7 +26,7 @@ route: /vocabulary/1-vocabulary
 
 9. I **opt against** that method = tôi ko chọn phương thức kia
 
-10. I **opt to** *apply* this method = tôi chọn áp dụng phương thức này
+10. I **opt to** _apply_ this method = tôi chọn áp dụng phương thức này
 
 11. experience**s**= trải nghiệm
 
@@ -34,7 +36,7 @@ route: /vocabulary/1-vocabulary
 
 14. constructive (adj) = mang tính xây dựng
 
-15. exclusive (adj) = độc quyền != inclusive 
+15. exclusive (adj) = độc quyền != inclusive
 
 16. intercept (verb) = ngăn chặn
 
@@ -46,7 +48,7 @@ route: /vocabulary/1-vocabulary
 
 20. prey (noun) = con mồi != predator = động vật săn mồi
 
-# Vocabulary 1.2
+## 1.2 Vocabulary 1.2
 
 1. restive _/ˈrestiv/_ (adj) = cứng đầu headstrong, obstinate, tenacious, rebellious, willful, restive
 
@@ -59,7 +61,7 @@ route: /vocabulary/1-vocabulary
 5. intervene _/ˌintərˈvēn/_ = can thiệp, xen vào
 
 6. interfere _/ˌintərˈfi(ə)r/_ = gây trở ngại, can thiệp  
-  example: don’t interfere with him
+   example: don’t interfere with him
 
 7. take pride of place = đạt được vị trí quan trọng
 
@@ -72,5 +74,3 @@ route: /vocabulary/1-vocabulary
 11. undertaking = đảm nhiệm
 
 12. child-centric mother = người mẹ xem con cái là trên hết
-
-
