@@ -31,7 +31,8 @@ export default {
         "23. Law/Justice",
         "24. War & Peace",
         "25. Global Problems",
-        "26. Time"
+        "26. Time",
+        "27. Sound"
       ]
     }
   ],
@@ -53,6 +54,6 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [12, 14, 16, 18, 24, 32, 40, 64, 96]
+    fontSizes: [12, 14, 16, 19, 24, 32, 40, 64, 96]
   }
 };
