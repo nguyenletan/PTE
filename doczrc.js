@@ -32,7 +32,8 @@ export default {
         "24. War & Peace",
         "25. Global Problems",
         "26. Time",
-        "27. Sound"
+        "27. Sound",
+        "28. Size"
       ]
     }
   ],
