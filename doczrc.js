@@ -33,7 +33,8 @@ export default {
         "25. Global Problems",
         "26. Time",
         "27. Sound",
-        "28. Size"
+        "28. Size",
+        "29. Light"
       ]
     }
   ],
