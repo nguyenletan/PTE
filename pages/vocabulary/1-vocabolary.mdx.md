@@ -74,3 +74,5 @@ route: /vocabulary/1-vocabulary
 11. undertaking = đảm nhiệm
 
 12. child-centric mother = người mẹ xem con cái là trên hết
+
+13. archaeology _/ˌɑːkiˈɒlədʒi/_ = khảo cổ học
