@@ -34,7 +34,8 @@ export default {
         "26. Time",
         "27. Sound",
         "28. Size",
-        "29. Light"
+        "29. Light",
+        "30. Color"
       ]
     }
   ],
@@ -57,6 +58,6 @@ export default {
       heading: 1.125
     },
     fontSizes: [12, 14, 15, 20, 24, 32, 40, 64, 96],
-    space: [0, 4, 8, 16, 40, 64, 128, 256, 512],
+    space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   }
 };
