@@ -35,7 +35,8 @@ export default {
         "27. Sound",
         "28. Size",
         "29. Light",
-        "30. Color"
+        "30. Color",
+        "31. Texture"
       ]
     }
   ],
