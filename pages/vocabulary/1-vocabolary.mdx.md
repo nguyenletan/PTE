@@ -76,3 +76,9 @@ route: /vocabulary/1-vocabulary
 12. child-centric mother = người mẹ xem con cái là trên hết
 
 13. archaeology _/ˌɑːkiˈɒlədʒi/_ = khảo cổ học
+
+## 1.3 Vocabulary 1.3
+
+1. fluating = pho truong
+2. radical = co ban
+3. 
