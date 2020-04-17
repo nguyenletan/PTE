@@ -36,7 +36,8 @@ export default {
         "28. Size",
         "29. Light",
         "30. Color",
-        "31. Texture"
+        "31. Texture",
+        "32. Smell"
       ]
     }
   ],
