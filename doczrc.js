@@ -40,7 +40,8 @@ export default {
         "32. Smell",
         "33. Taste"
       ]
-    }
+    },
+    "Write From Dictation"
   ],
   themeConfig: {
     head: {},
@@ -62,5 +63,6 @@ export default {
     },
     fontSizes: [12, 14, 15, 20, 24, 32, 40, 64, 96],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
-  }
+  },
+  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
 };
