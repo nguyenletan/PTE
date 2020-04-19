@@ -41,7 +41,8 @@ export default {
         "33. Taste"
       ]
     },
-    "Write From Dictation"
+    "Write From Dictation",
+    "Repeat Sentence"
   ],
   themeConfig: {
     head: {},
