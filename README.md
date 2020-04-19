@@ -1,2 +1,2 @@
 # PTE
-Demo site: [Demo 1](https://pte.netlify.com) or [Demo 2](http://pte.surge.sh/)
+Demo site: [Demo 1](https://pte.netlify.app) or [Demo 2](http://pte.surge.sh/)
