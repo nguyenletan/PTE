@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-
 import styled from 'styled-components'
 import t from 'prop-types'
 import { Textarea } from 'theme-ui'
@@ -25,7 +24,7 @@ const NewWord = styled('p')`
 
 const WriteFromDictation = ({transcript, audio, times, level, newwords}) => {
   const [showTranscript, toggleShowHide] = useState(false);
-  const NewWords = newwords.map(w=> {
+  const NewWords = newwords.map(w => {
     return <NewWord>{w}</NewWord>
   })
 
