@@ -17,6 +17,7 @@ const WriteFromDictationList = ({ start, total, data }) => {
           audio={s.audio}
           times={s.times}
           level={s.level}
+          newwords={s.newwords}
           id={"write-from-dictation-" + s.id}
           key={"write-from-dictation-" + s.id}
         />
