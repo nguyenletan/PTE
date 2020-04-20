@@ -1,6 +1,12 @@
 import React from "react";
 import t from "prop-types";
+import styled from "styled-components";
 import WriteFromDictation from "./WriteFromDictation";
+
+const Ol = styled('ol')`
+  padding: 0;
+  margin: 0 0 0 16px;
+`;
 
 const WriteFromDictationList = ({ start, total, data }) => {
   const listSentences = data.map(s => {
@@ -11,6 +17,7 @@ const WriteFromDictationList = ({ start, total, data }) => {
           audio={s.audio}
           times={s.times}
           level={s.level}
+          newwords={s.newwords}
           id={"write-from-dictation-" + s.id}
           key={"write-from-dictation-" + s.id}
         />
@@ -19,7 +26,7 @@ const WriteFromDictationList = ({ start, total, data }) => {
     return "";
   });
 
-  return <ol start={start}>{listSentences}</ol>;
+  return <Ol start={start}>{listSentences}</Ol>;
 };
 
 WriteFromDictationList.propTypes = {

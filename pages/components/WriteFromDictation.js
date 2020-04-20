@@ -24,11 +24,21 @@ const NewWord = styled("p")`
   font-style: italic;
 `;
 
+const Answer = styled("p")`
+  margin: 0;
+  color: #0B5FFF;
+` 
+
 const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
   const [showTranscript, toggleShowHide] = useState(false);
+  const [showAnswer, toggleShowAnswer]= useState(false);
+  const [answer, changeAnswer] = useState('');
+  const [isCorrect, checkAnswer] = useState(false);
   const NewWords = newwords.map(w => {
     return <NewWord>{w}</NewWord>;
   });
+
+  const IsCorrectAnswerText = answer !== "" ? isCorrect ? " - Correct" : " - Incorrect" : ""  
 
   return (
     <Question>
@@ -36,14 +46,18 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         {showTranscript ? transcript : ""}&nbsp;
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
+        {showAnswer ? <Answer>{answer}</Answer>: ""}
         {NewWords}
       </Transcript>
       <Button
-        m={0}
-        pt={0}
-        pb={0}
-        pl={2}
-        pr={2}
+        mt={0}
+        ml={0}
+        mb={0}
+        mr={2}
+        pt={1}
+        pb={1}
+        pl={3}
+        pr={3}
         sx={{
           color: "text",
           bg: "background",
@@ -64,11 +78,42 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         Your browser does not support the audio element.
       </Audio>
       <Textarea
+        onChange={(event) => {
+          changeAnswer(event.target.value)
+          checkAnswer(answer === transcript)
+        }}
+        value={answer}
+        placeholder="Write your answer here"
         rows={2}
         sx={{
-          fontSize: 3
+          fontSize: 3,
+          mb: 1
         }}
       />
+      <Button
+        m={0}
+        pt={1}
+        pb={1}
+        pl={3}
+        pr={3}
+        sx={{
+          color: "background",
+          bg: "primary",
+          fontSize: 2,
+          border: 1,
+          borderColor: "primary",
+          fontFamily: "IBM Plex Sans",
+          borderStyle: "solid",
+          borderRadius: 4,
+          fontWeight: "bold"
+        }}
+        onClick={() => {
+          toggleShowAnswer(!showAnswer)
+          toggleShowHide(!showAnswer)
+        }}
+      >
+        {showAnswer ? "Hide the comparation" : "Compare with transcript"}
+      </Button>
     </Question>
   );
 };
