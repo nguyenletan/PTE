@@ -346,5 +346,14 @@ const WriteFromDictationDataFrom0To100 = [
     priority: "normal",
     newwords: ["astronaut /ˈæstrənɔːt/"]
   },
+  {
+    id: 61,
+    transcript: "Banks charge interests from whom they lent money to.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Faf2443cf-5b97-4183-a422-55981cb149cc.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=JY0Gu79suw2CiWv6w%2BI7B%2FmAKcm4t8%2FwR%2BYHuUfBs8%2BevDHkOUSlErrpF6iGppEIkhcGJLYxd7%2FJX0S%2BZyAXUX7yZweAyQBRu5TyWP8ZyNh13CCuy%2BCd4BpoQV%2BSSB1F9TG1lFIoV2J8QhahbTDV37usGgM8beYMAe3EsiGahNId5LqVboNbdoH7ZEpcG7%2B75RP%2Fo1g13yeAD2zykG5cPXohvzJUX8fXOQ9EUSife4nrRxut0xF8zCDLO7k17Hx9biCj7W%2FEt5yzNVZB6TxJmQRxEPcx1NODnZJxMDtfJiBq6UJVAswTChxiEgcZS%2FYMCRr2QkYrTEi3c5Whsa22xA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["astronaut /ˈæstrənɔːt/"]
+  },
 ];
 export default WriteFromDictationDataFrom0To100;
