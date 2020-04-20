@@ -39,7 +39,8 @@ export default {
         "31. Texture",
         "32. Smell",
         "33. Taste",
-        "34. Statistics"
+        "34. Statistics",
+        "35. Movement & Speed"
       ]
     },
     "Write From Dictation",
