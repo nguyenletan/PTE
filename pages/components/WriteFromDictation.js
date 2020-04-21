@@ -27,7 +27,7 @@ const NewWord = styled("p")`
 const Answer = styled("p")`
   margin: 0;
   color: #0B5FFF;
-` 
+`
 
 const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
   const [showTranscript, toggleShowHide] = useState(false);
@@ -38,7 +38,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
     return <NewWord>{w}</NewWord>;
   });
 
-  const IsCorrectAnswerText = answer !== "" ? isCorrect ? " - Correct" : " - Incorrect" : ""  
+  const IsCorrectAnswerText = answer !== "" ? isCorrect ? " - Correct" : " - Incorrect" : ""
 
   return (
     <Question>
@@ -64,7 +64,6 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
           fontSize: 2,
           border: 1,
           borderColor: "text",
-          fontFamily: "IBM Plex Sans",
           borderStyle: "solid",
           borderRadius: 4,
           fontWeight: "bold"
@@ -102,7 +101,6 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
           fontSize: 2,
           border: 1,
           borderColor: "primary",
-          fontFamily: "IBM Plex Sans",
           borderStyle: "solid",
           borderRadius: 4,
           fontWeight: "bold"
