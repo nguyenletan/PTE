@@ -499,5 +499,50 @@ const WriteFromDictationDataFrom0To100 = [
     priority: "normal",
     newwords: ["momentum /məˈmentəm/ = động lượng học", "mass and velocity = khối lượng và vận tốc"]
   },
+  {
+    id: 78,
+    transcript: "Much of the research is carried out in the laboratory.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8364b89f-6154-405c-8ccc-6dc0676465e4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=OGcq1%2B7EYicHWbHg9flQbqNFPmjsv4dxn%2B3xUjQwJN3PgqM94IY6elTje6AaRK36Z9aC6%2B7XuJ611cPfzZ6nPHIgBLbJoLBvHiqvW6OlMDTPJhLtMSNeVsdYzVOJK0M6k4fzxZsrCfCTYbor3dLMRr7TIhHHwuPfxlpwWmoYyBjcM%2FyhMSbZ6NgHNxZFe3OlDYd9XvaXMwWEmKsVdBCuCW5JokwID3JJQnpgjVYsDqSOFT%2Bzcl48Inea2J2cU0%2FXSz0HYxsoEB6d5VUP%2B4UOlrhp0XCwm3BPwJ3EQjiZWN8Od7rZ49db5ywpWRJpZrumyDiYTtMA8sWRJv4WpHpzfA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 79,
+    transcript: "Please write down the name of the author and the year of the publication.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3f4c833a-5f89-4aca-a441-e905e66943a5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=TJyAFU3mbgLyc09N3aH41ChVn3Y1UHESWm1kSITKlnS8AkZzP6Nvchf1FE1F4LrQCrcORFnTkAFhI2xN6dAw0%2FoWitapCg%2BmgNndWDFh8ujuxyClncb%2BZWIORPsijWwazq%2FJiRHeuqQXiwmfrqw59xK2vJolBSCo6pA6aGT%2FpwGytIe9aimv%2BjxfZJQjzzV1Ra4W2mIRjc8O5JnwjZXIO12LnYVH78tLWbplLVsZdSxR45dGk%2BWJ1G0OmZisso4imYGRm%2Fc6cxInd%2FGlD2oxVPZHsp9VV4ZhizY2djj4UkGc4R%2F5GZzRPWf0wGlMd1DrvX4Hgoz4xB0a7p57F40qhw%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 80,
+    transcript: "Protective clothing must always be worn all the time.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F51062d33-c4bb-4169-840b-f7dedf8b3f02.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=O8vofhYpP3ybFunUoQ2eRT%2BDjpDSedOrUqZN4eGcOEzTvD5z4OOoZrlI3rsiUTSU2fmKjfFuJP7kZmQ%2FagK3TKUVLRSqEc5Ea6C3AcOIYqQ%2Ffj8nCsL4ciCQ%2FmRiIS24%2B0NtbMREJ89br5xZkroA54IN6LtilT%2B0PMfPu%2FOLSKO78E5%2Bn%2Bg%2BS9pZ9vjsdi0mgN2Bo0aGOov1ayzTRRH%2FDBSAKIIqehkiTHrIVCUtcq47hDAU9Pn%2FMzfPhqalMjeVDXpsbQ%2F6r7yIbH5wEumXIh9MrYyfHSSz1Y7d3r%2BhcvBPRKSFREvYAttrxLXIrQ9%2Bq9TjB7KDkPKydOgwKGJDWA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["protective clothing = quần áo bảo hộ"]
+  },
+  {
+    id: 81,
+    transcript: "Salt is extracted from seawater or from under the ground.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ff5d6d1f4-b5e5-4f87-b181-b016b1a8bf45.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Sd1HLQar4oU%2FmKMvbOx2ZVykydD0MuTARq1WMu1DOJyCBsYO%2FPczEiKLKXmpLwWiM17fo3ONNjVboPLO6Al5eB6BiJ1O7gD%2Fnn3UMbaTodZYQNA%2F%2FqPYAmYFw26Zowbn7V8ilvEIV5IkBrwMYELZU42K4uG%2FPTDAvrpJINil9bYSsE9Tl2wyTxFnz82G%2BJZHgq23idp4qPtsiX0riH5i5RDdXUrWFvJCFaTRiua%2BNFmo8cAzFWOYgUjqHmqxtCazkREl7P7HhIcpOjVbDmtaluXa67sHFcbKtlpggTl25rBNwv30i1%2BElnOzYCuohyQzTu%2BtPzTsaaF1uzs2mnN0UQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["protective clothing = quần áo bảo hộ"]
+  },
+  {
+    id: 82,
+    transcript: "Scientists recognize differences among water molecule content.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb8dc6d8c-91a5-4fd2-bb39-1ecfff6d117d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=U7K408%2FSnro4n6Ul3O9ElPChdgY6feRxeIPbPY%2BQBlCYvAMcQUhw7QjG9qhrbyQN5jqIoRQp02WwFEQduUyjVlxkYfYv%2BG9%2FaME7UpJ4uzINiVpvTTSnOBNGx%2BYkIDeygVyapBShW8ts5eD8ux5l5SNJkU78ZHU3qIJqt%2F56XyAw0rWEPPdK2%2F5hZP%2F3kAVZbRGVxlO95V9rlvDIAr2Lefc8aE3YoeRcBoyKMEo1ScTnElY3p9gRq%2By2uSF%2BTgFcx9ETtMeKlMrVum9XnnXFzgVtd%2BMxl90r5rTMfCeQJXckgUttZOacA3unCeW6crh7mlgjG3jaxXQH0qkg%2FRSmGA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["protective clothing = quần áo bảo hộ"]
+  },
 ];
 export default WriteFromDictationDataFrom0To100;
