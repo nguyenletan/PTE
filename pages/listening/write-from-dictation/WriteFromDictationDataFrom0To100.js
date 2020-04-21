@@ -355,5 +355,149 @@ const WriteFromDictationDataFrom0To100 = [
     priority: "normal",
     newwords: ["astronaut /ˈæstrənɔːt/"]
   },
+  {
+    id: 62,
+    transcript: "Blue whales are the largest mammal that they have ever lived on earth.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fabcf5abc-dd78-42a8-b4cf-21dc78eb4a7e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=TFKWm6UwjDRUTlqyk1LPQT0Bm%2BhHHgrgUyMtX8C93V9Fw8AEGZBFtPNDH1n%2FGiPn4QqepvNns0ozfUjEnzwFeiCjJymbi38jsvmT%2FzwFiHJBqyCk%2FHihdet9a0eiyskneg5tm0x2XBFqtzLtbftd1NhhgZsmS6xgK07OQWhiMUfCofKHZdwWOWul5bKqbFjkXbxO4bmT0yZ7%2BGVfWXlRsc31W%2F3BmUR4prYhNJn4IP1bApIT%2BclcwpnBDzeb7qT5ysalp%2F4ScRXJTsK5v7ZoTXAQ8IQCwUG7L%2F649uVBSh4pro0yhmtGG%2Bg%2BtFG02%2F%2FEqBweguja5mIpxJhCGHWD5Q%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 63,
+    transcript: "Courses are assessed by group work and individual assignment.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Feaa2066b-00c2-48ed-8ae6-c645ea7006cb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=iUBRC3ndc2YqccYUs%2Bf%2BWuPz8v4yXAl1FQk0DI7z6i7TUq3SDZ6bjrPm7BuOQhvBI60YYRk4F%2FEVaqH%2B1z%2FQGeR3IQPGQKO%2Fn90H%2FbFjxEDy4DJskKbx7CBFUcS%2BfQxjdlvHfvZ1mhoX8vyrJERY8DT0CymD7Q24RIH8HyUg6pUreXrrX5CJm6x8MFKbbY2o%2ByDokSy5vycl7iIsJuI64LNLt78n8NaOrgscTHqsRtVaAkle4dM9Xv4lkGnMjyZsyQE7RAAe4ujvYthjDLZi6hc0ZHesq0nXYr0BCJgnKBkfvFbynLN1lxiy6RDmIcxJiowf5jkclW4JJ3lhqTU%2FHg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 64,
+    transcript: "Dealing with the growing of population is a challenge for many governments.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb411877c-f2eb-4bcf-a263-c3aa430b23c5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=iQMX1M%2FXtNGCmaCznSof9OIpXhQ3r8NHk557c%2BD3RowJQNkgM9lLGwZ%2FPh3DYLr8KMoa2hT0rYwMCYW%2BF94JRxKQRgvEUyCttTKaG3uMdz9KDTUAyW%2BTm4FHuyRbpXRblPSOTe7Pe3D%2FCyvG1Sr%2BYz7ybT18ujs%2BAW8B0gzJHETeEJ7C9ySOFnVsEiPGQvyzzEnNnIJyhbd4bcIBLvqjr1R%2FZdrBKyLg1E%2FJ4Y8Ln22iacO6iE9ukJBIo5cAZ6mV5nevQID6QNIS0mJ5QNKWVP%2B2dPZgeW%2FMsjlwniqoQ8S7hdQVjyTUWZtCx08UYAq9BueJ0G5SfE0EnBWojmi%2FPw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 65,
+    transcript: "Every student has regular meeting with his or her personal tutor.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F0a5ca8b3-fd6b-49ed-90f6-92f42a39816d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=D0SVlYQVJYp6Fg2q09qm%2BJqkoNLKlRkpqSZtfz41HvMu0V8DzvHm6%2FTSJwX%2FtOv07g%2B0EYo7IHhm%2Fz%2BnTdg8Z6ZfAaVA1XPwrLwdZ3h%2BlPXLUef388lQI%2Faw9%2BFJDLnLM1Bv9mW286PinviT9a3CxW2yRxY%2Fw%2BrTLRlTWBYoZbkEyUhn8z5H0Mp5TKh7n1m5q5ob61KBwfvbAvqV8DJnbscjluxXtmDkvSLVQx6Rh04isp3KiwUeKcA7Oxap6CCyS03yPONWrYv2BQ33U5HUxGWqbdKNOTJrGobgp4278490DqehYK8YwatEUFd6T6zGkK79gcANeSSuR5gYmANKWQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 66,
+    transcript: "Firm conclusions can be established through rigorous experiments.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F513eda64-0938-4952-b79a-88de6432918b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=b1158N1%2FBEyjB7YhT4Z%2BAU1OHlT8td0tFQYjskgDUMCDV2FQizT9eJH9wrTnHhenCkkz536rOCiEZhydhTEBZqusZ40JyMhfBqvjrWZtjRuzesXOmbPU0ZD4pM7xybq9q8q%2Bu%2B9wQ%2F5ajV2q6hTgLjBmzXAUDO5ij7c7XqhEjhToMzbI7GMI%2FXWHXs8A7GMsHqLdh%2B7HT%2BUc0Z28aohM53sp7PvSRjjcNgNGSGRWlmEvzcrtyUAHXo3iCtaHNrRgSLoNFUdrrKO04qzJELf7P%2FIi6NRQwvUqEOftVxLrmW1Pbo35F2JhUqap8grHVk2O3%2FabKmkfzzt10n0hMATJEQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 67,
+    transcript: "Global connections increased in academic communities, thanks to social media.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F050b6edc-5c0f-4f23-b6a3-bb7b492dafc5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=MUOcyTNfgg%2FaBlxGnQWXCUlH32feLKQyBAnuK66imI8wu%2F4iOGloKVAFVG4Gc4qQLO4nJ5buw4ni61o2QhhRt7xfz0JStDXF6CFKGTSyWylx1XIU5YdtqDKhIAOQ4OBNrIUbXe7K8Y1ctIx3wdOzt70LGVrtF%2B4dN7ckyY%2BIjc89O3LRPrIdJ48bydr%2FXlHK34%2FkYQgRVAuQWZ8kOOave33Xa6UaF7pwcyES2uL1p9IpUzn4%2FVs05rE%2FaFp707z%2BpjlhYjHKHTfn%2FZOeAIw%2F8NKRmyC77jw3xd6lODir0cUrFvhI8O579PbrCaeXHMMk6dDbyNqujC98jaIvajRRvg%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 68,
+    transcript: "Graphs and charts allow allowed data to be more easily understood.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1ad95935-646b-41d8-b953-4320f008dc2b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=a5QuSybdareqHCSDU42mX4%2F1RTgMo7C3Ghp0mRrnseONUOmushol4%2BNXzRJpdhe6%2FCdb1xulTFQt5XA2wVM3SV9d0GUcyTrDFdT6qXgAQr42Q8CFgNrNIUKJofZoyBXduc%2Fdc5eDsYqDGVf0KqEvaguUkYqE9NUz%2BV46%2BKN%2BsKkWj2zIMVUGE7G7Yi9yQlFtcLySFJUpCd7c6AMP7ZkoVOGf6nWKVaM4bLHNB%2BxRyFSYh%2B3U8uN9rcC6I8nPuCgpJWRdFUcE684NR%2F1f0XDGVeQFpxyhnMWGlt9pORc%2FswCHBx0nTGG3Q8FO%2FwDQvcD8SGgYAITKPLPaTL4ufsWe8Q%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 69,
+    transcript: "Graphs are often useful for geographical research.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa95b3e09-bc48-4466-a9a1-d4ceba28d81d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=R8ZfBOxF6KkI7D5H9wE%2B10B%2BDSejImDoxfvU2rwSQfrY2rVox6XqLFM3RoCARVrsPMGTRaLvf%2Be7f8YngRLibddQDefe2l3ZvfjjbZ2yPPM7vldfmNolcbq4djGRJ3mtjivCz64CySMV5QC2ALsK9RZ2a4rSsoHelO2gXgo61B9KVb5tGNs48etmPJpn7DpjBUundMibi44rLWkpUdtchG9cVFtHqgOEG2qZd1yqpoYfTk2rRsbd6A0jfyaxvKbCH5MR16RJKqNDfmJgE0Lr3hYShv05v3%2Baii9ATIeVWBOozRCWQfH9uyfE8Fd%2FDCy63YYbF2VpPGOIgTBrs3kQCw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["geographical /ˌdʒiːəˈɡræfɪkl/ = địa lý"]
+  },
+  {
+    id: 70,
+    transcript: "Growing population has posed a challenge to many governments.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8d23877a-0620-45d6-9624-30f678ef0cd5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=IsFRj37j%2FPK59oKjPwZbot4WcwpUxbGYAOdejn0HKTa4zgqXyZFW54Ttv2s9vVjBDSKmPWw%2BRgJAg9wAHtoXDLqmJ1BSt3oHpn%2BAXERRCmfpbehhiWl%2FpEk9VD0Z5a16y6%2BLrrt4I5ObKrwLO44%2FCB1rJg5BwIbrqC%2F60pdDR8nRGvLtuErEbbbhn0Jwre8W9YyPtguzSIWJEMyS7BrTZwz0L1CRiDkaKz1OExjThFkYG9NlTqmb%2Fc2SsqDrOqTbbpqKWvI%2FNs%2F6fbJ6NakY%2F39klCgPjxjdVUiw3UYZjIrs%2FIp1POdBSABVN8a235r2l5J7PPJPqq1E1DYxCBlPMQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["pose /pəʊz/ = đặt ra"]
+  },
+  {
+    id: 71,
+    transcript: "Horizontal the line on the graph indicates there is no change.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F6e1d562b-cbdc-4fe9-963d-435c43854362.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Vo0tkVqNbe3cuBG6WuzagpJKbAfmzuswZrypBYYLwwISVf%2Bb%2FB7J5TvoD2EYBZwWIX0hxtcTSwuTI5f%2FHUgwIy2DRk34b%2Bnr6l2FWyMJq3l5UdoFGYnwgAWdMlVddZJgU93Cyu%2F%2Bwxz72CaqOjPm4OOgeNOHODfcC1yXRERELO1%2BidAOvoQOB%2FsRORrG0wpMfdEtpp9%2FJOWzPhDpvgamCswDwawAkwNuNlp3pautbPnVUBEHq1ts3LEyXWz0ucRDXcQibD8KUobF3lNzt9ZfqN2q48O7CbdKOVQrPnf5nZx0Ix9RqfcE3akBU2fM9F9WpZry3yee7fnnPqKAokJKgA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 72,
+    transcript: "It helps you to rationalize your arguments.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa62d0402-6396-455e-a4ea-578083497e23.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=K3V%2BHuoRFvtEOKr07KsdgTwFhjD1rthOB491s9MCqNObVC905a31xHxUx5XjCwD0iL9TwpI8FLywr4Dtr0M5CXFugfzdWQfOn%2FTDvPJicQPBbY9SkLtKzhA%2FzJdTrXED0cr0wo5x1M66dGWlc6bLThFJvb0G7zvsCqsI5O5wntFaSKabD2LkNDD6fdEMxhW%2FJC8oeTxRdswXqzIdHQED0RmU9UFORCxo714%2FVFHARIU3pzqyuIi6c%2BNyUYTDtxe6fKDnURCnDgzFbDay3txTPRxJK5lz2lpwuEQ%2BDkMYuf6RS4ygQhZXG6JWs3h%2B95k4CWId7hQPrK1UvPBrkDezgA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: ["rationalize /ˈræʃnəlaɪz/ = hợp lý hoá"]
+  },
+  {
+    id: 73,
+    transcript: "It is necessary to dress formally for the graduation ceremony.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fddacd948-f09e-4c5b-a389-b806f3cbc1bf.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=EKik2HzlLqlY%2B4fQcPIX2pYjLGxqLx2a5Aa20fqmgsOYljc2mp4Uqd90gQ5ChwEdK6xf5tgTdQbE63TkqB%2FO%2FWjRRfqzdxMtBRLFdQd%2BQJ5kNzOJxLNtqMe%2BsHBsL5KNbCIa1RB9wZ06fPA19nj81sc3tiEh7WvXjiT2IRHdTWT3u5clr4wcQWwVzhrhUM2njSusJ0cLYzi02CAG6nuNjG9CikKPK24AuMZQlKwuKcBrdkZUmVDFIZb7XXuMvfV5WNdfTxMn9CCbCvLIN5NnEvRIHtJy2GHkGO%2BGX8EPF0mvKwAnUiBqan6kBU%2FuggoA5dLUCnPsupyFxd19xaYnxA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 74,
+    transcript: "Library plays an important role in student's life.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F01d6093a-e61f-41aa-abc3-65d464f679eb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=K4R20kDzvd06D7Oh6AF6KqCeYRcyh73U2h9%2BQnSu18W1tHHld3QdVB49%2BNfpS2KL%2FpjaNON4pXjCTWCjOkPJmzUhnUAN0kjnJaYnhhCNIaoSxa7dNpqyhcJJnF8vn%2BQWxmmbdPt7k8E0hHb50x0ny8YDISFyx7nTxJlBVp9VJ1i9XZhgLQxSo%2BaWTUFNTN53MvZ4lxNxQ94tpsu5DbaFMRObNXCHRqLnFXZSHbeljRRulePHd%2BnxUUVbCGR0kpKfVS3YSc5O5gVYCUP2GPBqEEmIJJCdNQ9xnYRzaN%2BI8uUt%2F5irUSYqxd%2FMEYhzMGfXyfuBhbn3sNmmQAFKcxYCxg%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 75,
+    transcript: "Make sure you choose a course which provides great career opportunities.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F04503f63-633f-42a1-981b-6eb9b7cd2dab.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=D7eoLeWzkoeDaFUc5ZyF%2BubFIXgJtYl9IShPKZnpfH0ZojP2lVaRQ4yJBUewSodrFiY9zr2DSTahwQrElqQz72z6MaSLAku6QOEpGwKJ42YFLBVYezZmiM54h0ks%2BcOIImuRGr7GWDEDEAwWHo9YrYxcCqb3%2FiEyrDOG6sjJyl9sftGcC%2FLMhIOHtmNcn5kgslZrdZwDOgN3c1jT9Kbgfnq55299K58%2BRjT3fCwRy1RzlvWhipOoz2DB2CMqzMaVi3gfKhLz4ueH6%2FmXRm%2Bm3Ck1FfulJOcUMOpBbgMwPQvbNgPHXvmfkUxk1cqFuiuUIXZtfdKk2G%2BuQpEVE3HnVw%3D%3D",
+    level: "normal",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 76,
+    transcript: "Make sure you've saved all the files before turning off the computer.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fcf2ac9b8-fc55-4677-a880-0ff2b9867459.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=gk%2BUc%2BSIYCfn8s54y8WX8STznufmimEF6PWefsvgZFyS%2FI7FDD81Y40Nmt75rtwTsZlzjIXt%2F6%2FBootrSEdWEEftWJib5cljMi8FH7ftjY%2B2pou%2F6hE2lp%2B4EQsN75c%2BhcRshUQyKQX81NsKLNnPtU5qjmU5qVYvMm%2BW8yOOBgfVnzUiSctEuBSkSZSSTkcqDLQEuKV5uJUep1Do%2BHkh6rcklI3%2B3BGgNLbGrSlI%2F37A2jtsRUq14ync19wbqu8sMLnLAyTJVQVlmhbm%2B69x1aGk9M8Dxn7Ljufgd%2BtP1TS0eP64UDBN6adgEX0GQbCvCMhmvM8oLNIxcbt0TwSLDA%3D%3D",
+    level: "normal",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 77,
+    transcript: "Momentum is defined as a combination of mass and velocity.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F7ac611cf-febc-4251-ad96-e6b9fc11fb58.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=BLj1UiorDs5erKEo8iJKOksgyzeWTlCe93KFMJsR1%2FcOi%2F6wvMZj%2FcQc8q7icUT3fEfN58G9jZjEq3nK6T5Rvwm9VJxuvQOfaiIGc%2F8TmJ6vr5vdtEj535hYojEsi%2FEjtTEJLhjk%2Bae0Q%2BEGCzjsDsWIVBUaOdKCZtzIspXGepkVe3wHqeLXLMarZ1gw3Tag%2BEV9eqOL7DWkRXUlf663EdIPVSzG3XOtaLWFGrOFz1GJhyioIdfUNHBWIeGBqqGOzcFsByZS1pUb4kLGP7G5G410yE5Bw6VveW349dRw2kPeYJV7ndxhlmSUarl3UKeYRbMSzkLz4uyORGCFJOZoHQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["momentum /məˈmentəm/ = động lượng học", "mass and velocity = khối lượng và vận tốc"]
+  },
 ];
 export default WriteFromDictationDataFrom0To100;
