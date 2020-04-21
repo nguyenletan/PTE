@@ -322,8 +322,8 @@ const WriteFromDictationDataFrom0To100 = [
     level: "hard",
     times: 1,
     priority: "normal",
-    newwords: [ 
-                "archaeologist /ˌɑːkiˈɒlədʒɪst/", 
+    newwords: [
+                "archaeologist /ˌɑːkiˈɒlədʒɪst/",
                 "tomb /tuːm/",
                 "ancient /ˈeɪnʃənt/"
               ]
@@ -543,6 +543,87 @@ const WriteFromDictationDataFrom0To100 = [
     times: 1,
     priority: "normal",
     newwords: ["protective clothing = quần áo bảo hộ"]
+  },
+  {
+    id: 83,
+    transcript: "Social media is criticized for causing internet addiction.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fcb1b4c41-b8fa-4ef3-bd89-0ba06e82aa79.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Pa5CVJS2lKDi1Hcf0R%2BYInIp4DIGql1Ma0lQzsVUa4G8iGTQK9XLTQmCB4702oYAkRLmtN0%2FkFdm7YemnOcmgmcPnkRbk1DBuH5tlQ9qN0YuUt1gANqTV2kB6yL%2FLO3uJFcRZvb7ipEYC33yll4aFOgFpeiWV0lxXB4j5c3LqKWAl6HX%2BUTmTWM1n8sJOFR%2BRrb%2BCLe%2FzT89qQSsRvgFn8JReMH1120NQJ%2BCardVHc7UmOu97fg63f9FvATvh9NvnAvT8IpJhwIKiJioDQmMtTTXO5mwAvcanvI87yz4vVZ22Q8PGCrbgxK5F%2BcK8XQmbteXnmdX7B5PKWRdUUBTbA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["criticize /ˈkrɪtɪsaɪz/ = chỉ trích"]
+  },
+  {
+    id: 84,
+    transcript: "Sociology policies are the sources of government to solve social problems.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F504b9dce-bf1f-4841-9beb-5efe5e77f985.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=ERxQRq6vKi2Qvkga4TJM3eF3sB8Y%2B5hmueoJa1OGF3IugeGsY2YufRR553FrSlaiJQdW3QtiBVRLO%2BJuVy6794nUHcSfJPNzQiylVm3UWrape55KQ44lt6%2FHc15fE%2FdfO4EngNnK0Nl6uYW4afL%2B2LNm8ywWXtmgQ3TaEUz7azisSvtadrd9oqPv4%2BBjCjqaCZ8D2J%2FC8tGWf95dP0h6J39TKV8Y0EeRaCVjb%2B6boDnsvU4RSj4ZUPM95RBQy2xlLzb4YCaglbLCWRtotqxMDh5MZIIKcO%2FXZha0lPHO4imJ%2Ba2JafcovRl%2BJIYRx91FGSCszgiVPYC444GMuBH8nQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 85,
+    transcript: "Some of the vocational courses are provided by many private enterprises.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F5d2c620d-219b-4b67-82d7-310607b75fed.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=hfzQcfsQE03v9NnjLaMwBjGAE0p4Z9rAPqy3wst4f20NChmNOL18aICkCcElMbjWAV%2B8MH5vC%2F54P50mgGYEaRkDAp2vQ9rQkCz9D%2BcMW%2Bjgve03IT1FU0Gt1NgDphIY2lQWkTeVpq9ND7O%2BtITBID2uS5bFzkrKxpzgHJnWQwarjUdHErERf9AB8ZompASgNePpgUcZFPj%2F0iQxfUNnDaV4RCdXQVF1rpX%2BCo5DjwqHG4L%2F5VEWyTacT%2BdxO0JYTkgRAewRXTVqu%2BXh9X0RndzSgJYMGGefuC4yFljArYZcW%2FVc45aD42hw6PxpF0747XHJ9ADXu1CTR6MCieWTnQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 86,
+    transcript: "Sound waves are unable to travel through vacuum.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F40b64872-d77f-4095-af06-114aca8f1e5b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=ZRNKQ%2BPaex7Czs7KnTBCQYGT9vaddArCfunRC0YmBwBDKovYXM27ZDj8p3z3RnC%2FUrOHmcZNZocMCqWx4phwCMeIi2hEHSysXuoiKPlmnuY5GuVcBpHBab%2BJ1DEZNkBqw0qdhSHR%2FYEOl4n7Z1Nl5mLnvtzvcpiqAk1GvpY2LTFsFykIpJBiKDP0l5kXaTkw%2Bb%2BLxSxaM%2BCfQLG4mwB9BERBA8tOvUjXpGKVZUGxNUe3%2BvAGXd3VFY1ZA%2BvqKb9UORG2eUKJToHWD5IBEW5ZdyyDkUBBXQ24g3zrEiRZlX%2B11k%2FOexIlQYinXT2MspAxczxbFodKWEE2UDnXqpJq8g%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["vaccum /ˈvækjuːm/ = chân không"]
+  },
+  {
+    id: 87,
+    transcript: "Speak to your tutor if you need further assistance.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F64261f14-68e7-40ed-b2fd-2c6cf8f2dcb8.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=EiYr5kbWK4kT4YQwkntEFElISOIvpkmMk6I5tiyXQWD%2FMgq7BHQX7M83KHoyzv9UVt2dgC8yasHWjMGiYO%2BVSWQdTj8TCX%2FRnQPUsZdETtw2UJSl4VWgpbyRY0fHX8beXftjdTMtsO8gAROlvUOH6lZrW01w0qU832XxvL%2BVqwvOaLg5O74Q3R1hP9Ph9kv4Wm0Kyalb8axoyLufgbhYpNtJb5rt%2BPFtr4fmZJJPJmH5dYfeNje5%2BTzIB5ijh5Kr3RNRNcM0vjD1IvZiaLuRUONmY%2Fl2ozhHJXi7B2NpVdEZU3G20vKEPhkfUYoc5Sl7E2RfapYk0HMA2dRYIO0Z3g%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+  id: 88,
+  transcript: "Speed is defined as how quickly a person or an object moves.",
+  audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa94b5264-96bf-4dda-bb03-28e7c8623d55.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=GjJit0vIhLmbvEeYlDRKmM1Z0DwuI04GhTyDEkBTz6M27ztT47cTrz%2BHVU7%2Bs%2BKEWIqxIxwe4H0%2BQWSarMlw6GDiqw4y4T9YZuihDJ8s6vsrENFpZVRWnHxFr8I8gPXMG7gbQUrciur3NFrr41Hkeb%2B0ldpP46Z0miZ4NXw9XW9xhy0yI3Dw1r35kRqGVS3oTYpnrht6x0zsICcqb62Tblma8HUsQJZDNGr%2BeBzcmke7xbY14rMpjkF6sRClIt6Z5BWcOuUSWB4Cq%2B5wPhCn0oLigSTJo1SC7J08xWCnq6osqzleGatJQkGy1jfYGF0cldngcpluw%2F%2FqWFYoDcVY6g%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 89,
+    transcript: "Sports teams practice on weekdays and play games on weekends.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F11a610b3-0083-43b0-b8ea-96bcc45a5aad.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LwctM6MtCuhW7MhmoaCzNXJMDIN7XIfzERqvKRFUSEBYplP2sIw4Hyr07mwvyv0HRHX22EwP%2FUiT8LeuXvLWhItJxdxA1LyrbRuGLeQW3bd15Pq8MGEKVJYXwo7KmkbKvFJmXUnx0w95pZCrKnPL7DKGNVSG6w8uY49jQK37DhTkqOYgszuestwmH83OxKQWDHSxKEeP1blrnmHlwPU4HVgIFseJKyJCP%2Fc9rY6L0xbZz6Q%2BXtOvNJhcLRVXGf5tD6eIiWMFynPSJPe5PIYa20syW92Ab2YO4i2ZIabEYf1tZRoknkXs6tjHBgGTuezRIhbF%2B4EYT2VgLrtCQxDUQg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 90,
+    transcript: "Statistically speaking, the likelihood of the result is extremely low.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F824d4f8b-8fc8-4f85-982b-d2a0ae713905.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Uh38U%2FW009BqBiKDCcOARbtXvoCdsVwGh%2BrPYk7QmeKDoVKfeN1KZest0Tg%2BpwB9leRftbyENzMTY0foKe7k0CW4lDze9qJLjDS35wJ6pKpYMKY955ipl5wq4rbROz9BHkH%2BBpcEkP1yrUhFbvqRYxAMHTCAN0%2BebiYJDFzUyZgZ3upxOfMMn1pHDYws1i0%2FqkvBGABt2faeEQmbW1QIh9awn0C3hLSQEtS1wR4P%2BAC%2FUGAfotqjekSFKLtOaKxE2DCEgYzWjdyYwHzlAJ7BqY2BtH6modGvI2dbTvUS1ZxsoMTTGBpX6hz7vdgf6HAuyD9uqTstqJSO8Bw%2FQm3ccA%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["likelihood /ˈlaɪklihʊd/ = khả năng"]
+  },
+  {
+    id: 91,
+    transcript: "Strong liner is used to measure distance and baseline.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F250aa8ce-a725-46b4-b24e-8f86b51bc8c6.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=GRvTM%2B0c9Untt2Q5Ei%2BLYq%2FeqAv1z69GiM%2Bsu%2Bq6HSf6nif6Fz4tIlSxjoOL7T4j9PQfrX57l%2FdBVnkUbTvjU2EV691ITZZlFbIOhLodt%2F3djGk56lr38VRR4m3LSC4K6W6qwHW11JspHMDZoHGvmzWipkqjB1VQTmve104tjNyqVoZKMQtYn%2BxxupL6yfwfEw7L%2FQyxtIL4SUd3P%2B30p1lnkdaqcqh70XOK4BTy4%2FdXuWsc2A2XKx9Oxibj3eX%2Bno292EKbNqjsZXhMgU7omcQzqYHRtKqlRA9thcccMq7m7N45ukNQENcML2QtUi8lXOBbFxTSROp7ekSfbL4qgw%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["likelihood /ˈlaɪklihʊd/ = khả năng"]
   },
 ];
 export default WriteFromDictationDataFrom0To100;
