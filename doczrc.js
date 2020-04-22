@@ -41,7 +41,8 @@ export default {
         "33. Taste",
         "34. Statistics",
         "35. Movement & Speed",
-        "36. Changes"
+        "36. Changes",
+        "37. Speaking"
       ]
     },
     "Write From Dictation",
