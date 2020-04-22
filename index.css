@@ -20,9 +20,9 @@ body {
 }
 
 .input {
-  font-size: 20px;
-  font-family: 'Work Sans', serif;
+  font-size: 19px;
   font-weight: 700;
+  font-family: "IBM Plex Sans";
   font-style: italic;
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -32,8 +32,8 @@ body {
 }
 
 textarea {
-  font-size: 20px;
-  font-family: 'Work Sans', serif;
+  font-size: 19px;
+  font-family: "IBM Plex Sans";
   padding: 0.5rem;
 }
 
