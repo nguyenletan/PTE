@@ -50,7 +50,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         {NewWords}
       </Transcript>
       <Button
-        mt={0}
+        mt={1}
         ml={0}
         mb={0}
         mr={2}
@@ -91,6 +91,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
       />
       <Button
         m={0}
+        mt={1}
         pt={1}
         pb={1}
         pl={3}

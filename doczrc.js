@@ -41,7 +41,8 @@ export default {
         "33. Taste",
         "34. Statistics",
         "35. Movement & Speed",
-        "36. Changes"
+        "36. Changes",
+        "37. Speaking"
       ]
     },
     "Write From Dictation",
@@ -55,9 +56,9 @@ export default {
       }
     },
     fonts: {
-      body: "'Work Sans', serif",
+      body: "'IBM Plex Sans', serif",
       heading:
-        '"Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+        '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       monospace: "Menlo, monospace",
       size: "16px"
     },
@@ -65,7 +66,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [12, 14, 15, 19, 24, 32, 40, 64, 96],
+    fontSizes: [12, 14, 16, 19, 24, 32, 40, 64, 96],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
