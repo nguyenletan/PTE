@@ -625,5 +625,89 @@ const WriteFromDictationDataFrom0To100 = [
     priority: "normal",
     newwords: ["likelihood /ˈlaɪklihʊd/ = khả năng"]
   },
-];
-export default WriteFromDictationDataFrom0To100;
+  {
+    id: 92,
+    transcript: "Student advisor was aware that lecture today has been cancelled.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4cf82c80-3fb9-4040-8a42-4fb80c09625c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=hafSgniEP0bv4qmy15INQ9tIjBoRl4a5nr6%2B%2FjJyo46O7EoEDZ0hHjlhhmt4H8zL5gfGLsksWPn10HXhv%2FpobHoOjp5wypITuu0b3re%2F%2BByl3CynGTMvAfSzlL4u9XadzeDB9ANGTxAbIF7ibXlrPtxgavDojy1sa9pLb12oQv%2B0X9DBSvDM6zVmooGmXfA0gf9YSAvoickithB4keNdeSB7G%2FCLJJaxiQ3PnZouCRBYq6SIdjP5%2FbmCXFhZl%2FUJhUlsnD7ZN7a7vaUoDh%2Ftt9GU5xxFrXinUC%2FlONp0WIM4LgglruWgOPPuAlJeUSUv%2BYZRns%2FEqYwhlkeCQioYlg%3D%3D",
+    level: "normal",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 93,
+    transcript: "Student shop has a range of stationeries.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F5d8cde91-74ca-4a09-9484-3d9aa847fcc3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Oy0CAkgmL4wD1O9iDpqoiCFwad2RoNJpX7OPiPITsEXdXbwIR2CxF5mKDPkETzxuOOAiYBHQG1CMU%2FTneNJSuJM2vgPNAi1Ty0Fl%2FNC9jjvxpBw9%2FUxj6glNyV4M%2F%2By1thA7UDZz9tZdZejtGbKUbqk4JicXPGfJz2kj1RksEtYb3SjHHTkv7bxxB44r%2F9y0y5AjN9DoG2v7eg4KR344Eh6HuKNT0%2BmHMVrXFsijmW29z4hqdhfL8Vuu8RQvGMe%2FCipTsMozyyOxyPq8PabFFVQOupZxYXB%2BfbI2lSj9E0Fk4qK9UukxEw8TrqNWd6h7zMhlHhFfd1VO5EziAiwq%2BQ%3D%3D",
+    level: "normal",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 94,
+    transcript: "Students who attempted to go the to conference must register now.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F0357ea12-2d95-4d7f-b234-539fc1c20e73.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Pq2J%2BWS1OIYSSZAj1cQ5%2Bmo1e9BHjMehzztF2tw%2B1m2efuWcv%2BGl%2B%2BMkZ2fzxpRI7PoPLmBYwWaXXobnq38IPreprN4ypjdVxuWYhHRG1W4Sj6lDReCkSNYB93MGG8uUOJCtHlbBo7Kq1z54I%2Bi%2F8bUD5KIl4Gq3pDEkfsxhQvx9bAWTt26Q%2FfbtN2ZZLMT5uDIMEqULiJ5Kp7yhoXt6za6iIhBajIzFH0spXVBNSV1kmr3qx6Hv%2FUDbKfo6oAz6PSGc745t0SExHdCYpsok1rD2%2B9B02I44%2FYZcjLwlzuk2pQ9Ez6T8Uqv0YY6LAEJGyCFbLW4oq28NVPqXmwpoSQ%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 95,
+    transcript: "Highly clean water for human consumption is vital for health.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fc0imh69vmpakkgyz6x93m-dq8iibgkl5d4zza3b2sou5-WFD-%5BAudioTrimmer.com%5D.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=ACJ4TsQxGcpiTncVPiXvMybiXXCIyXLg6%2Ftb80%2Ben44LERB7OLxvgBGYY%2Bflt%2Bdr1mOa1mRcxkjQt1TAgazeizyRN0twSkweb67%2BzIH%2BH16TyEgahkdcJh9t3dYGE3oAHwYxZageeb9j0FOx3gUaaV1KA4Q6rTKWsTBkSZYDkXRCMZzRqG7LGKUykTaC8dSmUFxnpEMJoIYVyB28Pvs1DaykUQMcDGAaKUJM5d5pF4ohfN2qWIukrQtsEjDiT0KtsWO7yx7iBH0vE3oMbZxntT5MSSofYHr%2FSKp3ivgf55zvQRjkGS9K3yCs1v2UO95a6lbPyBfGb3NPJd9V2oYg1A%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [
+      "consumption /kənˈsʌmpʃn/ = sự tiêu dùng",
+      "vital /ˈvaɪtl/ = cần cho sinh mạng, cho cuộc sống "
+    ]
+  },
+  {
+    id: 96,
+    transcript: "Take the first step to apply your university scholarship.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F04c8087f-858e-4550-933d-ae9d5edd3e69.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=IwjcfdmWuoP6RfYGO4Rye4GmmwRhDdN8kQ91kNAQM6tRExLehuQCB%2BSsSg3DPOUVAAoXOIH7ikJ0zUbsnUqgSbutFGPt8W1Eq%2F4NmdJGWRBF2NvM%2BAA2sACvuUPF6tHLS%2FUhhCNz53fJ2l2HZ6WXiLK7sysBEh7jbvpaUMZCQYdHYvNlQFYEko74Z1gfXkb3lWN4WslvO%2BGAIU5oMQz0VdgWgtDQZ47IW2EVGazASCda36wNAS8fbHtohWNTR3R%2BtlrQth2960hjt0NVTEqq6SkqRo%2FqJpBWIqmEO%2B2z8Z%2FIScf%2B4Lv1WE0kcbnmMU5cYvdho5THFq1NgXBpGTN6hA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 97,
+    transcript: "The archaeologist's new discoveries stand out in previously overlooked foundations.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fdc6e5855-af96-4687-9970-50a21924c07a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QY2yEmUM0NK7uJ%2BOU5eJ%2BccIThJSYvhyGftS8Sp5RJVBCDtzNz41GAGR2wPWvSGxdtDNa1I32yI21HyM37mLycH17G69wzGs10qRonynacu9iy7BrpgLcrc7OdUnJ2Z3GpOSOW%2FRIqZOj7XSpBsOP6qAor3rk2WiTiRRiVGkqgjgnmihSFw3cwN6FJZ%2Bd10V5keq86JAyA9nmv7Z37qYsvDJQKWfq5DbQR0bZVn4bkTIhBna67fikg2AoiLdvHyht3WeMJxFkhBRqs%2FsLiNsFAGPRQNEITrJFjIfuWFtl7wWu9NWDru%2BGeOswiz%2FtK%2FPE38xgzMqMKG3ui6i5FRcEw%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["overlook = bỏ qua"]
+  },
+  {
+    id: 98,
+    transcript: "The area has a number of species of underwater habitants.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fdac5eea4-9b00-4a58-8f51-eaaddc1e1987.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=f9%2F0sAVDhwLvkQkP5jVTjtj0xErF000rU%2F5cTAH364bMVIsWf2KB%2FnvH%2FcvsOUj%2BaEQsPPa2XG21nsm0dHd4F0Q6cQLFxUsi2i2pI0PMA2OhEP5i1s0dH04YVoPmTWHcrVADk0eo%2BcZcHaHJRBQQY0%2BrTCMFkMfc7z6BvOO1ELCzcrT6WFOJCppks0emsqQ87Gt7p9CvcD4%2FKTFgGeNxDqVtteOrVQMI2ggdSYrtpjaflbqxnKK2XPg3OBYkfk0D%2F9yF7Ry50wjvHQt6%2Bs5X2I0SOEz0YcCD8iRDyqTcbaFIr92Pg%2BzKUKRhhJnpXN31B%2BqS4wc5c8RNLnWxAppfxg%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 99,
+    transcript: "The book was supported by many faculty members.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F25334ee0-916c-4ee9-9a45-003c36ca5560.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=hphPCsCtuAMKjJHf2HQymVr0pjSB3FKfeKfWysaMAKzStnPB4AVXfA7TH9vy94E0z3NjdzFPBlRYHVzZOq%2Bm0aGVBp%2BKYTymwaAol61tZJ2419NehG15%2BBY4Khbh8EnJ07ILWNhyLxiAOpc59WAL6GN8tKkFiah9yUfSIrciLdePBQLxwe%2BeZUyuMoXJhady%2BehLvbKitQYOp4Zunm39EjbGYXMKuf%2F3WPXDuA52%2FEQHfsErmShcn3uO7f%2Bw0Xy7B080dd0SlQiF6qbCoVlvGAvIYkVi2SZv5AOrKX4xShl%2BezDGuRwS%2B4KILW5OY1BJTrj%2B9zCGN%2F0cJ4eX5NvXZg%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 100,
+    transcript: "The career services provide job interviews.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F248f1721-dc9b-4d3c-9d9b-e1de850452b3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=JJZZDd%2F1RIDYRdbCUVWfsDDGqAV56kPYkJpthXa5O19GC2etnuvKSCKyhl9QjjmEECNELCHbE52BuAlS1gIW3EWGtdI7jqNFvu7gudHnxVDaZO%2BENL9qBUxyawW0PtN1ubr5A3Savv7Vk0K6y8rq2yR0VDxGYaxjvQ90%2FKl9UDNFkA76X1d6IoiUA0zhqQI4gVVSbt5BakQq8UV60i2eEJWjDIe8twa6NNKgdjDrkH0Bj5jOOrsf1rcRNlr92PI%2BiGx6mQL8EIqQRLZEAjK35ewCcZiu6%2F5nENTEB3x14AWvJtOlykMAUZM87l7Cdg6vf5PvSVn6a09%2FkR9%2Bz8aeDA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+]
+export default WriteFromDictationDataFrom0To100
