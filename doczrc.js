@@ -42,7 +42,8 @@ export default {
         "34. Statistics",
         "35. Movement & Speed",
         "36. Changes",
-        "37. Speaking"
+        "37. Speaking",
+        "38. Starting / Finishing",
       ]
     },
     "Write From Dictation",
