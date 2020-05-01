@@ -44,6 +44,8 @@ export default {
         "36. Changes",
         "37. Speaking",
         "38. Starting / Finishing",
+        "39. Success & Failure",
+        "40. Cause & Effect"
       ]
     },
     "Write From Dictation",
