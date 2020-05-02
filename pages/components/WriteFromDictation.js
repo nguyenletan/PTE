@@ -33,12 +33,9 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
   const [showTranscript, toggleShowHide] = useState(false);
   const [showAnswer, toggleShowAnswer]= useState(false);
   const [answer, changeAnswer] = useState('');
-  const [isCorrect, checkAnswer] = useState(false);
   const NewWords = newwords.map(w => {
     return <NewWord>{w}</NewWord>;
   });
-
-  const IsCorrectAnswerText = answer !== "" ? isCorrect ? " - Correct" : " - Incorrect" : ""
 
   return (
     <Question>
@@ -54,8 +51,8 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         ml={0}
         mb={0}
         mr={2}
-        pt={1}
-        pb={1}
+        pt={2}
+        pb={2}
         pl={3}
         pr={3}
         sx={{
@@ -79,7 +76,6 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
       <Textarea
         onChange={(event) => {
           changeAnswer(event.target.value)
-          checkAnswer(answer === transcript)
         }}
         value={answer}
         placeholder="Write your answer here"
@@ -92,8 +88,8 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
       <Button
         m={0}
         mt={1}
-        pt={1}
-        pb={1}
+        pt={2}
+        pb={2}
         pl={3}
         pr={3}
         sx={{
