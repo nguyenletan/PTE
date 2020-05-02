@@ -354,7 +354,7 @@ const WriteFromDictationDataFrom101To200 = [
     id: 140,
     transcript: "Mutually exclusive events are neither complementary nor opposing.",
     audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fbe4f00be-1552-4b9d-a346-d5ca78f3d57d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QwbuGNOLCQfrSWzpLCNCkO0ydkW9eZosu7hYclmrbzSxCwpUXkYF6j1WqEldYmw84xceIN9Vp7KLMPhn48bMEgd5ObN60xDclT7OE8NmUW4k%2B9%2FPvEANR1geJ8SlhLPrSFXPp8Nt%2FWMnkik4tDEfB9m8ifV0ODihWMrsJIj%2BZoj3B5NNgFu4UbWZxKYJw8QBIHNGMcaTyLlgpGJdtE0PsAKrs5WRGL3S1jGZBHYV05FSFERa9QT7PRbHj0iT5lBXnhcSy%2BmuO3exd4bea2ZWoOMV8FlD9k8%2FknurHIIPNYE6mRZ83OtUufNly4j0V%2FVQB7LOlGE4X1Bnh4P%2BhTGyPw%3D%3D",
-    level: "very hard",
+    level: "really hard",
     times: 1,
     priority: "normal",
     newwords: [
@@ -904,4 +904,4 @@ const WriteFromDictationDataFrom101To200 = [
   },
 ]
 
-export default WriteFromDictationDataFrom101To200;
+export default WriteFromDictationDataFrom101To200
