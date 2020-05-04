@@ -299,6 +299,204 @@ const WriteFromDictationDataFrom201To300 = [
     priority: "normal",
     newwords: []
   },
+  {
+    id: 234,
+    transcript: "This course aims to develop your knowledge of statistics.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fd0eeeb0f-1d99-47ab-b281-8272c4e0c036.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=dZioA%2F2TQOrqdPmWDowACWZMqZJ1j0%2FWDbRun45gQM5Fxnc8Kq78mKi6EuXlI7izxPVyL56Jy7D8uFd9A13%2BALL17E%2BmU%2BojhRMiEdzjQHrmAB11QXGfgAY6ETBcLqyjD97dDfapbOdJrUHXPFDvYyWQZyuf%2FTRjgxQqPPYey0bhmpmvXK4286EztSlO0sCi%2FL9%2B1lLQc8Tvd7IGuE%2FlFCQIhSwWoNxTKJ36yL%2FPGU5ziHJSqNlciAaJMip2LxqX0zesQ%2F1DddBttiMPKcyDg9zH1zD4DYxfxsI%2FTVbB5wgAuPluKo%2Fz2TUFTCCQFATI6ykIZPlnijDQUWu%2FQi%2BohA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 235,
+    transcript: "Professors with higher educational standard trained them extremely seriously.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fd9960907-88f2-4aeb-ad10-89f1d4a66d1e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=WdtPIzhICcYDznPSmnCSfzydXrtOpmEvGlzpB2KN6fPECwSiUJ97L%2BTpm2pLR2pNyNguA8nd03Wp%2FyC%2FphFDT9MHySLj9489aPryDkPO5bGFXCP5G%2BZTIbaEx%2B02397mrhQkf%2BZrsqGFAIomxwc7yJmwLPYmAeCJ2cG8ET5ACNKKmMBNFAl8GOeznztfF0tONWxIyaaKwM8wFb2QQLrBWYn8XiDN8O3MDiRjKWD3AUMeFE%2BkWs0x3lLC3EdVU2Uy%2FlQRTlxDEWVsFOU%2FPh7%2F3Qt0OHTPvdCDLysizakaU3dHclnlRyh1Hfk85x%2BgA0U1RGKS1gvRpoRsykoRP6NOMA%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 236,
+    transcript: "A good structure shows the key points of a paper.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe5f5f606-a280-4283-a069-ff49bdb924b0.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=NA6JoYEV9H83j2glwA2UuTp8i5oA1hIRYOP7R9nV5EYdiObKuvq9Mw74OXFLO0vK0QdUD5TdR8Pej98rRzoHURIjkS4nT9eUi1Y3L36xqJf2e5tXo035cV3EyI%2Fwsj17CIb4XE6h5ucvECv0jMR9J2L2UJDRZkmza1PeOD%2BWASmDWZwNecLIiW1wmS126ZnLFfS8LbRcAkgsWcMjlkggRRyasWZdCqh8bKAD81Gr6QSsLnUbMkBG5vOauSt6niGsG3KxC%2Bj%2B%2BYlxguOYQo3UVQc9%2BmGSWydzU5oT3OvCACy8D3mCbGFOS7iXenIjPDtzge74ag0ohW66E38pJhYTpQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 237,
+    transcript: "You will need to read chapter One before the management class.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fffc22294-d53c-40c4-b66b-3483850e13f4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=eUUeAev5KFignwULv0Ri5oB34Sg0nEejSDwbicA86wXOjRkGEKD5GvHrTdUd1yaMjHAnDUKZjn%2FVQccnY7vVUQWfkLSbMj%2BDR0yOoveIumgNvxV7jgTrHq8HS2RnoBbW%2B6t5HfDETOhvOdBD%2FlyRogWyZjEs0z19iJH7NT8%2FqnPKaNI99vQWFqq9K46V2A3lnmn4y0CZRYk3jqvc%2BBhzU1ARCIVpjJquwL9gWZWxKeFtk1qnk4ZX5xCAvf9nQPhQwPamx8WZSqLId5EfBDKxOtIHbQc8ZnqO8Mj1QlCDVMGVuFIAGKA%2FT4XMU3%2BTYPgrYyDWTshOjlkh3UJBHUvlLg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 238,
+    transcript: "There is a new chemistry test next week.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F473753cf-5e4d-44ab-a5c2-00994de92b5e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=CionOhs6ylZaX7ieDHOGajRBP25mEj4eTmVRAHm30Txau2yamMhDecH9Faf2tF4tZq0lRYafBDLZRoCx1Je%2F25ZVMjKibYyQZb7O4IRRN8XawCqPxw5l8gGzFbs%2BxB0fzZLAImq%2BppZ8mgSYWZw1Rt%2FJs9IQuTsEDOE%2FTgaqKZ9JyNrY2%2F6HVJQsasEhp9zwR%2Be5%2BkLVfGz590Cr5TnquYBvi5xqQwpCMzeBe2NOgwAsdEfCtYozJ0BOVOqyRw3QooGcgDsZWs3kNLMXOzcNAkoH8Pt%2B3gOkFNdFzXCOCDBoTtuxjPqimo3ztDPesOaifZNyZp5hhODdsc8CPI169w%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 239,
+    transcript: "Scientific experiments are repeated in order to find results.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa5453228-35e1-479d-bc44-d9bea3b0b9b3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=CD7fRWRsnsfr8fI5GJcPq68pkZlxJOQ0nhRLikrU6GyltoRpGtDkitEt8AvuIOoBYcb2AMBhqrjY4qvEIebApF6EuvVosf2PpIdeA1QSCsLYj%2BRzJjPdTSLNF1XaIZfJze1h1G4moBHVJSamzbVt97EJlk3kkD61ZIhTSJOD9N6LA2X%2F3bVC%2BlZcYH1pVYbvEzdIRQsCnYsfzM40yn61EbVzYkhokWoNi1%2FZITb%2BhyMZnT7Hx1md8azA7%2BLzxmHJCwPk4eOfnPU6kzw9XXr2Ktma3txC1UZo%2FawUJHswvgyrh%2FFcC4WJJDWzWEoyXYpM%2BAcavbd5y5VqcBk4E%2BNgRA%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 240,
+    transcript: "The closing date for applications of travel scholarships is next Monday.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F0ab9c012-0194-4cde-b155-16a73a4c8b08.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=ENaKZ48S80wWyhPuzT455ydsgdRFUEod9LddFgjOmel9RDDwxlHb0ukJoE3%2BIdCIw9FNvBtKHWmZ2kLLGMf0qRcRA5WII1zv1cwTruT2y215QMS2vpL99mGKTvEas4iPRWJSYmP5BZSWoNeBxv3qPw%2Fj5MhOkEECW5VpIplLZnLX1Qy97fhZ0MLR7x9%2BFWz1MwB%2BNUPpmRGucMNuJUUf86OxYJFtf0Zedztt2wapmLlpgYtSBd3ldA6JugvIFxGd6o5A4p%2BFkTmTaz35yplC77g5XFwovpng7bVUFERQofyntVNk7u7cS5r213vFGzzwi9jpP5bJX83s1zGLmjmipQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 241,
+    transcript: "Members can contribute to the association of operating firm.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F9f052a1e-ed37-4d4a-b03b-5e6ecbd8a85e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=YAORsf3VmCVHtre3jYV%2FgpRk6FbgOf0bO04cKLUwIu2onI4xm6z1refCQEWzGhQWkWoQtThF27SnAQuej7FLgkC9pFQmVwBj2C5Rthanalal8dNGaqytkqslnwnzItCs00PDmEJkMWrcCJTMPj7fGbFeTBR3xLTAyUwGAdc9M%2FcFrGc4XryFjYmgDNCpNmChGLkftH%2Bn%2BnxzUvCcnPyJju%2By7AyogRxECiWNevW2Tv52AeAltsSB%2FNjW%2FqroDr1teDdCssVIjzvOqp3DkM0CQIIAfDGKMkgbxHe%2F1tf%2BbiyZakLoxQorGT3%2F1I10D8BJIIwugU1oP%2F%2FUlYu9o0%2B0XQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 242,
+    transcript: "You will portray your plan and sign off on your paper.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F6f959e40-cc66-4f43-85f0-aa848c8fdc25.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=TfSVUvs9zFwFkB%2BNAW5oVxskI1zYaxn1uRAU0ObLRSM9OQl%2BUj1eF%2BdgRVYxn4HVjIlurNr8m79MLKiUmtBwKs2jSgov2Ovs8w6V47jFZLd%2FEkagZGFaIVmNARF5XHVn9EKMZIaJ6ymVk9YWcH3PAzontCaAjR1PSbLq%2FkviNbW5naRNXpn9%2BDPRK%2Fi5WmdENGV1OF52RQQwnyu3Dfk5LQMoDGZZOOQMWf1UTpUi4FEmSYjn5Q%2B%2BSFNOa91A9tCOoCx3m0XF%2Bp8UZPOqqpAnA08REZjqmSHltcgL8BniHApx7r3K5s8wxPz9JAbuHNMExYjS3M%2FQCcG4LfdzbZl0GQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["portray /pɔːˈtreɪ/ = miêu tả bằng hình vẻ"]
+  },
+  {
+    id: 243,
+    transcript: "The renowned journalism will last for half of the century.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fed5b75cf-b352-4ab9-9ea0-c4bb18abdddd.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=DrLoasvs%2FOLTgmOl70Bdyn%2FiMidtn2hW6k2kIZhNWQDWiac8bQ3eDjS4FbUHMkbrmd3w79f7Y5og1%2BttbZjxcWkYp9ZZP9%2F9zMFWeJ1O5%2Fe30l5dYvzR6RYYbBJX8dfj9814H9fumONg6nnMIS32raDSHDLJgiHBwYLwFQNh7yraaukAJvylG3v%2BRAZyN3Pij%2FnQJRfDh5w6sIx93vBNT98wRyJfVMoYL3JTP8fEa66lCJSrG3NDcBfDAz3Ut28lwlxUc5an4Aepg2du3hwlvoukPXVKzf7qlQn8%2FCFoOcsgPGyak2bxapVbLxnyhCaSepMsBIqXowOLGmb8cxcPGw%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["renowned = nổi tiếng"]
+  },
+  {
+    id: 244,
+    transcript: "Rising sea temperature is a sign of climate change.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F2a4a26dd-1eaf-47c0-bd25-a2618582aecf.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=UEFoDRpC5VAZmLLGsmWHlcZos6ch2mjd881AU7Bod0g89Lr17QDWSvu9f3rnZfKYI%2FVq3D1kL96eiP0p127A%2BYrdjqbhdfIjPSW%2FtHVxFk2NVDa9uv6v0w%2BybsvaAXGmGEJ5zD9OoiNipxiiQg9mpA1ybGNB7tqb3HhhY%2BrKzl2aLzUp%2BFs%2BklYwGCHTBf4OIMd03eF9%2Bg%2FXJ%2Bwy5Oj65%2B9UaoxV0fgr44jUMUjacPHaGAjwtmmeFtjZCTAwPOZtyZsLucD3ZPRugq6VRU%2BuUuessXkFIId4oMoLVjh6ozcqGVasrED%2FTy1Is9GGIzMZMHRCH5AD253SFEs9SDuFcw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 245,
+    transcript: "The extent of advertising on children is very much open to debate.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F007a3d0a-8db5-4640-853e-a3047fd884a2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=hMqz8z%2Fl9sKlDBbCkCaPSbv32H0pujMpQ6nE7MeTzD%2BBEjA4cCazSfr77bFxPedLS6MV9fu2%2B2GJYcK5kLRLwP9grLO%2BNC0f3rqUtgUsOiSoedvuT6TZZ4xX46%2FUeStsRS9sQWYF6rQDMBcCc2EtwOqceJVq1%2FDKRjk%2FXxZZjiRbkVmiqXlwrahxgXp3t7WezVTOL2hGNBRyI6vULaJ8dEKkBb4vs0kEmd6GEBU32jhe6ty7N8GKN689Eswx%2BeAHiazGsQsDtcu8DGazHa3BH%2FiUMS2gOM1ss%2FIp%2FwI6xIbJfa7wf2aom4FZgefRpRnVNR2Y2Snf4vaQIvwdk7TAXw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["extent /ikˈstent/ = mức độ"]
+  },
+  {
+    id: 246,
+    transcript: "The public is often misled by the biased coverage.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fc87d4dad-d136-43ae-a177-4d1c20775b05.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=PsO%2FJSuJqdjjT7L2WryZECUa%2BJc5Cz3Q9%2BOcufzCKepkKzfJ6%2FTSzMTKG19xWl16K6nsciT7eqcCTO9%2BibdhismDqpQZQrw3ehKz%2Bv2OVsuYivJageEqGLtULqdOcI42oZgfJiYBLKq0JrIoOnv%2BT42XRO%2B0joENks5wAr3LtYbVJi6MQb6Tz6SMynXTjuBgyu0S0sHlSJUPJqTgeHWRNtzaaO%2FkM4xQeqr7P4xewq1DJc%2BZ9j4pEk1AOwa4jH8KHcJUlZiDRdn8P7c85eSGWCnuxD3SSBc3INgizL7uAPnMTNj704QR8hxwVBL7BZQOhj62uho1s6f54sevyVl9AQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["misled -> mislead = lừa gạt", "bias = thành kiến, ảnh hưởng"]
+	},
+	{
+    id: 247,
+    transcript: "It is an integrated course with several main elements.",
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F67450f07-8b31-478d-91fa-4f2e3c4a6af4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=b%2FyeGtQaaf4rjN6TYFAoTbnKfLDdPb1BNrQDZ4yAO%2BnDP7Mow46lq6vd4kYU0FHtB0Uh6EcSouDa2IyvKoR3KzXu4KjG5fDhefXVAGE0VkOLzvavZejaHY7nLrQ1B1wh3dxgKmkbljzRvnMHcVvV3djspRRqrJNlZcllBzgeQHnY2g1NWbuVbJkWD2tYMNn%2B6DYAc%2BCckq%2Bm9ZWuqPfnaV9Kvb%2FhWGW8X55A%2FVufz%2FM0VHcGLrqDuGxUYpBEUe2agFd%2BIEVBKnglBWgIYV6Ng2l6VWiqB%2FXFR1nf1Wzzo5Jfb41hENzJ6LqKu7W7hSdkuKWfIT0txTNDOaW%2FHo2h5A%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+	},
+	{
+		id: 248,
+		transcript: "The program must be conducted abiding by general regulations.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4f7f7480-2869-4bdb-b375-af9ad49c5edc.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=gLh7kpHSs%2BSwbQmLsaNQipMUuFpMmy1KAo6vH24b70przIjeK1JipcIC2poCGtsulSacSgnqomKxESnmAEm06esvtLVvMgz%2FydBuOHeB2oNDkJKe8TEONlfdVPzd%2FhmfnVkq9U9%2FIFjVe4zCTzfQOnGbDGUyPRsJdlr6AG76sRkdpTphRb76aCduVcdS1pgNMQGMX%2BXD6ku1p7pGaSdMyqmFxWLK5SDUKn9AkEO1YjK8sc%2FG6A2u%2FLGZQvGu%2BGaOV7gwm5MSkSZZER94dmvDiEAPAlHDcgG6iWo9JtFNvEdQhyOnIzRCN%2FMnWQk9u0KUREO0Zl11DOY6fyuYDQo8BA%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["abiding = vĩnh cửu"]
+	},
+	{
+		id: 249,
+		transcript: "The use of mobile phone is not permitted in the library.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F17b07a13-e9f4-471f-9bdc-81f58ba5b2fc.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=grnTWLcWY1gsFyoPBC93TkNuSUG%2BF5gy9PQKsAVhj03EJT3niMszYHS07mbOnK7XU%2BpDMD9sJraVKgaQ%2BlyPVY40d6spL7SUsj88lT573usHTUv7DnHTcuA9AXPlDvqp0KzTYQqF%2B8POOpljU7BkEIDlbIvtqQthE2b1fg56J3HEmLbcdvXvynqFHlo98Gw3H%2FE0NoDqVorjY4RqkUP7fnounT8JiCdmpwWZhImDpmhSQ2tnkskQ0CAE333Oy9J%2FE9bcVe7WLpVggw31ytIejilGxE1JPAp%2FIs4lVDrcfi%2FF15%2BfygOPkpS0nIgp7gBp%2Bc%2FqbmJSfpNeT98BZSWkZg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 250,
+		transcript: "It is clear that human population impacts on the environment.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F0ba02965-ffc3-42df-b68a-84248092abc4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=hCV1J5ea8Dqkfqb2%2B1JGPrePl0ZHFv1oGmpQdet3YrpNcxMnTHp2N1LI4DZn%2FqGFwrbgyyESyV9oK9ZSYxO4qWEmZjha3ceL%2Fzpi3GQzoW4hRQB%2B7JmljFFtc1gxp1YdpXPtYmQDnnrQqDG50r4As8TXaolKoAS6gK%2FAjf8I36ahNX678C3hrfD1ezI7n%2F%2FnQQdvura%2BD5dFt7OPtqnU46zJKFsCZZN1ptPBWQY1Nd6LrZCO77tkwH%2BbeQuPw7K3ltSB2hKXsmOM5C6W7%2FTjtZ0UlTMCIaxfOqyRSpNsI8rXDTdNe3HPCs9rUe6hbvJU3IEOrB2M%2FrLUWesdi6zrmw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 251,
+		transcript: "Our company currently employs more than ten thousand people worldwide.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb8ab031a-95d2-461e-9de5-a1b1b99d38bc.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=jAWu8HCfQqk1P1jOuLxf4DRGRpbi81rVE%2B0RRPFTNa2MAT10mRLlnDyQs734LS1SNGxM0iEYUgBgXdWASpYkbQL5nPDLl54Hcz6XZvOWKpv4WXuwlrs82SXQPlcCQFU3wOROxRFTJzFl%2BERS9pzRd57oVAMkCY1OsraqZn9W3m0LBcQ2JFRrmqbzUAtJHqqQ9b5jaWuoCsjb8f0Whc0PAkwPaEnlDRWb9cSwcwdugG%2BpJZkBCQriOUa2b%2BeLUW3Mbdq1aH6Giwbjp9peHwi0tKxG%2F7RlraNC3TJIos9hekoN%2Bcdl3DflGVrWW6myipjog440WGbyacMU%2BRBzs3IM9g%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 252,
+		transcript: "We help students to develop their individuals and follow their interest.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa7d63868-76f3-4de4-834a-f81009ea6c6a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=iphVd5Q9foBJcRLhWSV4K6oa%2Bz6BnLPeuJlkM1VAZrgiXTxl6dQTPlcQBcSneOCEX6F67URw4eJfweQy3wWg%2FbXnl8K77qvRKr5FpR3ESacg8T6cGy%2Fd1ujJ2AZO4oRsMN1M%2BJLgh5k1XGD7mwJ8ZePGEMZSjjQWOfA6nt%2BZwTTQhN9BixivNBE7U2n08%2BPZRH3COwoSKokEeQycAb96AU7k2LiAZU%2FsQx%2BcciZcDbEpopPrxUDW2f4IP7ES1iNrABWxVlh1eI19dhu6vykrSb05Ui3V%2B2oCqC4f%2Fxk4dICTMK1XTcN1vYO1gdOKBbm%2F%2BQqk3Cmn7xzY9hkzD0m%2Bgg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 253,
+		transcript: "Students are encouraged to read the new books recommended by professor Jones.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F35cafbc3-f10b-4c36-8a5d-20f84eb8be38.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=A%2FYRD44l2748KaVqaQw3i5PSOejvYQnM9VHqEkUw28ry8IOW5y61CF0QwD9FMi7Fk2oWlxxHOQZIbTYW39iDdUIRQPjVy%2FrWCPQR0WX9rVlgWyprca7hyTWVs1PDVUL473l%2F3wGUm2lzeC%2FuJI3cSwVoKaMhTOUse%2FkY2nRb8QDoamLUsds2CD1ANqZHYriFc3KcWVuFNwobbhIrbURInBj86ijiDooQMXXNiNfbIxbSef7sXdEMXoa0JUwVYJoQh7G0HpHcVoNsYRhrx91TV3KbfOXp2dqdrhhwEugvaE7%2BqcGKPAK4RQdrSZG1sYEzva8gYyki9HX%2BEJf5eg6CiA%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 254,
+		transcript: "The university library holds a number of collections of geological maps.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fcf850d04-e507-4779-b3d1-65d087dbd1a8.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=fsq1r2uLyOFS5Txc3zQgp7dOgFMz4rtoZxSpmB%2BcnFlf2NzUXQbIs3oNKQqeppB2G8LaKTKJFep9opYdnTZk7qjoxxe0azJ3ikRX5X7N1ohovH32sTExYKj%2BFZSg9PkCVIsMUsO2cWMbH24l03qVjqSwWolx3AYfehUsA3FOr340ow%2BH%2BY85HyJN6zlMuTQrlkVn2PV%2BwVs2QFHhzFFaCad%2FpJ9CVwM3%2FjmKHeCCOrdO61C7wHoLPqwgJqdKHnk76AkTFHaboQ1PXFzaLV4uLU9qUixAUsnjB19Q8eKuAru0f9dTDCA1QBr0NNpVtLF1kbYYRDaWh3OKA4DKHqZ7iw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: ["geological =  địa chất học"]
+	},
+	{
+		id: 255,
+		transcript: "Students have freedom to choose the subjects they're interested in.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa2d373c8-41c5-416f-8106-424445d93770.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=aohLB9NQ79vP0cECaP6AKwgeu%2BocV69tc7DqPzrDaEZAjJywhxQLb0XM0w%2FntToOYLh26vtXLZxlJ%2BXXMs5YeN6Ms%2B3U5vAr0yQ%2FeNCUAgB08voILA9tZX5RwI3EtRK%2BtH1L4IQRNh7x8yCTO9VzknUOdS4Lc%2B051c6a5tVbFx2klOtX4Tx3ADnyNVpHOPVZvQxCJPY4oXzxCFBsUKo17FcBahQNiD4pOKtYxIn1G5oL72nRxe2XtFzpT8zZKkI1M9Cd0kG%2FGg98wT88HHOIS1RMzAXlOREXzTbXq82iT6seX%2FM%2Bf0hF29coeTWgvILUe6sF8NAPW0vEnoZzq5LqSQ%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
 ]
 
 export default WriteFromDictationDataFrom201To300
