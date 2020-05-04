@@ -2,6 +2,8 @@ export default {
   title: "Pearson Tests of English",
   menu: [
     "Pearson Tests of English",
+    "Write From Dictation",
+    "Repeat Sentence",
     {
       name: "Collocations",
       menu: [
@@ -49,8 +51,6 @@ export default {
         "41. Memories"
       ]
     },
-    "Write From Dictation",
-    "Repeat Sentence"
   ],
   themeConfig: {
     head: {},
