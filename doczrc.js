@@ -1,5 +1,11 @@
 export default {
   title: "Pearson Tests of English",
+  description: 'I hate English at all!',
+  htmlContext: {
+    favicon: '/public/favicon.png',
+  },
+  editBranch: "development",
+  repository: "https://github.com/nguyenletan/PTE",
   menu: [
     "Pearson Tests of English",
     "Write From Dictation",
@@ -48,7 +54,9 @@ export default {
         "38. Starting & Finishing",
         "39. Success & Failure",
         "40. Cause & Effect",
-        "41. Memories"
+        "41. Memories",
+        "42. Agreeing & Disagreeing",
+        "43. Beliefs & Doubts"
       ]
     },
   ],
