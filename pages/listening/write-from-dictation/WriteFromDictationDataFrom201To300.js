@@ -497,6 +497,123 @@ const WriteFromDictationDataFrom201To300 = [
 		priority: "normal",
 		newwords: []
 	},
+	{
+		id: 256,
+		transcript: "There are places on campus where you can get milk.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa389b8ce-4ca3-4b87-b028-3d96cb06da2b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=jpzWL75e5R59jL3eu1t4QH43E5jO3%2BSk61taKVaBJdWnnR85LlNfA20fvgOPmLWhoo6ww3mNtNAo32Vv0Mya%2BZpz4uLqMQm0zUdha5C4nt8tZ1qp8xq7%2FupcTMn1J2t3pzlXf7qgvmDfmp0qCzomlIw0D79jQZiFGQzOZBQEHuI7RMemrHeedr3cHSm9xiIjVv6bkZmhUEuBvooBX2lj6GQEHuSXq%2F8Gl4QTWIy2qCNx8nOdbBZ39UBHm8vdK7jplub%2FBMVnMt6A6BoGFKaOs67ILGePyywdAzAf5FBWPjaBpfEpta2KpFTo8DgZgyeVz0EE%2BYUGet7wASy262tHtQ%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 257,
+		transcript: "A surprisingly large number of students applied for that course.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4c8ee114-ba73-4d08-b0f3-5ae74a1e60da.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Q80ULh9LpMlc7LkYDtRoz4wN2BO59aFu2sHKTPaYyviu9GjXcR6q5EhVlreE4XLXg1Ur%2BTAXfNrdy3XfNickUJDRsMRJYszy6L4fN4PMjd7%2BLiUe5OJC6a9wviLLiwSuBODXckHgGvvOh1qi4U5AC4Znti5I1oWu%2FKmvLm3CJby75csXHFDkjvqcJk6eYtDLMTtuG5n0cCBHA14gS3XjBn3Q41Xg0%2FeqlkJyDlS8EwELsbvYFGYrekWWdnHsw5%2BCQ8MzP%2FwD4Kta6LW24%2FCCy5%2BRBZX3AlkrWBviQF6Df2P02kLoFGHJtTEEe9FasNCJCLd8u8u5%2B801HDxZTDqKGQ%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 258,
+		transcript: "An essay should use evidence from both primary and secondary sources.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F39081b54-7d63-42f6-91b0-4e1731c50d6c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=V4aQAIwPTntAuIRMTtXchqq4owCKwBqzZq6p9YPSAuBooF6x7EKSAxdPXivJ8xqXfsT%2BBQ9mAqgWaRD%2F5qVzwNZanftAYnL9mt9Np%2B4GXq%2Bbi7WofadKXhWkjfwAmii2cFSbVYIs1FIWVRDonf8rYL01iwvb%2FQiD6%2BNptVHQOZ4UoWz0F1BVoCeAZ3ZtEBV57PMZ0Ev0kLUILSx58X4nxTUv6o8fRGn8DWUQ5Dg0QOPPInkxExUM1FAyJuA3DQ9CZNDqFSzo5Ao%2BYGNFWEEpRpbSSunOVYeAyqCBnmpSNXa0j6kfyoCqnceoDuEyrplMXejs51KwDeFA0Sq6vuJRHA%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 259,
+		transcript: "Lecture outlines are available on the college internal website.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F21b32bc9-e374-4873-9727-4d87aef40d59.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=bWRanl%2FdltT2nMOYYpwjnEMW3IZ9KnQAKZSbyOn3P65bT2vbFj0TTaTjvjyqPfPKLsgXUK4ZQWbpK1Iws%2B7mGY5eGK9zduSyWqE%2BXyFNGhrKKT9FHGJc2zWwnCvjBQ%2BRb3%2BkY87Nr60ornawto9fyhxiEoY9S00JVWKRarxD9YRfjYNEm%2BKoL9MgkSL74MJ6SOlwwfXnSE5x73E0gkDpcpYbP2kXWKgbEKfCB08EYpxskqQ6X8r6KLsZmDn3Fc%2BOyb72DdV5iA1i32P5F9%2BArDa0fs%2B7VvAVJPvqzwzYT4LK1J5XdauOH4ck8zCe3Hqj0135tXgX0kqPp9sqX4n%2FJw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 260,
+		transcript: "Understanding visual media has never been challenging.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa366d2f7-00a3-48e2-a4d0-0ee557b00755.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=M5XFPJIKM0AD7PLiscp6oc%2BuWClJlO0nJ1LcgR9vFTpUDv8PwbrnPMHot7PxKABeujY9oqpIh9GXlYG0imQL7Wn08DGcmDXqs00iHbh4YwAt%2Ff%2F1hmO1MBxtbNh8k02DJLWiYQ7dYSEJRdpsRgi5beoThfkA3eE7hMp7xryrBTmT32XUB9sBIG1vxt25yioUtz5UiJSC%2BTsBOfWlaHfod%2BKmtlS1xW5O7uA23xzL9oU8w1d5EZesqRWzuVIZcejONQtw%2FcKc3Zg0evyQKm%2BHZPkknndbQwGKtVBdvfBvkD2qpbYrfBZ83lnLgsoK%2FfgYdCrWVA9Ygu%2Fh661ObDIbeA%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 261,
+		transcript: "Please make sure your applications are following the guideline properly.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F209ee1ad-d852-4747-8333-524463744db4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=DhFno%2BChAWD%2B%2BXnkgYkRakJmOnOVDden5SiRwHTfYBmoJb8rk3tfB9WPSV%2Fnj5cUuQiE07nfxSVMfhsJXiLthvyxTt%2F5iJye2tIl14ZYPe8r4hfkbUPnI7Mom4BIKbwlPHxkyRTgoo3fv1rYDw6nXhF5q5UplQpWxkJbiD%2BnsTKbBk4RG%2BI7n1MqK7HqgDvmJYaG%2FvTIY9gRQwVindHSw%2Fzr8ZZRbvacUKYrLDys7bN5NrCw%2FaY51SBj%2BVV7rvRNRoFAnu5ztkDroMA4D0zyk8R4nDrfRzwi5uo8TzGIytuYr3DRqpdcNZrtTG7Ja3cUaiPSJCsmC9dy%2Fr3ZpUUeEA%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 262,
+		transcript: "New development in technology contributes to current research.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fecdb7858-4a42-4d30-8c37-2619922f0f1a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Zmb0gUgG5MjShenVfQC7b4zp2Qqbr7pJgruGzHqSuONBS9bM7omn%2BHNdcq2VhINXyvxEbkV8ni4yFlu2qGjJ1Ym1CbJnhzK%2F6zuNu0Qo7gqIACoQPccveJzCW5iMaV53qw%2B00KKU3eURPjv8HXe1nxi80p05uTLQeumHXheNDcoPWLmUeMamxTLXYAtwXfk4tEs3jkUZsfWeZKQR1wXlORjFuqaypENC%2BnkjyDI61DC5nWljn5hvoEZp%2FcxKZb%2FIN6iML2lI8zTV5HNxCl5s%2BbgNhfR9D%2BYg4e4knIzRwiABkTYqfpyMw1ZgBdtF0nonOemX4sPr8BXm1YVHTT3x9A%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 263,
+		transcript: "Parenting is difficult for parents who have shift work.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F20ce6f41-8a94-40ff-8deb-c585e71d5fab.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=dcrDdYBAqVNDaeRbEHlp7EG7XyYQLnKlzY3R4rzFgslo0pSSlT%2Fo5tVDAqH6K1lOlbznvkkCxL7Chz3VV%2BsFltKnALeDPDq%2BO5ybGxNXlN%2BduqDnPvyBAYA5ngVjXuVtFSqLTlyxAWzxwDjZ9S5ZUMAyIXRRlaRxUqn8Mq1z8PhkpmpGaz4c924DCgQyJWoBRoLNbq0xXj3u5JRWuJ0x50%2B0o40MqzbMyBWFhQYKgt%2FtJSzUpUCfdq6icElw3SmgZau42FSSLdHkq6B9UVuLNRecURYZpca4Ej1V9j8g6oIJEwm1d4kuy8EPKp3GJ67H4c6r1DtM0MXMBUVSq13urQ%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["shift work = công việc thay đổi"]
+	},
+	{
+		id: 264,
+		transcript: "The island is located far away from the bay.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F93b119db-f2bc-43ed-b5c0-9ded02dd988a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=KPp8RELtsjQgfV6%2Ft2KR1ckLNYrZETz0wnECt7yHF%2BPNFBhkovAq1CbShbQqNK1rWGnjHyXHr3LKVE%2Bl4t6XMBl2hhPsmUKDvO2CGHYVnZKS9qqHh%2F4ye8tpagGVH6dmCzScrM0vddeRXgg0yPjGT3Lz5eBbLeWEy8niuvic4%2FylakDoIoUP4Kzn7dteYrPoV1Fhkb4PzwOHhV0TZt8PL9wZF%2B2alPZvgsEul1hQHUgsnxVtcV5l%2BeFazr9oew4yLJSZzMFC%2BN6Ug56VE%2FQBO5GsE7Cv9PfSVaGRhAy1ndPTNYRlxjMDxqSvSaOb8L5TymMahHluv1SG28ku%2BfUi0Q%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 265,
+		transcript: "Our company must have independent financial auditing.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe7fac95a-1432-433b-a099-3d844847da51.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=NVmTr8zohbCD02teGa5pJJL5xp8ZNJLX9ZshTX85VZFkivIHICsc%2F0LfGDWEG0yQoY4oepnxRyzX5%2Bn6K58nAPCyLhAz19TLYR8Hu3AL9t%2FRHQobZwuQ1UUuyThbhLjhG4k2EzvJwDNui82FN8vVpgwMrcZESlbwyUa2xpYHyo14TCVb2ihNpRVf99%2FTUuVNkrKYORtLol71IIlMLnGvkYj0tzM5CriGdL6mukEcYLkdGlGQYaPOhPyrhNo1gArFZYfEXAo3RwgSUszdXOHxonMEKlA2BBwFsbOafUVqDyIgymAY1Yqs5xM2wzi0YYN1csjL%2B2y3TWBGiXZvv%2F0XPA%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 266,
+		transcript: "Academic journals are usually edited by subject specialists.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F258c8c5a-4402-4f5e-b5ff-2915445cea2d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=bOMmt1WegIEUtJKmJxz3q3J5kQ0DkeMIcqU1owvWPtzYVpNlCA8AdwenGjG0nuuyLwa07qWaFzApaPLHj9aLUs0pQPLShxPG8MHTfn8w0wtYHeDge6RS9UNK%2BclKoQ%2FiWJBO6u3G96n5YgtO%2FRLi%2Bx686WPB%2BGVdO1A6WLwhSGpOXK29KbTRsqa1aWT%2F2N7XHREFkYwG6k9BMoRzwhGd7GCdXvIdee1IvvrU%2FKGA4xGBp6%2FuuZN6OtAN7uM35oJ4HooCxmKbx00EJJcPljUiMq%2BUVEWaD4gSSc5jLhAOTx4KmqR45g3Vo7Pe1isJPMrKRGbGqIWlDN2ZjsHvA931Jg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 267,
+		transcript: "The amount of time spent on configuration varies considerably.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F318d580b-87bb-4891-9bb7-ff8bf7dd0fcf.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=PxCX7JFPKfPbwwbK5polDO8HDTusGnj6pz6c1C6HKGWWm9uGbGW%2FDaMTRL%2FB0SQE3Btc9K73iYG5gfV7PBIjV059JgurGQwE%2F0Vfvs%2FwiOveDPIk3maJUh4IUkCSJLXho3kI1VB4nmqrSj76XO5P5zE17Na7iPSPjDB0XrUIzd49LpFmVL7LEM52NUTxHEhlMHAZh4IcZ%2FlFL91GydQqgQbrC41%2BeZE%2F223Mn2TPjnBm4IrxctKFYXXcOQQkSbLDU8Umb2XFs1WRkXuMiKFwNUybqSKmrxBB1MxcBkmzROcGxUW6p6z8G%2BQqhZ1ymoSROWg5rDh9ftIDT1Pw42THRw%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 268,
+		transcript: "Career mobility is very important for new graduates.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fde18ac77-b040-4507-a24f-07d40e74f6db.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=C3cD4jE8cbInks4IwdhDagmu4F0aeNZ%2BnPSqE8UPkRgCEf9ATP%2BUBQQht%2BMFShV%2B99PHzgq7bM9jAKKfbXbJpoFV7EiXPIcQpCkUJ%2Bqyb05Js43WHHKJNrr5wlgX4Us3gAAZ%2Bf2vD9e0bWLy5tYY%2B2QfCsAK6PEowNx%2BNWBUEJ7y5IxznFBJXWLWHwgw%2FYgmpz4fkUwwsJ%2BN5ikZqHvNeGN2ZCTQIC16SpvY4GhAHXr4c9rO8bkGCECOc3aiLJs7L9b97wOERhphz1wkbQQw1mT%2BfrdSbKlIMvLely3jGDxig9e6uDbTa%2B%2BONl1jJFalfl1sm72Vsap5MHey4PlnKQ%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: ["Career mobility = sự di chuyển nghề nghiệp"]
+	},
 ]
 
 export default WriteFromDictationDataFrom201To300
