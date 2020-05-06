@@ -1,7 +1,15 @@
 export default {
   title: "Pearson Tests of English",
+  description: 'I hate English at all!',
+  htmlContext: {
+    favicon: '/public/favicon.png',
+  },
+  editBranch: "development",
+  repository: "https://github.com/nguyenletan/PTE",
   menu: [
     "Pearson Tests of English",
+    "Write From Dictation",
+    "Repeat Sentence",
     {
       name: "Collocations",
       menu: [
@@ -43,14 +51,14 @@ export default {
         "35. Movement & Speed",
         "36. Changes",
         "37. Speaking",
-        "38. Starting / Finishing",
+        "38. Starting & Finishing",
         "39. Success & Failure",
         "40. Cause & Effect",
-        "41. Memories"
+        "41. Memories",
+        "42. Agreeing & Disagreeing",
+        "43. Beliefs & Doubts"
       ]
     },
-    "Write From Dictation",
-    "Repeat Sentence"
   ],
   themeConfig: {
     head: {},
@@ -60,7 +68,7 @@ export default {
       }
     },
     fonts: {
-      body: "'IBM Plex Sans', serif",
+      body: '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       heading:
         '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       monospace: "Menlo, monospace",
@@ -70,7 +78,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [12, 14, 15, 19, 24, 32, 40, 64, 96],
+    fontSizes: [13, 14, 15, 19, 22, 32, 38, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
