@@ -614,6 +614,295 @@ const WriteFromDictationDataFrom201To300 = [
 		priority: "normal",
 		newwords: ["Career mobility = sự di chuyển nghề nghiệp"]
 	},
+	{
+		id: 269,
+		transcript: "The research shows that spending time outdoors has a range of benefits.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fad1bd9a7-1cff-4e63-8a85-74edbc0e6a8d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Po%2FEz8B4cWqka9xeAStBhPxx4mHqj8qTQ3rsF362O7YQ2H%2BzvSUbrHo33bukHQCAijLJtzUwQFrk6WUbNcxMd2tX38jJz0fLGz2BGvBGl42BOet%2BLAf6hdd%2B7gFCxRT5dI7Ok9LBqosiUPt9AyonD3zqYR7IfPNYwvlEfJKQQmlJQf7hQPPvI9zWr8ZcBlJXRxfZU2dpArUKSTPLZZkiVYA0iJUBq%2BAEmNbVSf148eIiC7A1NNPHtuJJJhkPeTfJSXMfnseqFr2pfjdm2R8f2hffwY1Jkty1tevoI3W5HAhHSVG%2FFzUBgxErwhewSjjflgltLpSsDHWsTPZz%2B9iHoQ%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 270,
+		transcript: "This course can help to deepen your appreciation of art.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe2dc0e44-8fc0-4720-a14f-96a1f74899ca.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=ftzOdl7C8uaEjYCLUFGWfJSMhFxKGeRRYxXmnzA%2BI0lNv4x2BqtbBZFCF%2BborIElbV1gNGud8Tk18Gs5y3s6kJzjhiDe7xmIfcneADaj1%2B4Y%2BImvIpnjgA07ea1%2FH%2FzZ%2FTnfe0KpgrdYgwSlXPYOGOq5oj%2BAfpYfhMrIWAEIX%2B9dOOPT6zWw7MKN2KONgCA9UNhh4G7cBj9eqtq1jWnq8tDq5dtOXBtZi2CBXoJYDhpUscma48M0YNCkB6XWuz1znvbfnBkOucl%2F1YBFpH7AsNKT18PJm8K4hUzFU1s6WQVN8mKuQ0uycZ3STVfnXPgFbYkD3aBJt6oU8CIQ22T2sQ%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 271,
+		transcript: "All students have their own style learning.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F46c3915f-2c23-486c-ba4a-819e5ab04c36.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=FcbkmJo8prBJzEKacFiyOU02EViffmFQdBIlye75EuqvSndgEQ8MACGWghmuYvr4ax%2F%2FLxduiPO%2BkrrJUGW6Ypm%2ByEsaogeAKTUikIQctEP7bed1OaMLLPGKUrEti8jPYjkLTae%2FOCKMG8aort9%2BEzuTkd405Gsbefd6iyZjPps62MTddJ2OwocttmnmjCVkZe41DB6nn42ddDB6YQv1XrsXRvklfW9NP4pGbnesV1VuFvnN5ElinJGSCSkQNQT3E3cgdxDP0uilaU5n6MMtqHCktZQscs9pcmb49eGSWv8Qlqf76Og%2FLgVDlVYI4UJzhSHApp6zUavUR6O6wrH4Mg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 272,
+		transcript: "Accommodation on campus is limited but there are more options nearby.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1946c60a-725f-4446-89e1-0ca8b6eb72e7.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QVLd5YxyxhslIou4y0StqWgK4eJBOS1VeO84Q0vGXI7gaVIo9GfddKKCvpOsgH3iK7WMbVzjondehWo2I1TAYwHtDmLwWIm6dAVyv49jL9aA%2FsR%2BxR5GFZNu%2FhJ4L2YCGzeFWzpTzNOyQqnc34EHSIk7sy0hO9HtRJgj0LEmDoYJQPDMVA3oeP9xulYinJuGmJgo2Iv2hJYNPpL2LX9DJCsRG%2F%2BKCs8rUzf6ruNYHCdEftLuehuE17OAyx9I0ANwPP9gOHNUmhGrcTvgJHySxKImbiG7Por%2FjO40yzYg%2FYVdCYqLJSTSg1mJSuGMjiov%2Bl%2FXmHSIpJkrCekzb2IK4w%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 273,
+		transcript: "Libraries in many areas were closed due to the lack of funding.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F684de25c-236c-4b06-8068-39fccb532d28.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=FDXB7r3YpFrXd3xZcgvua1wyhzFpp1SqwHY%2BRHO6A0UEzbiQ2j%2BgKFTZaXk1Hl5Y74L1lNd23KZJOZ4YdbDpbPrdmnMo0pXKhc7MorhukVvrd0nk0oDN1u4aXJnyx296vWvTm50r1BwJW3EpFTED6491GkcDfdvClTs1oNw3VvQO3elYdj%2BymBepJKhrrY%2Fdr7vQJ8B8OPllpvQaFIY6kXCq1dJqq6FQYJA5YznJAkwLoP8uLeYs9v28NZLvslaEob3S1i5yfliY3BpZTxnfCfdC2xoGeIOD5TxFuzX4KyN5kZLp79WognJI2qM0xDqvbE1haYQU8mbnRXL3e5bDhg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 274,
+		transcript: "A scholarship is available for both local and international students.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8e8e6ff1-9597-4701-8ab5-06c26149c5c7.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=KcoXR036Yt4g9vRsGHL3d7NPMmUtXnAIR8kb8bFNMVLUWKNhuNB2AdduXgqw8VSm4I3rAhFeuM4tsBGAbma2MUXRambp9t2jxXfS6c4JJ%2BXCkRPzNTSL8TV3GJGAkOUmHjD5hNCk0dMF66EzYlhEzu5A2q2WAhG5Ed5TO%2BrPXyKzrIkyXMSQe4zpdBudntj5RltTe6mOhRmPP3%2BIjKbA3jCo2jrg0Bl26cNsHz1DthXnYNwqRAE1PTvKNALJitu1q80%2Bclat7N%2BFHeKtlscqhn0SfdqWXpk%2FWQUqfSxzM%2FuzhE6MsVqKA1HgEEx1M6bslkIFyFB3qZY3YhG10BshSA%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 275,
+		transcript: "The student magazine is looking for a new editor.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fdc168d9c-492c-4892-ace4-fe84b382f393.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Fb31UYUifwQRLqw7Z7iSMGE2K2pd7CMnrCSaC%2BVGue0D51gUsro50iO%2BZOUpsecPA0j5Xmw6Dk4jPWE2YjhHGptH9soKcKbObH2zl4lpcvlTvKrVq03Qnz1bfXFGQAIZEVPDR6vpXWfZyNHcdKklRnbhMR7shUEgsPPu60Yz2JHRNrOZzsSGaOVpiOzudNDmCG6MBVU3nPwmw4bRQ6L%2FNgzzuaiDj8tCUemfHyDhX24r%2FQ3zOrZ%2FpEDel14hbGWZN5dEXpG1gyJqmV0Yx4RFUJaDwV9vIJX%2BR6%2BeHzzCW9cjY7%2FhCicdL61bRENM2mS8ptiWIMbQ07VjvYstPj%2Bn%2Bg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 276,
+		transcript: "Leave the building immediately if the fire alarm goes off.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fc931768f-80b1-432b-bd4d-7d8b2700260c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LpZHAVs2ZHmIZDTOlL8aLdnRWxb%2BH1hZsCCujNY%2BJrz8T1duEVzytnaV9ZNDnrErxiorsSGzX1Zm2%2FRjsi%2BFBgxkJdWRM%2FxCBdaoCt1UV2zSWDR2yLZbEqU7MtaPG3CqvBWMnkAmncIaz6MCrJWryV%2FChhtyqNeJ2wicpKJDuJ%2F5KG2HPjKUECIKZQ8s1iX1CxAkpZTkzm5nEvQWp3E9uVNCZtAW7g02s3YJ9TZzEDnKroEzOaLtUJJC0XbBYbPHVk%2BKW%2Bxwdy9hYXakDKofg8X8wpx6V5YDrWrP1IXeSQRRwnFmHl9pKTcY6QzHI9t%2BIvQNVY9r2IAbxJJJPyNy1g%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 277,
+		transcript: "The finding shows that chocolate can improve memory, immunity and mood.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4eae9c36-aaa0-4d78-a086-b59a1103ec62.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=L8G7xPWO2KGIU%2BBBd%2Bd104Ioe2tANIR33RzBdlHU47yHgxJb11w1tNjPtQpyaABNFVbU49Z%2BEjPNJ7XNVeqUtPNvjZOc2VVoyGB6KzQCInysFHIZNRamLknsTa9NGJxhMTIulUbyMvkRqhFET9s65%2Br4uOJZm6s2J8rMGxs0EMR0rhpFzP4lFwZxBqA%2FiTnlblPIlkPVAxEiFNvNgXiXv0R6xqmqqk%2FBX3r9TPt33NOhmHYmLjSBlYWz1t9nbA%2FGomTY47JbH%2BA1tOAgTFJVBtVAOg%2FtOlXgmsPUKo5eSXQwcwjkloD4OxsPHNakT2B1rB9%2F4GxKx%2FicgZ%2F1cvcLeg%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["immunity = hệ miễn dịch"]
+	},
+	{
+		id: 278,
+		transcript: "Rivers provide habitat and migration pathways for numerous species.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F23d70428-e5ca-4b86-b657-8b709c80ca72.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=jp58PlEItptrk%2F8gkT8brbppcZgurw5a3QwI7ZCXinSP%2BAhPCrtVL0coRWs7p4zYsBd0mBMEinDpmpukmwu8GNqbSV78H9G2ZlyEsosNQhHo%2BZWkUZqUKgspBFfTUcUuIqHTH4nYxexPYfCn1EPMU%2BkSAZ5qake%2BnLhYXmG4B3q6YWF7d7xekj%2Fh5LQjCilm4Q4E%2Flyt9uXZV7w3an5r9hNOF9cGaNUw5Tf%2FaM5%2BZuccnadX%2Fv6%2FkVhTgXv0l45pYeY9oNJwJJJifJ%2F7KgU5aRqNBiSzzydbdbn41MsX6yDyXtBuxA6IAn42U14xeglX3NZqRBkPKQLm74CKpsapVQ%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 279,
+		transcript: "The degree is taught by using a mixture of lectures and seminars.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F920a877e-e6cf-4896-bc63-ab93a66febdb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=M9vUTq9RQ%2B50h8Ldg6XQb0a%2Fc2p9l7GmDgIKwWpwLVcU%2FddXbl76%2Bu%2FaKrmjk1UhLI5qj6NSMq01zmRKhJwdAvOK8eqCgwpc6pN43WB%2Bd1j2hlmAMQXvOL1Ja7XZNVRh8JJqd%2BuufA%2FUZJokc9xWroJRLogHNhuTHwXxnO6rlScY9iGH55xokvgsdnIgXa0XkrwSObrF0DO%2BSvZaLGqdjivGxvLJGnBDCAY7NM7ivqXTVuZle7i2TWKWngCYyQf1qzRCGphCnANA5clMlp8jgJ15ZPhYWHtB6VTIA2qUY9pXlU6DBmH5JaWO6x%2FsQ362%2FqYE%2BM0c3L2v9eVQaW83tg%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 280,
+		transcript: "There is a variety of different ways to present statistical information.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4c418f9c-bc07-4687-ae8e-69bacb855dd2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=O6Jm19WqScCLF4giOC6tTT9pMkCVjl25M9IYKpe%2FSQQ516crucEr0%2F%2F4mor7fWEYX%2BQLu8%2BFTlrT0lu6adDHjwcO0TRojeOTLnNss1AxSU1qJSXP7jHVt24axA1ls3Bk9gKmq6pFIA8grBgK7vxiXKgbzPaIVJ7EliM0DIPLR89%2BtDzF3whGgFaifM%2Fg4W%2FE3rpgy%2FTlKiL809t5SpU%2Fx0Kj5o%2BL1tmEWEI4mO6m5lZiWeolEXlQsiihat9tDRmHHGgxOqjP3mceOP8haVw4BO%2FkbN9MpSv%2FyudisIo0Wn3mTxRGbAjDqPizRqeignMorXRiGfOtdUm%2FY9BtD2gepw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 281,
+		transcript: "City planners recognize the needs for accessible public transport options.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F276d1488-3129-47c2-8f6e-ccf744b3b5c6.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Ssa5t9KRqM8psZTZAX%2FgQE7xSPC3WPPN52UTvdAebPc5Bb15tdNa6SXmLZyOrQ%2B2SRaHQN5vfT%2FJQeWlZkx6x8Df20qNZIM8DlPQSgU293iRXUQpvPECepQPwAKzb2o2X775qUvoSSeoLs%2FY90PJiC47iIdXRpLeR00IN2QtCu43YAOVyjXVC2I1rn8IQRADP3OhqB7se45m%2FI2FUYjAzK0f%2BxoxAkQ%2BtPWkOsplJUKl%2FHjud4J%2F44twQJq4lpr%2Fq28ia2IFcopHsjfcKxRlMnZrfLdVlaBosJU%2BgOjYVezNUdLbcQXeHAY2WUnKOwXXNfbC%2BLhBbg1jubhxh5ZRww%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["City planner = nhà quy hoạch thành phố"]
+	},
+	{
+		id: 282,
+		transcript: "The deadline for this assignment is tomorrow.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F91aaff73-7666-4eb1-9a2a-3e311102b554.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=OW%2FeTOzm7vvjur0iY8nnwtbT8ucwHiEYTMXzmXsFz9plrDEspIV0VRyTJM1yZLPB1fq6cJqEl6cFgKMsPgQhswlLMCbTMvMt2y4MhluGtY7wTYHNDvHZJwMXvMZ0J6kk6sJhLHXXCl%2FZ1rZ08%2BT2ZLiflXrTdgSqdk1CBR2ODLUhPudHnsw%2BXCpKxLwOa7tl%2BNlyrSgYFi4ucCGu1UzdYqh9E5AvfL0ElubISJH62zaZwIWI1u7%2BY8xU%2BcBdga9dYPRSvBHGKqkLiNrAVT9HTeRmbmjvYC%2FzTXzKF5pKjf0%2BCg%2FfcV33U1AmD8Zzmon5FY8BEulcewkKCBlPXshhjg%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 283,
+		transcript: "Many universities provide exchange programs to other countries.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ff3841405-f7a4-4031-8aee-176375a8e7ab.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=fWGMk6oISkhY%2B4VN4gcjgCsm9WpihooFKYs8Pb0AXjuyBKFaUFQ1nRZinr44jg7SqhG7hoo%2FWk9mYxuP7FEc2cmb1YufVUZXiOTpkQoYTq5j3F3bm42d4qA9JYjIRpKdGis02nRdo3L8iMmbm%2FZsOFHXiJffUm1jDsLS8SpR2v0al%2Fqa33bTNZjUBABRyyyz4qzEkUdVf37C6bKoapZOlSsL580NbYDyYoeToAh8vTcEDrL7uFaqQ2iCeXM5%2B%2FAfYAu3r%2F2%2Bp%2FJ%2FDcYYyi%2BpsrJ4pxzBJdHLyF9HRRY4h%2Bndu6Nshjl0bs4%2B%2FpGmNZUb6R05tMbuvNrh55jSlvX2pw%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 284,
+		transcript: "Teaching assistants play a vital role in the learning process.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4f2fd487-b8f5-4d29-94cc-361095b84f2b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=imTqIknIZcJIIdVVdS3xzBm33B84gnauyPk0llodfjZ%2BOC09sh9uOsE0WaLy3uk1sNXgSGMtLrCfakkya8hp5MFN1ccbkR4zny9%2FjoIZrWZp7sCERmfiQIfW7PzfSkSkHXg77rfzuDWzUOtlnNAoKsuIpyUoxBlawpRV0Qpb8f0LBNky%2BW6WxMpo3xH982mWCPOrbnf3jkLOMLCmLxJgUm%2Bj8vmsSBPhwpUW32%2FkGFORrQ2zIGbNLaoYkUE0%2BSAIqBQqyB1aTOemd4lXjzNhsP2fK2lMdWk4ajNkY0oljbOELpTN92nzRTbfD3Ok4r2zoA4q6f1oVV5lN79TSRnd%2Fw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 285,
+		transcript: "Reading histories involves a level of careful selections.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F67d15c7a-92ab-4701-b4d4-9766ee53fd7a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=YpJUj39IySobxFk6VCd2tZxOGz14SI0bcbe6SGOXcc7Fq0Sk39GmwN1wrv%2B6InjNcqaMxpOC7nXOi5eP%2B%2BtmvLfFrVSFvHOUpVf2kM5B7bISyQG6eBDrxMIQsNe155mKQDGkzZwfKQDqdvlc%2BjewLbVbMYx9boPu5unVWDcoYq0%2FhD1ToDLhkiH7XLBJT5rEUe2L5upmDVjvYI0HyHiPMGB8bQbFdE%2BYNLDXRH3ms4q9SggIdnHjj1S66fYIdN8GniPMmjp5qGdUtb%2F6XoOyOe6dLvLmhAbSglKiEXY%2BdkVHH3J9LqTGVMdS2ha8GMZBrlSskzvBbVp8jc5S%2FXFwsg%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 286,
+		transcript: "Our workshops are opening for all students on campus.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fc584d4e9-6ac2-4cb6-ae20-a28862f37a81.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=KwH3qidTVOhgFlrQQ3vGe12GWfaQUZgc5e%2BSGxDpqKJrw69qrvpNPRa70u%2B2nlrzG49p%2BBgszGljWJd0rQdmzUPz4zIa6uezNdPXU570uXXerltSiyUF4tlOfPuPtd%2B8PFs6EhP67j95OJo%2FiDB2x3m1LWN%2FOBCFrpZPHEn7Cw428y0r9qSvAZJo4b5Oij4nSMonlz8irsp0a2vqM3DHV%2FZZJH1FLvf1iDxIiKc3qm3GWviSv%2BtWHs9cmJF4IvRONlJT4ussarigLJiq27ocUR%2Folp%2FjRaGZugCVKDkHfYgDDHgNXeSRjXkPKxKUZ5Fpdf34DjjTlqrKPgQfATy%2Faw%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 287,
+		transcript: "The university sent exchange students to other countries.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F13e0e717-4cbb-4d05-b829-c0407a8aa59c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=JCRZBr1iOjmCa5RoHVPkxGYRxAIJgLkUoKoI%2BdHzKyVW0CJw8Ooodq0etJ9ZUr%2BJWZMZv3Duz9WT0N4F62Nxof5nRAjozvr1fMBJcdXrKKQ9ou9MMaYsAtWU1rLvQIm0DxHDdAId4O686xaA2%2BOoMrh%2FCRhVTzf7FPYOIiPmbE4%2BrskpoVFRv7LadV%2Bm6%2BszcV0%2FiMyXY9Yu1mrQ3yfp%2FUhLmxH34tHJYSsXPkjOxn6mx%2B2k7dmd4zlVvFB9gvYVspak1EHL0n9HnA8y6%2B6IdlWk3Th883wLFSkj4kuunB6lcHGfo7kWOObcfaZ6POMmCkScit4sk0TK6E9p0qbKSA%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 288,
+		transcript: "Sugar is a solid carbohydrate which is always used to sweeten food.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F1fc7a294-15eb-4165-8bf4-73d1a2cdff8b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Mfht3WbyMsMsP0AgikcjZ8ofUMRFgbfpc8x3edfOtew9CD233q8d0SH1%2B1h0EETUA32sdkqSd1g%2BmlbydL6WULXhaLoXeImIhYmxKAlKm62cvguOghorQWVcF4xFQqj%2FYKJJIDwax4OycA6Uy%2FCcLbV6Wh9XWMl%2BCmTTCxovr0bk9VBPNQwUia1%2BWo7y473t5DfYvOTwpad%2B0%2BOIvHiNMEx0yiq1UHQ4hR5JvQRmYWhA%2FVtVelYbzbp5VSic%2BIjSX89OgVKW3ebUMiX6mo7TnLWskCP93KEtkaiV0KkFUy7%2FJlwkm1jY4luwl3fRL4Nt%2Fq2F2y5BY3jJRQQI0Doi9A%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 289,
+		transcript: "Nutrition plays a key role in athletic performance.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F4125bd0e-18da-4847-b200-806b3ff75194.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=gEieORd%2F1jpNPkNW5BOfTUIGriGtVBq%2BHxNR1eWdXkd8AOTdJcLwWKZfoo1UhaKsfG0lal6hT1BM5MguHIrboXmFdhVdLGPIKSAI%2Bc7d0yA%2B4v9QCUn8p52HEgVwmqX5YUVBD2exz2yLv3PVbIw5Ynq3bvaNt8v5t3BIG3Caubo4i1yrzPUteRAoqbLh%2BLkEN7rFddSv1YfTAXIYkuVWHfrLynvlj%2BRzQab4x1vkM5io3mzPaswD53ZEa3vdyjLsTy8dKiGNUu9WTCBKIq9CxIBINe%2FL4jj21NupG%2BwkXjjdz9OBxZT%2BMGs9XlO2NsBnsCuwDk%2FsXyADKDozC%2BFfhg%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 290,
+		transcript: "Technological developments have changed the way we lived.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa09aa593-b36d-4ddc-82c2-37bde5597e5f.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QiqGI2yFarLMEMlY%2BPV%2BIeGZ3RdJp1s0CWTLLjpRFPJPo%2BdWqHyAXd%2BRvyKz7V8zFQqgk5OJ0lAl4a1E%2BIVBkU0NmweaNWURcOAq2JVFSd4us9Sd%2Fm2kC9b6wLRyQ1ZCV6tr5ozDpybZWoM21q6a8e9KdAKHUXijCama9DwSPizWtlb5rJrx2M2B2Qt%2BzdsLVJiFWrjnxP%2FKQg6Wk%2FOp2hSg3cdy5qMm88HOD8DZWae56BlVPNFTCZZeWMMll0tfCPb%2F84yh53JxkMMCJISHjJ3tDgUtDOZYgZcHukA5NQrsv538%2BDnsFMPojMbmvIBAe3U%2F8r8Tfq41yH7CppVsfg%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 291,
+		transcript: "Population geography includes the study of demography.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb4f20018-2879-43a5-b89e-6def382baf96.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=i2aUkNsSjlkcAYMBrEg3WEAG20mxlqiz0ypEcvIL9mvd5uArFRPx5Z%2Fqq7AE9PbsJA61Zh%2B%2BVdNq6OSffWbN7xagnhWDUIsnUxx%2BNRBXe7Z9P0FDsfEW7UShPTCBgeb9SDDst1p25U1oLGlWOPRIkZCOLD8C%2BocpbVDgJjKNVmcP%2Baiel0xMKVCX9jYpbLGKqrQz%2B7lmykw7B%2FBQCSIylnkhGViqAYXut3cDJFSgQ2mYfITJI7KQUo66ZxnLito4f77pbyxSNStNDQmZv8u%2FX1OCV46OmNFTSdQ79B6%2BpqglsKB3%2Fh%2BEVs2IHTZXmRqnc7n6b11K6J%2FVCnfpMn6XNg%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 292,
+		transcript: "Many diseases on the list have been eradicated.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ff789e502-3016-4cff-9574-4a87ae07e46c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=SFkHGohaGNMtRIWDx1lc%2FUTV3orRJGE7cUOR%2Boz7moHMBx95ANucJyihWvmohk5RhM7f4XqOvhsa8jl2ceDLIZbIo93OJB77ZwaItdn5np%2FZv0Jng2lErc%2BFRG%2FxGkOZwX0oKtEOXSyXEUrnGt7sVUxMm0mPGQYWv%2Bq4lh4xvumQdBIZKbW0zVbF%2BWi8j966%2Bxfoh8X%2BtU%2FgrOw5Su4XNqHH1dms7ju8PTlO0wiakwOUoOqCUtC2VMjc6zg5MFqdQYqZP7cxjj9i4BsCNNySDzoI8mUcTsEsd4b9msSnDvtsvjocRhpAXvzMAy5EayjkXY06fjvrqQPtLY6Yll5QCg%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["eradicate /ɪˈrædɪkeɪt/ = bị loại bỏ"]
+	},
+	{
+		id: 293,
+		transcript: "I thought it was thrown in a small meeting room.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F756b080a-5f9d-41be-ab8e-c4a17158e58e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=d3qSy1QovzzK%2BLPXLcFzRaYCARlFCjbzEWaxQFOnXjVlH70RUzv6pTj9CsIv%2Byv9x1WKnxpVm2NN0SToZ0vx3x2QaDubUs53C%2FIgxBa4eF1knODjnLs4kSLFTB5Omh8yDjRBL5PNFsmJZNKBybESvtDV8lkG5vbh8aFPffOGdv49QFIXeBlDlKnRJJqddCnjcPfCRPvRV27pA9mqQaR%2BkgI7O8PHM9OqEYhIz87JJe4Zqi7hXxkrGtvup4flMPYZLorsSEgn617r8a9RyONoZkm2HfbUVXOJ63iUfD%2BLfFDxWGofd9VwqMZOF2xv%2Feytxoaix%2B2ZX1%2BffQ0Pf5EmyA%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 294,
+		transcript: "Information technology has changed the way we live today.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F2cfd474d-e359-4d08-903b-3b445b644540.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=fbekKs4YCWJudfFtFuIE7YL%2FjXzrwXlWj9zfT8ARLYXvzteeI2im9RQFHFVyuvu1oLn5GVVOos%2F1S6SSuGFH79NbYk61VY%2B4kE0PTLT07%2F%2B3B%2FOOK9OFPJAqCqNjNY8a4%2F0gWvB7FB60cQuHCUtAtjrxo2v2gm9kooVaYca8bi0ogV22nFReR0TLRpjznVVIJ1Lv8GQCpqGKSwUedGKdUUoGXHgK75SEyzikkxyd4BUFudYEuE%2FUHx4wAhFxgvOfqnH5LCihZLEJi6qPyTXgeJde%2BvFtlb0vUscd%2FDM0MNDvOGXgB51N8A2DYPlxf5hLN%2Fidgag9YXse4KDIGeDA2A%3D%3D",
+		level: "easy",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 295,
+		transcript: "The article extrapolates a number of very interesting experiments.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3788849c-c25e-44c8-acde-52f77c48ba4f.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=XMjdnl%2FIVVm9hOBewAZhen65fya0Nc0Vigbw1AaqTuEOiykMvzSSc08IZu3tuzwUCw3PWbQYhE5EtTQ%2B%2F3%2FFvnNz3rHuDRh6aNqlPQ%2FytpkFK%2BmBCBwOWbV6wUyMnk2P8f%2FGhboJ1NaV8IxGVfmIcVbOqefVOa79z8x1Di%2FVrptIlBWyWjyRcGqAekwaz3R1XRb%2BkqplfuLcrmWjrjIx9ZW2%2FG2IvslNnKyKpmdV29M7tr%2BnbG%2FqaDFDK7Gg7XSteLDW1O68syy0UvLY5dBB0%2BErauxvhcop973fLkRaWY1Vk7Rv5OTiiwZutcR2RCQKlGKedbIhCYM5wNnuEEwiXw%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["extrapolates /ɪkˈstræpəleɪt/ = ngoại suy"]
+	},
+	{
+		id: 296,
+		transcript: "Participants are initially selected from a range of foundation subjects.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa33ab56d-93be-4813-8ce7-16799fbfa380.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=buT1luDRc6MlDpemH0fu%2FyVeBzYEAx4ytfZPjZtKUL70dwwVbX0ce%2BXWRZB4NZVKGWiES5RrmBzBkBZvSPuun%2F4t7h9BT2oASMH17w8%2B8WHFC%2FW%2Fdl53Qw%2FLsjkgZhEzKd8SYp4TgzLaSPkmYG1QlR0qADcKVPlJKU7iT9D0brjoOBctO83B4uwE3MA5eT6CkVS6H%2BapqK%2F9%2FfIrRFOZSJIHbbyMFBC6FfLh6joz5HfUrwng1UygAWDhpLjZ0GjyrOLTNrIWPk9qmRCpP8wb5qUjys89OPMIfMrhtWeeNTIRSVWVi7rzxiqlfO%2Bn8hdaVXJFvBQ9dSUsZFdzZRsf3Q%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 297,
+		transcript: "Many graduates of journalism can get jobs in the communications field.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3bd3fda5-c6e8-4ada-abf9-567f0fe13643.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=VZm8P9h4w23qBCsKPWGu31LAra8uce3aVTgK1qqTaqiOQk0bqQXW6ZH0Tp1%2Bha9I9nrnYXqzwm5uNbmJ2PewDFCj8AHRYweY797UdNnAJJJiPLTgvfYe13hbKyA8LDnmv2gYw16GV5jBtGZQjCD6og2l1Lasq3Xv8pyvaneA7wI25CTYb8gMUs1Tw4eiAEpJbITBTP8VHjZxkqSJ2XdvNICyvX32x6J4hGHn8uxAYFoBKACpAQtgr7u0yweFqs4a6SYQF%2FxPiMcIyE%2BEcrcH%2Bm2uX4qSy%2BpaHV1dR7sdBwB43oA17DSKaZQrxE3OrZm37IndRcvBOz5F02cFHzj56w%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["communication field = lĩnh vực truyền thông"]
+	},
+	{
+		id: 298,
+		transcript: "Before submitting your dissertation, your advisor must approve your application.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F29068ff0-75b4-488f-8e6e-62adf7abab81.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LFjFIuhxE26gQFypcrQzqU0%2FAL0AgUj5e8uYXZJiLxc0lvHblAUBeY3OKrv1NK5PJSjVFHrQVNwVv1fac2WQ5bf0JRqxCvQNpB%2FjLzzNlslyCLgWqA%2FbWdNItr5ZudubI%2FpTvMcmedmW7VPSzanZZYkCr5AueB2I9IxOXwVpKU43seKx0aJ3YBd%2BXJy76qtUY2KTQM59S6%2B95kx0n0hJf%2BQwNEZSUTy%2FUrsrg1Biuch5ep7EqfjQkyTuqgPNjQPzPn%2BX8z7sQhy2JZJ0SJQN5wRJAtX3E0SQuaoQBXw%2FUrdDrVDgt4xTD%2FH4b93QPI14ChA0Clw3JZWT9PY%2FZoQETA%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["dissertation = luận văn"]
+	},
+	{
+		id: 299,
+		transcript: "The railways made long distance travel possible for everyone.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa9745e5a-2f19-4e33-89f1-9e72dbb8c963.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=PaLy4SchWxAxGXrMQsF4B57u0zN5VaWdBTvgqXAB6gSrXJShxmzLS2r8td8Tj9VIDBsFtmEDgqMsmyTGvSs55zW6taBnSH6tRlCpSV48KECWne5eGyr31fKABuUvpvPS0Imo4VQVjTWkjUyM8AsR9%2F2B6uQOwc5bf18df%2F%2BJVv%2FruV%2B61M29j4uzkWGH4Ex%2FqCFdjhphZstAckbth5P3e4S05iQ8hCmdV44rZLCCtigqkslJKz7eq5kMsGSeoqKXUACI16mHUTpIuckqek5y%2FJQHHGTg0VaEGSVyKizxEwjdmEUfyKJ2fAtiS3TL9AGe9fdmgkd%2F6cBrZ%2FEJTW956g%3D%3D",
+		level: "medium",
+		times: 1,
+		priority: "normal",
+		newwords: []
+	},
+	{
+		id: 300,
+		transcript: "The nation achieved prosperity by opening its ports for trade.",
+		audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F7cdb5bcc-d472-40bd-97a2-032f82d9dac4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=A8bnS4oIfMX1FuQJivtxIjLdT4FVDP7bAFkv6mSFNU8%2FYMbGaHY4wSgyGrPkA5BYmXOdpZyDoolTXEaxaKkUdQLylY%2Fr3IotD9NOlOiYXyXb4swTL5XROL%2BNb0u3nGHFvx%2F6evZUzZsZ%2FbbS8juIjljts9GUcHN%2FGfqxHUEIfzcXZikkpLddQE8ayeP5f2djREGeXexwFRLxFCpUBCvujLfxVH7dfWPOs%2BD%2BsV7lhHp9t34RkK8Hx3XKoGoD57gwvsVyDWseegqHQmDbLzqWcWa9oOJ%2BNSVIqFIi0qw3cx2GYkVcR1QSajsUzZky93K%2FHKfUWWsLYFKWhG0yRB76rQ%3D%3D",
+		level: "hard",
+		times: 1,
+		priority: "normal",
+		newwords: ["prosperity = sự thịnh vượng"]
+	},
 ]
+
 
 export default WriteFromDictationDataFrom201To300

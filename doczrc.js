@@ -68,9 +68,9 @@ export default {
       }
     },
     fonts: {
-      body: "'Jost', sans-serif",
+      body: '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       heading:
-        '"Jost", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+        '"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
       monospace: "Menlo, monospace",
       size: "16px"
     },
@@ -78,7 +78,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [13, 15, 16, 20, 24, 30, 35, 60, 80],
+    fontSizes: [13, 14, 15, 19, 22, 32, 38, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
