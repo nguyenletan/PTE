@@ -1,5 +1,6 @@
 {
   "name": "PTE",
+  "license": "MIT",
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build",
