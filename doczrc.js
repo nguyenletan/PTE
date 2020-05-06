@@ -56,7 +56,8 @@ export default {
         "40. Cause & Effect",
         "41. Memories",
         "42. Agreeing & Disagreeing",
-        "43. Beliefs & Doubts"
+        "43. Beliefs & Doubts",
+        "44. Deciding & Choosing"
       ]
     },
   ],
