@@ -94,10 +94,10 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         pr={3}
         sx={{
           color: "background",
-          bg: "primary",
+          bg: "text",
           fontSize: 2,
           border: 1,
-          borderColor: "primary",
+          borderColor: "text",
           borderStyle: "solid",
           borderRadius: 4,
           fontWeight: "bold"
