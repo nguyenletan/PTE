@@ -10,6 +10,7 @@ export default {
     "Pearson Tests of English",
     "Write From Dictation",
     "Repeat Sentence",
+    "Describe Image",
     {
       name: "Collocations",
       menu: [
