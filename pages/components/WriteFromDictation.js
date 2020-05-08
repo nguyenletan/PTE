@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import t from "prop-types";
-import { Textarea } from "theme-ui";
+import { Textarea, Text } from "theme-ui";
 import { Button } from "theme-ui";
 
 const Question = styled("li")`
@@ -24,10 +24,6 @@ const NewWord = styled("p")`
   font-style: italic;
 `;
 
-const Answer = styled("p")`
-  margin: 0;
-  color: #0B5FFF;
-`
 
 const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
   const [showTranscript, toggleShowHide] = useState(false);
@@ -43,7 +39,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         {showTranscript ? transcript : ""}&nbsp;
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
-        {showAnswer ? <Answer>{answer}</Answer>: ""}
+        {showAnswer ? <Text sx={{color: "secondary"}}>{answer}</Text>: ""}
         {NewWords}
       </Transcript>
       <Button
@@ -57,10 +53,10 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         pr={3}
         sx={{
           color: "text",
-          bg: "background",
+          bg: "highlight",
           fontSize: 2,
           border: 1,
-          borderColor: "text",
+          borderColor: "highlight",
           borderStyle: "solid",
           borderRadius: 4,
           fontWeight: "bold"
@@ -93,11 +89,11 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         pl={3}
         pr={3}
         sx={{
-          color: "background",
-          bg: "text",
+          color: "text",
+          bg: "highlight",
           fontSize: 2,
           border: 1,
-          borderColor: "text",
+          borderColor: "highlight",
           borderStyle: "solid",
           borderRadius: 4,
           fontWeight: "bold"

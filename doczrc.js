@@ -10,6 +10,7 @@ export default {
     "Pearson Tests of English",
     "Write From Dictation",
     "Repeat Sentence",
+    "Describe Image",
     {
       name: "Collocations",
       menu: [
@@ -66,6 +67,28 @@ export default {
     styles: {
       h1: {
         /*textTransform: 'uppercase'*/
+      },
+
+    },
+    colors: {
+      "text": "#00044c",
+      "background": "#fff",
+      "primary": "#47c1bf",
+      "secondary": "lightseagreen",
+      "highlight": "#b7ecec",
+      "muted": "#e6e6e6",
+      "gray": "#dfe3e8",
+      "accent": "#f49342",
+      "darken": "#00044c",
+      modes: {
+        dark: {
+          "text": "#fff",
+          "background": "hsl(230, 25%, 18%)",
+          "primary": "#b7ecec",
+          "secondary": "mediumspringgreen",
+          "highlight": "#47c1bf",
+          "muted": "#e6e6e6"
+        }
       }
     },
     fonts: {
