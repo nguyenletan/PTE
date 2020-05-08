@@ -2,8 +2,9 @@ import React from 'react'
 import { Helmet } from 'react-helmet-async'
 
 const Wrapper = ({ children, doc }) => {
+  console.log(children)
   return (
-    <React.Fragment>
+    <>
       <Helmet>
         <meta charSet="utf-8" />
         <link
@@ -13,7 +14,7 @@ const Wrapper = ({ children, doc }) => {
         />
       </Helmet>
       {children}
-    </React.Fragment>
+    </>
   )
 }
 
