@@ -58,7 +58,8 @@ export default {
         "41. Memories",
         "42. Agreeing & Disagreeing",
         "43. Beliefs & Doubts",
-        "44. Deciding & Choosing"
+        "44. Deciding & Choosing",
+        "45. Claiming & Denying"
       ]
     },
   ],
@@ -82,12 +83,14 @@ export default {
       "darken": "#00044c",
       modes: {
         dark: {
-          "text": "#fff",
+          "text": "hsl(210, 50%, 96%)",
           "background": "hsl(230, 25%, 18%)",
-          "primary": "#b7ecec",
-          "secondary": "mediumspringgreen",
-          "highlight": "#47c1bf",
-          "muted": "#e6e6e6"
+          "primary": "hsl(260, 100%, 80%)",
+          "secondary": "hsl(290, 100%, 80%)",
+          "highlight": "hsl(260, 20%, 40%)",
+          "purple": "hsl(290, 100%, 80%)",
+          "muted": "hsla(230, 20%, 0%, 20%)",
+          "gray": "hsl(210, 50%, 60%)"
         }
       }
     },
@@ -102,7 +105,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [13, 14, 15, 19, 22, 32, 38, 60, 80],
+    fontSizes: [13, 14, 15, 20, 22, 32, 38, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
