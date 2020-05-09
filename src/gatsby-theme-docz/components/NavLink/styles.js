@@ -3,6 +3,7 @@ export const link = {
   display: 'block',
   color: 'text',
   textDecoration: 'none',
+  fontWeight: '500',
   fontSize: 2,
   '&.active': {
     color: 'primary'
