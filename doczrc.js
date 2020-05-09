@@ -59,7 +59,8 @@ export default {
         "42. Agreeing & Disagreeing",
         "43. Beliefs & Doubts",
         "44. Deciding & Choosing",
-        "45. Claiming & Denying"
+        "45. Claiming & Denying",
+        "46. Liking & Disliking"
       ]
     },
   ],
@@ -72,7 +73,7 @@ export default {
 
     },
     colors: {
-      "text": "#002A07",
+      "text": "#00044c",
       "background": "#FDFFFF",
       "primary": "#47c1bf",
       "secondary": "lightseagreen",
@@ -105,7 +106,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [13, 14, 15, 20, 24, 30, 35, 60, 80],
+    fontSizes: [13, 14, 15, 20, 22, 30, 35, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
