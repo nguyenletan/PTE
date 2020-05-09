@@ -1,5 +1,6 @@
 {
   "name": "PTE",
+  "author": "Tan Nguyen LE",
   "license": "MIT",
   "scripts": {
     "docz:dev": "docz dev",
