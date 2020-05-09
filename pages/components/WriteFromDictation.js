@@ -19,13 +19,14 @@ const Audio = styled("audio")`
   margin-top: 8px;
 `;
 
-const NewWord = styled("p")`
+const NewWord = styled("span")`
   margin: 0;
   font-style: italic;
+  display: inline-block;
 `;
 
 
-const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
+const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) => {
   const [showTranscript, toggleShowHide] = useState(false);
   const [showAnswer, toggleShowAnswer]= useState(false);
   const [answer, changeAnswer] = useState('');
@@ -34,7 +35,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
   });
 
   return (
-    <Question>
+    <Question key={id}>
       <Transcript>
         {showTranscript ? transcript : ""}&nbsp;
         <em>({times} times)</em>&nbsp;-&nbsp;
@@ -43,9 +44,9 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         {NewWords}
       </Transcript>
       <Button
-        mt={1}
+        mt={2}
         ml={0}
-        mb={0}
+        mb={2}
         mr={2}
         pt={2}
         pb={2}
@@ -78,12 +79,14 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords }) => {
         rows={2}
         sx={{
           fontSize: 3,
-          mb: 1
+          mb: 2,
+          mt: 3
         }}
       />
       <Button
         m={0}
-        mt={1}
+        mt={2}
+        mb={2}
         pt={2}
         pb={2}
         pl={3}
@@ -114,7 +117,8 @@ WriteFromDictation.propTypes = {
   audio: t.string,
   times: t.number,
   level: t.string,
-  newwords: t.array
+  newwords: t.array,
+  id: t.string
 };
 
 WriteFromDictation.defaultProps = { newwords: [] };
