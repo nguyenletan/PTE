@@ -22,7 +22,7 @@ const Audio = styled("audio")`
 const NewWord = styled("span")`
   margin: 0;
   font-style: italic;
-  display: inline-block;
+  display: block;
 `;
 
 
