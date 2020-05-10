@@ -74,7 +74,7 @@ const WriteFromDictationDataFrom101To200 = [
   {
     id: 109,
     transcript: "The northern campus car park is located close to the library.",
-    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fk4nqseg95mqnffz7ro6las-WFD109.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Xk8XekddkncOkih0bfHPBOZiNRYGrLoVC9%2BTLHjAJG4KacTtC1LpL0Xw7r8ymSTsL2wfvWNzDfQTnVv7A%2FuCYJaRbezSHgI9Sh1zPVkTdv%2FfqkPyvIqKSshi4SejW%2BTpip5pC4PyfraygCegu3qLxJ9OOp%2FqKn2Ye%2B%2F8uGUdG7NbH%2FtV4bIsYe%2F62S8skrq1h67sDvtcHCNKcGmhSHPU8aQUoSVPQktVycQOaZfLYK9zkoP2%2FvhCiOux1bdMEolO%2BoNLpOh06wpJLjK7Pxdw2ZMOW0yiHhCBAuIT7lkK9sdtdvPTJ6%2BpfmuZOhDiV2GPjJQWS%2F2m7JxZ%2Fl%2FmtBUYZw%3D%3D",
+    audio: "/public/audio/109-w.mp3",
     level: "easy",
     times: 1,
     priority: "normal",
@@ -734,7 +734,7 @@ const WriteFromDictationDataFrom101To200 = [
   {
     id: 182,
     transcript: "All industries consist of input, processors, output, and feedback.",
-    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2F6aesnoo0hrr4a5fro7crhi-WFD182_2.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=WOls4f5jwQyZyacDy1xJwh1TyxKRpCcFtO8aViqLC6%2Bn6GTskKbTxLgVpErE1%2BA5uCWZY4DpjZStojWC5HDZSC1f9dEs85%2Ba%2BK3QDNzY26azzT%2Bc50vT3p0zPe%2F948FfGfd2RLi4hfhrwX3M4h73S25syOTRL43QeAZF655sc2RjXqiDCOfQbfLkmcEJQkTk9K3FhbdmG1ipb7yomAJwXXT6IuVdqT6t%2BWXykf2jrL%2B2PK7Etpq%2BmelP87mcehxRquTcn2u6w5PA38Ru4ozYi8INr5AjDAzKHnEnoHARgoyH%2FL2W5Dc%2FciMpDOIyrISJ1J6b6hUeiGdxH4PK38oGRw%3D%3D",
+    audio: "/public/audio/182-w.mp3",
     level: "medium",
     times: 1,
     priority: "normal",

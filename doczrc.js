@@ -60,7 +60,8 @@ export default {
         "43. Beliefs & Doubts",
         "44. Deciding & Choosing",
         "45. Claiming & Denying",
-        "46. Liking & Disliking"
+        "46. Liking & Disliking",
+        "47. Praising & Criticizing"
       ]
     },
   ],

@@ -25,7 +25,6 @@ const NewWord = styled("span")`
   display: block;
 `;
 
-
 const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) => {
   const [showTranscript, toggleShowHide] = useState(false);
   const [showAnswer, toggleShowAnswer]= useState(false);
