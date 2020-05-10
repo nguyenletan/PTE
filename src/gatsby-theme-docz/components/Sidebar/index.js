@@ -4,8 +4,8 @@ import { Global } from "@emotion/core";
 import { jsx, Box } from "theme-ui";
 import { useMenus, useCurrentDoc } from "docz";
 
-// import * as styles from "./styles";
-import * as styles from "gatsby-theme-docz/src/components/Sidebar/styles";
+import * as styles from "./styles";
+// import * as styles from "gatsby-theme-docz/src/components/Sidebar/styles";
 import { NavSearch } from "gatsby-theme-docz/src/components/NavSearch";
 import { NavLink } from "../NavLink";
 import { NavGroup } from "../NavGroup";
