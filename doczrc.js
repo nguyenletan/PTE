@@ -73,8 +73,8 @@ export default {
 
     },
     colors: {
-      "text": "#00044c",
-      "background": "#FDFFFF",
+      "text": "#01053F",
+      "background": "#FAFCFB",
       "primary": "#47c1bf",
       "secondary": "lightseagreen",
       "highlight": "#b7ecec",
