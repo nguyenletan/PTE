@@ -326,7 +326,7 @@ const WriteFromDictationDataFrom0To100 = [
   {
     id: 42,
     transcript: "There are not many interconnections between philosophy and psychology.",
-    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Felcy1bv9sjk6kf287tbf69-WFD-%5BAudioTrimmer.com%5D.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Y8mLpUZwx3rUy4Ctde6fC2FF5u2mtkYGM8WY0Q%2BYO8Tf2TZTiL3cnDp9y%2BXx8hcrg889gmGBK6t7hEUh37Dt0eDOTjrBXLWOfMDUB6ee3UHQZ7HdmAZ9RuUTOWQ4ASYVa7%2Bd8NUKC2O8zZn0ltPzFJjfRND8g3oGfXCyxEY72NTthr57KEsRXmT3uufyqAMk9AK6zjQVcBVMjZScHDP8OZF0ounbsFcJRF4C%2Fl1hg9sXRPWRa6roAmNXqWAHZjWsKgafjLjZjqDzBt9F3eQaEULs6MCGL9ioqg%2BYHRAkeLZoIdAdMdFizWnpOezptwlh%2FdOHDogZkGpGYIGbM2CJ2Q%3D%3D",
+    audio: "/public/audio/42-w.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -807,7 +807,7 @@ const WriteFromDictationDataFrom0To100 = [
   {
     id: 95,
     transcript: "Highly clean water for human consumption is vital for health.",
-    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fc0imh69vmpakkgyz6x93m-dq8iibgkl5d4zza3b2sou5-WFD-%5BAudioTrimmer.com%5D.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=ACJ4TsQxGcpiTncVPiXvMybiXXCIyXLg6%2Ftb80%2Ben44LERB7OLxvgBGYY%2Bflt%2Bdr1mOa1mRcxkjQt1TAgazeizyRN0twSkweb67%2BzIH%2BH16TyEgahkdcJh9t3dYGE3oAHwYxZageeb9j0FOx3gUaaV1KA4Q6rTKWsTBkSZYDkXRCMZzRqG7LGKUykTaC8dSmUFxnpEMJoIYVyB28Pvs1DaykUQMcDGAaKUJM5d5pF4ohfN2qWIukrQtsEjDiT0KtsWO7yx7iBH0vE3oMbZxntT5MSSofYHr%2FSKp3ivgf55zvQRjkGS9K3yCs1v2UO95a6lbPyBfGb3NPJd9V2oYg1A%3D%3D",
+    audio: "/public/audio/95-w.mp3",
     level: "hard",
     times: 1,
     priority: "normal",
