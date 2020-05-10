@@ -300,6 +300,24 @@ const WriteFromDictationDataFrom301To400 = [
     priority: 'normal',
     newwords: [],
    },
+   {
+    id: 334,
+    transcript: 'Resource materials are on hold at the library reference desk.',
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fd6b8fd71-5d43-453a-aede-8949d1ce8cb5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=I%2FqbeVFqe6rf2JEshWT8QKkT9SC2gv5pydJ9xo9TvEY9b3u94PyljZCEh2SjTS4TjTA5gAQ%2BFWd1eF1B1qzf4OZj%2Bu%2BrM9dvJTTgjFWr7KmX4627eL1a41peINRvhiBn0hHcstxZTt%2Fayv%2Ff%2BZd3evRcMQXMvlkaEj0V5dilR83%2BIQRd7HCBjLMH%2BXSS4zER9qms31tSrBCZTsggrrb1QAJWA35j2Nyx6c%2F%2Bts7AnODO56KiRdo%2Bj%2Bfevtzva%2BuZHpYYoWF%2Fr3qaHri0SyxaebxIieXT70Bvo1jsRzoglkkRAEDTkPM2lwhe%2FDCf8%2Fef6lxK2CMpE%2FqENn4EaKF9DQ%3D%3D',
+    level: 'medium',
+    times: 1,
+    priority: 'normal',
+    newwords: [],
+   },
+   {
+    id: 335,
+    transcript: 'Review all sources before drawing any conclusions.',
+    audio: 'https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ff29fcdcf-425b-4aa4-bb0c-b49c9f98370c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=HSYk06sDHau%2BW1BBuzNZF0Yc1C4FsRvXMW5FrxYB64tkmBH9z3AexAiRpjMM%2F7O5bXCYPZtrrdEeJA3sJOaZIw5EoQeGrUzhXNcvWK1fInxApTjyzHPJkUgfqjNzNkbr95nuxIuxPZOhqH27h8o4cJWTsxhMlwUdUHbfiETHnCMllGrrJeO%2FOm%2FCaMSdWfDJZDkHnMSSune%2FW1aHRCT8ilCjuXxFCDijvorVgmjvk4t9so%2F15zuyV8R0RSizFHIDwJvCMdhFYho0g30GDKfcdKETFX868ZR37AU%2FCWCwKN5NSaJL60I3l7aw8BZcujr0fkHWD42%2BGrkOm4ZCANbw4g%3D%3D',
+    level: 'medium',
+    times: 1,
+    priority: 'normal',
+    newwords: [],
+   },
 ]
 
 export default WriteFromDictationDataFrom301To400
