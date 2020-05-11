@@ -616,9 +616,9 @@ const WriteFromDictationDataFrom101To200 = [
   },
   {
     id: 169,
-    transcript: "That means they have so many struggling overlaps.",
-    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fe37a2cb7-c31d-437d-ba7a-8f7d0a79cd08.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=H36wN8d2%2F7sfYNOdEoHmwLnFYsGle%2Bc6V7a%2BLNBppYVpWE3aB8g0OZoyRugD3KJL%2F4Yck%2BX8o3wCgzJtu0mM0IeTTGcn%2BMDVAha6xrfWmzPbnr%2Bx3dv2Us4FFiMDBKVDP1uvGZUEgzy1E6sUQstJIL1meP%2F%2F%2F76sxjywYkCcfbldzSrVBj5Vzp8Cjmv5LiqCERJeFVjjufsRhh%2Bhk5NtlOgCd4eo72NLVwRHo9jteFTBm9xF5i2UWFUkqcftcsTBCFIak81Yj7XKyxmlIP3pTICgx8oPXyU7qO4wFfTxzZCEdijNjgyZ2WWFO3GyiF3MeagneexgW27dcSAlNYUzpA%3D%3D",
-    level: "easy",
+    transcript: "At least we won't have so many struggles over labs.",
+    audio: "/public/audio/169-w.mp3",
+    level: "medium",
     times: 1,
     priority: "normal",
     newwords: [],
