@@ -61,7 +61,8 @@ export default {
         "44. Deciding & Choosing",
         "45. Claiming & Denying",
         "46. Liking & Disliking",
-        "47. Praising & Criticizing"
+        "47. Praising & Criticizing",
+        "48. Metaphor"
       ]
     },
   ],
