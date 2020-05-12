@@ -736,8 +736,8 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [
-      "monolithic statues = những bức tượng nguyên khối", 
-      "tribes = những bộ lạc", 
+      "monolithic statues = những bức tượng nguyên khối",
+      "tribes = những bộ lạc",
       "vie /vaɪ/ = tranh đua"
     ]
   },
@@ -750,7 +750,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [
-      "pursue = theo đuổi", 
+      "pursue = theo đuổi",
       "specific interests = những lợi ích cụ thể"
     ]
   },
@@ -763,7 +763,7 @@ const WriteFromDictationDataFrom301To400 = [
     times: 1,
     priority: "normal",
     newwords: [
-      "pursue = theo đuổi", 
+      "pursue = theo đuổi",
       "specific interests = những lợi ích cụ thể"
     ]
   },
@@ -866,6 +866,168 @@ const WriteFromDictationDataFrom301To400 = [
     audio:
       "/public/audio/382-w.mp3",
     level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 383,
+    transcript: "The teaching staff are actively engaged in the original research.",
+    audio: "/public/audio/383-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 384,
+    transcript: "These words recognized the excellence of the undergraduates' research projects.",
+    audio: "/public/audio/384-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 385,
+    transcript: "Money and how it is paid can affect the motivation to work.",
+    audio: "/public/audio/385-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 386,
+    transcript: "A very basic definition of computing is counting and calculating.",
+    audio:"/public/audio/386-w.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 387,
+    transcript: "Every living thing begins as a single cell.",
+    audio:"/public/audio/387-w.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 388,
+    transcript: "The term illness and disease are confusing despite clear differences.",
+    audio:"/public/audio/388-w.mp3",
+    level: "very hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 389,
+    transcript: "Please follow the guidelines for more information on setting the goals.",
+    audio: "/public/audio/389-w.mp3",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 390,
+    transcript: "The night sky has always involved mystery and wonder.",
+    audio: "/public/audio/390-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 391,
+    transcript: "Experts said reading and listening to music can reduce stress.",
+    audio: "/public/audio/391-w.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 392,
+    transcript: "Our aim is to transmit the mathematics teaching in the classroom.",
+    audio: "/public/audio/392-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 393,
+    transcript: "You have the freedom to study what interests you the most.",
+    audio: "/public/audio/393-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 394,
+    transcript: "Many universities are continuously expanding the postgraduate education online learning resources.",
+    audio: "/public/audio/394-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 395,
+    transcript: "The study of utilizing projects is funded by the university.",
+    audio: "/public/audio/395-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 396,
+    transcript: "Students may only use parking cards in authorized university parking space.",
+    audio: "/public/audio/396-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 397,
+    transcript: "The university main library will be open till midnight next Thursday.",
+    audio: "/public/audio/397-w.mp3",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 398,
+    transcript: "The ways people use in communicating are constantly changing.",
+    audio: "/public/audio/398-w.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 399,
+    transcript: "The media play a significant role in shaping public opinion.",
+    audio: "/public/audio/399-w.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 400,
+    transcript: "Technology is no longer a simple tool that we can control.",
+    audio: "/public/audio/400-w.mp3",
+    level: "medium",
     times: 1,
     priority: "normal",
     newwords: []

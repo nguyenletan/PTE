@@ -62,7 +62,8 @@ export default {
         "45. Claiming & Denying",
         "46. Liking & Disliking",
         "47. Praising & Criticizing",
-        "48. Metaphor"
+        "48. Metaphor",
+        "49. Confusing Words",
       ]
     },
   ],
