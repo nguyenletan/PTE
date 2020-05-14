@@ -64,6 +64,7 @@ export default {
         "47. Praising & Criticizing",
         "48. Metaphor",
         "49. Confusing Words",
+        "50. Everyday Verbs"
       ]
     },
   ],
