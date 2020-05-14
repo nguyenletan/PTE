@@ -432,7 +432,7 @@ const WriteFromDictationDataFrom201To300 = [
 		level: "hard",
 		times: 1,
 		priority: "normal",
-		newwords: ["abiding = vĩnh cửu"]
+		newwords: ["abiding = chấp hành"]
 	},
 	{
 		id: 249,
