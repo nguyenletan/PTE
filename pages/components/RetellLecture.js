@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import t from "prop-types";
-import { Textarea, Text } from "theme-ui";
+import { Textarea } from "theme-ui";
 import { Button } from "theme-ui";
 
 const Question = styled("li")`
@@ -37,11 +37,15 @@ const NewWord = styled("span")`
 
 const RetellLecture = ({topic, transcript, audio, times, level, newwords, id}) => {
   const [showTranscript, toggleShowHide] = useState(false);
+  let i = 0
   const NewWords = newwords.map(w => {
-    return <NewWord>{w}</NewWord>;
-  });
+    i++;
+    return <NewWord key={i}>{w}</NewWord>
+  })
+  i = 0
   const transcriptItem = transcript.map(t => {
-    return <Transcript>{t}</Transcript>
+    i++;
+    return <Transcript key={i}>{t}</Transcript>;
   });
 
   return (
