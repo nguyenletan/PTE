@@ -11,6 +11,16 @@ const Question = styled("li")`
 
 const Transcript = styled("p")`
   margin: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+`;
+
+const MoreInformation = styled("p")`
+  margin: 0;
+`;
+
+const Topic = styled("h4")`
+  margin: 0;
 `;
 
 const Audio = styled("audio")`
@@ -25,27 +35,28 @@ const NewWord = styled("span")`
   display: block;
 `;
 
-const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) => {
+const RetellLecture = ({topic, transcript, audio, times, level, newwords, id}) => {
   const [showTranscript, toggleShowHide] = useState(false);
-  const [showAnswer, toggleShowAnswer]= useState(false);
-  const [answer, changeAnswer] = useState('');
   const NewWords = newwords.map(w => {
     return <NewWord>{w}</NewWord>;
+  });
+  const transcriptItem = transcript.map(t => {
+    return <Transcript>{t}</Transcript>
   });
 
   return (
     <Question key={id}>
-      <Transcript>
-        {showTranscript ? transcript : ""}&nbsp;
+      <Topic>{showTranscript ? topic : ""}</Topic>
+      {showTranscript && transcriptItem}
+      <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
-        {showAnswer ? <Text sx={{color: "secondary"}}>{answer}</Text>: ""}
         {NewWords}
-      </Transcript>
+      </MoreInformation>
       <Button
-        mt={2}
+        mt={3}
         ml={0}
-        mb={2}
+        mb={3}
         mr={2}
         pt={2}
         pb={2}
@@ -70,49 +81,21 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) =
         Your browser does not support the audio element.
       </Audio>
       <Textarea
-        onChange={(event) => {
-          changeAnswer(event.target.value)
-        }}
-        value={answer}
-        placeholder="Write your answer here"
-        rows={2}
+        placeholder="Quick note here"
+        rows={5}
         sx={{
           fontSize: 3,
-          mb: 2,
-          mt: 3
+          mb: 3,
+          mt: 4
         }}
       />
-      <Button
-        m={0}
-        mt={2}
-        mb={2}
-        pt={2}
-        pb={2}
-        pl={3}
-        pr={3}
-        sx={{
-          color: "text",
-          bg: "highlight",
-          fontSize: 2,
-          border: 1,
-          borderColor: "highlight",
-          borderStyle: "solid",
-          borderRadius: 4,
-          fontWeight: "bold"
-        }}
-        onClick={() => {
-          toggleShowAnswer(!showAnswer)
-          toggleShowHide(!showAnswer)
-        }}
-      >
-        {showAnswer ? "Hide the comparation" : "Compare with transcript"}
-      </Button>
     </Question>
   );
 };
 
-WriteFromDictation.propTypes = {
-  transcript: t.string,
+RetellLecture.propTypes = {
+  topic: t.string,
+  transcript: t.array,
   audio: t.string,
   times: t.number,
   level: t.string,
@@ -120,6 +103,6 @@ WriteFromDictation.propTypes = {
   id: t.string
 };
 
-WriteFromDictation.defaultProps = { newwords: [] };
+RetellLecture.defaultProps = { newwords: [] };
 
-export default WriteFromDictation;
+export default RetellLecture;
