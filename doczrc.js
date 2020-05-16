@@ -11,6 +11,8 @@ export default {
     "Write From Dictation",
     "Repeat Sentence",
     "Describe Image",
+    "Summarize Spoken Text",
+    "Retell Lecture",
     {
       name: "Collocations",
       menu: [
@@ -74,7 +76,6 @@ export default {
       h1: {
         /*textTransform: 'uppercase'*/
       },
-
     },
     colors: {
       "text": "#01053F",

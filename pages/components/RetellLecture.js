@@ -10,9 +10,7 @@ const Question = styled("li")`
 `;
 
 const Transcript = styled("p")`
-  margin: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 `;
 
 const MoreInformation = styled("p")`

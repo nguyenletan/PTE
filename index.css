@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap");
 /*@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
 /*@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 /*@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');*/
@@ -23,7 +23,7 @@ body {
 .input {
   font-size: 19px;
   font-weight: 700;
-  font-family: "IBM Plex Sans";
+  font-family: "IBM Plex Sans", sans-serif;
   font-style: italic;
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -33,12 +33,12 @@ body {
 }
 
 button {
-  font-family: "IBM Plex Sans";
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 textarea {
   font-size: 19px;
-  font-family: "IBM Plex Sans";
+  font-family: "IBM Plex Sans", sans-serif;
   padding: 0.5rem;
 }
 
@@ -57,6 +57,16 @@ textarea {
 .wrong {
   color: red;
 }
+
 .incompleted {
   color: coral;
+}
+
+.text-highlight {
+  font-weight: 500;
+  font-style: italic;
+  background-color: #47c1bf;
+  padding: 0.15rem 0.55rem 0.25rem 0.55rem;
+  border-radius: 4px;
+
 }
