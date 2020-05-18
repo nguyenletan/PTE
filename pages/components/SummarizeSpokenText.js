@@ -2,24 +2,23 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import t from "prop-types";
 import ReactMarkdown from "react-markdown/with-html";
-import { Textarea } from "theme-ui";
-import { Button } from "theme-ui";
+import { Button, Link, Textarea } from "theme-ui";
 
 
-const Question = styled("li")`
+const Question = styled("article")`
   margin-top: 16px;
   margin-bottom: 8px;
 `;
 
-const Transcript = styled("article")`
+const Transcript = styled("p")`
   margin: 0;
 `;
 
-const Solution = styled("article")`
+const Solution = styled("p")`
   margin: 0;
 `;
 
-const Keywords = styled("ol")`
+const Keywords = styled("ul")`
   margin-block-start: 1rem;
 `;
 
@@ -107,7 +106,16 @@ const SummarizeSpokenText = ({
 
   return (
     <Question key={id}>
-      <Topic>{showTranscript ? topic : "Topic Name"}</Topic>
+      <Topic id={`${id}.${topic}`}>
+        <Link 
+          href={`#${id}.${topic}`}
+          sx={{
+            color: "text"
+          }}
+        >
+          {`${id}. ${topic}`}
+        </Link>
+        </Topic>
       <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}

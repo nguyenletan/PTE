@@ -3,9 +3,9 @@ import t from "prop-types";
 import styled from "styled-components";
 import SummarizeSpokenText from "./SummarizeSpokenText";
 
-const Ol = styled('ol')`
+const Section = styled('section')`
   padding: 0;
-  margin: 0 0 0 16px;
+  margin: 0;
 `;
 
 const SummarizeSpokenTextList = ({start, total, data}) => {
@@ -21,7 +21,7 @@ const SummarizeSpokenTextList = ({start, total, data}) => {
           times={s.times}
           level={s.level}
           newwords={s.newwords}
-          id={"summary-spoken-text-" + s.id}
+          id={s.id}
           key={"summary-spoken-text-" + s.id}
         />
       );
@@ -29,7 +29,7 @@ const SummarizeSpokenTextList = ({start, total, data}) => {
     return ""
   });
   
-  return <Ol start={start} key={start}>{listSentences}</Ol>;
+  return <Section start={start} key={start}>{listSentences}</Section>;
 };
 
 SummarizeSpokenTextList.propTypes = {
