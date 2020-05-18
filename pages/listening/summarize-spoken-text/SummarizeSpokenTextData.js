@@ -15,7 +15,7 @@ const SummarizeSpokenText = [
       "the start of a process",
       "a baseline or a minimum standard of the human rights"
     ],
-    mainIdea: "",
+    mainIdeas: [],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-1.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=VJK6MXznl3bOrHECbfQem%2F1xx6B2e9yAJqH9wQ%2FnlGCRvNr3H7OG53kJuUko49cSrVfWOz9wB0V%2FlLeiij7ifPtc9yuoxJunQujDlXOQ%2Bl4N2f%2BQqz%2FEWg6jt4uXfNTMVDi561xtJc8cMVQ6b7n33jR%2Fk59cSqSSYWETCkcksvCgtA2ghJmNYApCBxFSWUi52b%2B5WkL6U1aEm939nUSCShCLW9y5oVtP16FNl65qJvVMCuHy8Oy3knR29G3nkY6K9pt6WD8Y80Gj65PInCH9QzvquysrWEaMlUStOJzSd6h2My5Vj2PW9zNRLlxhcssW5hU94PGrcVRpVnnWKkM2Zw%3D%3D",

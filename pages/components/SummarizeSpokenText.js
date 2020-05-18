@@ -23,7 +23,7 @@ const Keywords = styled("ul")`
 `;
 
 const MainIdeas = styled("ol")`
-  margin-block-start: 1rem;
+  margin: 0;
 `
 
 const MoreInformation = styled("p")`
