@@ -10,9 +10,7 @@ const Question = styled("li")`
 `;
 
 const Transcript = styled("p")`
-  margin: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 `;
 
 const MoreInformation = styled("p")`
@@ -51,12 +49,24 @@ const RetellLecture = ({topic, transcript, audio, times, level, newwords, id}) =
   return (
     <Question key={id}>
       <Topic>{showTranscript ? topic : ""}</Topic>
-      {showTranscript && transcriptItem}
       <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
         {NewWords}
       </MoreInformation>
+      <Audio controls preload="none">
+        <source src={audio} type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </Audio>
+      <Textarea
+        placeholder="Quick note here"
+        rows={5}
+        sx={{
+          fontSize: 3,
+          mb: 2,
+          mt: 3
+        }}
+      />
       <Button
         mt={3}
         ml={0}
@@ -80,19 +90,8 @@ const RetellLecture = ({topic, transcript, audio, times, level, newwords, id}) =
       >
         {showTranscript ? "Hide transcript" : "Show transcript"}
       </Button>
-      <Audio controls preload="none">
-        <source src={audio} type="audio/mpeg" />
-        Your browser does not support the audio element.
-      </Audio>
-      <Textarea
-        placeholder="Quick note here"
-        rows={5}
-        sx={{
-          fontSize: 3,
-          mb: 3,
-          mt: 4
-        }}
-      />
+      
+       {showTranscript && transcriptItem}
     </Question>
   );
 };

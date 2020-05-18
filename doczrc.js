@@ -11,6 +11,8 @@ export default {
     "Write From Dictation",
     "Repeat Sentence",
     "Describe Image",
+    "Summarize Spoken Text",
+    "Retell Lecture",
     {
       name: "Collocations",
       menu: [
@@ -74,7 +76,6 @@ export default {
       h1: {
         /*textTransform: 'uppercase'*/
       },
-
     },
     colors: {
       "text": "#01053F",
@@ -113,5 +114,5 @@ export default {
     fontSizes: [13, 14, 15, 20, 22, 30, 35, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
-  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
+  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md', '74-biology-study-of-life.mdx']
 };
