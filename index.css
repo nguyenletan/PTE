@@ -63,10 +63,7 @@ textarea {
 }
 
 .text-highlight {
-  font-weight: 500;
-  font-style: italic;
-  background-color: #47c1bf;
-  padding: 0.15rem 0.55rem 0.25rem 0.55rem;
+  background-color: rgba(71, 193, 191, 0.3);
+  padding: 0rem 0.6rem 0.175rem 0.6rem;
   border-radius: 4px;
-
 }

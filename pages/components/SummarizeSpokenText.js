@@ -10,17 +10,21 @@ const Question = styled("article")`
   margin-bottom: 8px;
 `;
 
-const Transcript = styled("p")`
+const Transcript = styled("div")`
   margin: 0;
 `;
 
-const Solution = styled("p")`
+const Solution = styled("div")`
   margin: 0;
 `;
 
 const Keywords = styled("ul")`
   margin-block-start: 1rem;
 `;
+
+const MainIdeas = styled("ol")`
+  margin-block-start: 1rem;
+`
 
 const MoreInformation = styled("p")`
   margin: 1rem 0 1rem;
@@ -33,6 +37,7 @@ const Topic = styled("h2")`
 
 const H3 = styled("h3")`
   margin: 0;
+  margin-top: 0.25rem;
   font-size: 22px;
 `;
 
@@ -55,6 +60,7 @@ const SummarizeSpokenText = ({
   audio,
   solution,
   keywords,
+  mainideas,
   times,
   level,
   newwords,
@@ -100,6 +106,25 @@ const SummarizeSpokenText = ({
         <Keywords>
           {keywordlist}
         </Keywords>
+      </>
+    );
+  };
+
+  const MainIdeasBlock = () => {
+    if(mainideas.length === 0) {
+      return null;
+    }
+    let i = 0;
+    const ideaList = mainideas.map(k => {
+      i++;
+      return <li key={i}><ReactMarkdown source={k} escapeHtml={false} rawSourcePos /></li>;
+    });
+    return (
+      <>
+        <H3>Main Idea</H3>
+        <MainIdeas>
+          {ideaList}
+        </MainIdeas>
       </>
     );
   };
@@ -162,6 +187,7 @@ const SummarizeSpokenText = ({
       {showTranscript && (
         <>
           <TranscriptBlock />
+          <MainIdeasBlock />
           <SolutionBlock />
           <KeywordsBlock />
         </>
@@ -175,11 +201,12 @@ SummarizeSpokenText.propTypes = {
   transcript: t.string,
   solution: t.string,
   keywords: t.arrayOf(t.string),
+  mainideas: t.arrayOf(t.string),
   audio: t.string,
   times: t.number,
   level: t.string,
   newwords: t.array,
-  id: t.string
+  id: t.number
 };
 
 SummarizeSpokenText.defaultProps = { newwords: [] };
