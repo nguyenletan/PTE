@@ -109,3 +109,4 @@ dist
 .docz
 
 .DS_Store
+yarn.lock

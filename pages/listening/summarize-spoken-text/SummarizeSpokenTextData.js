@@ -15,10 +15,247 @@ const SummarizeSpokenText = [
       "the start of a process",
       "a baseline or a minimum standard of the human rights"
     ],
-    mainIdeas: [],
+    mainIdeas: [
+      `History of human rights which supported for wider applications in the UK.`,
+      `The Human Right Act included freedoms from tortune, from slavery and from discrimination ( phân biệt đối xử)`,
+      `UK lawyer a significant role in the convention`,
+      `UK was the first government to rectify it.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-1.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=VJK6MXznl3bOrHECbfQem%2F1xx6B2e9yAJqH9wQ%2FnlGCRvNr3H7OG53kJuUko49cSrVfWOz9wB0V%2FlLeiij7ifPtc9yuoxJunQujDlXOQ%2Bl4N2f%2BQqz%2FEWg6jt4uXfNTMVDi561xtJc8cMVQ6b7n33jR%2Fk59cSqSSYWETCkcksvCgtA2ghJmNYApCBxFSWUi52b%2B5WkL6U1aEm939nUSCShCLW9y5oVtP16FNl65qJvVMCuHy8Oy3knR29G3nkY6K9pt6WD8Y80Gj65PInCH9QzvquysrWEaMlUStOJzSd6h2My5Vj2PW9zNRLlxhcssW5hU94PGrcVRpVnnWKkM2Zw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 2,
+    topic: "London Architecture",
+    transcript: `It seems to me that <span class="text-highlight">architecture</span> is very much something that <span class="text-highlight">causes it both pleasure and trouble</span>. I'm from a part of West London, where I feel that many of the streets where I live really, really ugly. And this distresses me every time I walk into a supermarket or walk to the tube and think, god why did they build that? And <span class="text-highlight">terrible problem with architecture</span> is that it <span class="text-highlight">last so long</span>, if you write a bad book or do a bad play, you know it’ll have a short run and then be shelved and no one will suffer, a <span class="text-highlight">bad building</span> as a <span class="text-highlight">serious impact</span> for, could be hundreds of years, <span class="text-highlight">on the people around it</span> and um especially the book a rose a little bit of frustration was anger. There was so many bad architecture around and then I realized when you talk to architectures and you say um why building not more beautiful, they’ll say ‘Ma, how you use such a word as beauty, that’s a really arrogant word. No one knows what beautiful, it’s all <span class="text-highlight">in the eyes of the beholder</span>.’ I couldn’t help but think that actually, well you know, we all tend to agree that in Rome is nicer than Milton Keynes and that San Francisco has the edge of Frankfurt Tyfull. You may ask for generalization, surely there are something’s we can say about <span class="text-highlight">why a building works and why it doesn’t</span>. So, the book is already in an attempted to suggest <span class="text-highlight">why architectures works</span> <span class="text-highlight">when it does</span> and <span class="text-highlight">what might be going wrong</span> <span class="text-highlight">when it doesn’t work</span>.`,
+    solution: `The lecturer talked about the concept of architecture that causes both pleasure and trouble. He firstly indicated that a poorly designed building has serious impacts on the people around it. He strongly agreed that there was so much bad architecture and emphasized terrible problems with architecture as it lasts longer than a bad book or a bad play. He finally introduced a book to suggest why and how architecture works. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Concept of the architecture causes both pleasure and trouble.`,
+      `Poorly designed building has impacts on the people arround it.`,
+      ` There was so much bad architecture, and terrible architecture lasts longer than a bad book or a bad play.`,
+      `Introduced a book to suggest why and how architecture works`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=CFYUO6a80FjiFDPCuRyMc82dyKlinTaikWW9dt0%2Fm0n7tOrWNFP5yZn1FNsXcbN5BSqLAm2t9sGeXrGeB0vVRGKhxbdvS11G06KnIGa06mjk%2BNwe7hLda%2BvLALzORNY8x0H7ikN30q2Cn%2FfAqlaPlK0XFFzwXJpM2wneQ5AqCca2rJIsZKWaaahsk63O3KvI2nZ374smzE7hzkP3QpVY1VpjS0gHZk3agv0tD7T8ly3CQmUxjiihT9mPeZk1T4aEzJWhBBin0wrK5SxtezSzq6dMNxD%2BXly5L3LBHcy5PbHXbiHcqXUq8rtVELSewxOwF3JSoyWjoacmnW9MQ6AEag%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 3,
+    topic: "Big Bang",
+    transcript: `One of the <span class="text-highlight">most amazing things that’s happened</span> even in my lifetime is the <span class="text-highlight">prediction of cosmology</span>. When I started out forty odd years ago, we thought we knew that <span class="text-highlight">the universe began a big bang</span> , some people doubted even then. We thought <span class="text-highlight">the universe</span> was about ten or twenty billion years old but now for really very sound <span class="text-highlight">scientific reasons</span> we can say that the universe did started in a Big bang and it’s 13.8 billion years old so it’s not 14, its not 13 because <span class="text-highlight">a decimal point in there</span> and that’s a <span class="text-highlight">stunning achievement</span> to know that. And we also know that the <span class="text-highlight">laws of physical</span> that apply to <span class="text-highlight">tiny particles inside atoms</span> also <span class="text-highlight">explains what happened in the big bang</span> you can’t have one without the other. A very neat example of this is that when you apply <span class="text-highlight">nuclear physics</span>, that kind of physics to understand <span class="text-highlight">how stars work</span>, you find out that the oldest star in the universe is about 13 billion years old. So their universe is just a little bit older than the stars. Fantastic, if we done it and counted in the other way around and said that the stars were older than the universe, we would say <span class="text-highlight">science</span> were in deep trouble. But it’s not, everything fits together and we know <span class="text-highlight">how the universe began</span>, we got to know how the way it is. The future that it ‘ll suspects we don’t know quiet well what’s going, but we got some ideas, which are as good as those ideas we had 40 years ago about <span class="text-highlight">how big bang happened</span>.`,
+    solution: `The lecturer talked about the prediction of cosmology which is one of the most amazing things that happened in his lifetime. He firstly had a discussion about a stunning achievement to know that the Universe did start in a Big Bang and it is 13.8 billion years old. In addition, he emphasized the laws of physics explaining what happened in the Big Bang helped scientists know exactly how the universe began. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The prediction of cosmology which is one the amazing things that happened in his lifetime.`,
+      `A stunning achievement which explained the universe started in a Big Bang and it is 13.8 billion years old.`,
+      `The laws of physics explained what happened in the big bang andthe scientist know exactly how the universe began.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=V%2BXL6p1vdkZiATpcivoiTVDFjmnWIPMNqqMSn7zQtdDlfR3UeopEa8muiZuRr%2BCIZ1aw3MkuAhUSUAU%2BvXbi7vqfW8k7MlAIBxWFzm4s935bGiRxGX%2FkNFiGMiQROl835eyPhys7Dtkt7whRamGO2aFn7appFqfpLoTazIlV6mKFPrkuf2av%2Brr6ooidzkU5qnNzfgb%2BYjWifsoZE%2BJaEAeIB%2FXJX4XVxvbgGkQnqOAH%2BrUuE0sU8sVYsosAlq0OCz0d6xuYMqWpoGSnqSW9FPhLTPu5nf2kg1oVzPAWSkI6YmDRcYNyn%2Bo2rzlmL1xy6YxMoNqRv%2BW29wRklortoA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 4,
+    topic: "Danger of keeping drugs at home",
+    transcript: `“But what are the <span class="text-highlight">dangers of keeping these drugs</span> at home?”
+    “There are a number of dangers. Parents should know that <span class="text-highlight">leftover drugs are dangerous</span> because they may be <span class="text-highlight">accidentally ingested by children</span>. Either adults don’t keep the bottles properly closed and stored or because even many kids can sometimes open childproof lids. <span class="text-highlight">Patients may use the drugs after their expiration date</span>. The leftover drugs may be <span class="text-highlight">taken for the wrong reasons</span>. For example, someone may have a <span class="text-highlight">viral infection</span> and <span class="text-highlight">self-prescribed</span> to left over into microbial that was prescribed for a bacterial infection. But that drug will have no effect as the viral infections. Drugs that are left over might be given to or taken by someone else who may have a <span class="text-highlight">serious allergy</span> to the medicine and who for that reason would not be prescribed to medicine under the supervision of a physician. Finally, <span class="text-highlight">inappropriate use of drugs promotes drug resistance</span> if the drug is <span class="text-highlight">taken for the wrong indication, the wrong duration, or in the wrong dosage</span>.
+    “Todd, what can people do about this how can the situation be improved?”
+    “I think <span class="text-highlight">physicians, patients and parents of patients</span> can take steps to <span class="text-highlight">improve the situation</span>. First of all, physicians should <span class="text-highlight">prescribe the drug only when appropriate</span>, only in the <span class="text-highlight">correct amount</span> and only for the <span class="text-highlight">correct duration</span>. Also, the physician must <span class="text-highlight">stress to the patient</span> that the <span class="text-highlight">full course of the drug must be taken</span>. This is recommended <span class="text-highlight">even if symptoms resolved before the end of the prescription</span> and parents of children on antibiotics need to ensure they complete their course as well.”`,
+    solution: `The lecturer talked about the dangers of keeping drugs. He indicated that leftover drugs are dangerous because they may be accidentally taken by children. In addition, patients may use their drugs after their expiration date and the leftover drugs may be taken for the wrong decision. Finally, he strongly recommended that both patients and their parents can take important steps to improve the situation of the inappropriate use of drugs. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The lecturer talked about the dangers of keep drugs. He firstly indicated that leftover drugs are danger because they may be accidentally used by children.`,
+      `Inaddition, patients may be use their drugs after their expiration date and leftover drugs may be taken for wrong decision.`,
+      `Finally, he concluded that both patients and their parents can take important steps to improve the situation of inappropriate use of drugs.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=WHRrzsOAGHtF2VQQ%2BWIEOIk%2BCbQ0eq70LUuYMEWUYJXqpuM8SWRH3rjbXJxWxx%2F1OWngIfSf8SshcodqboemO0IGCjP2kgl%2BGNOowtpRjiGwQelGyIHtS8woZz0kAza1VFlYBRzQeujVZrgHDx%2FDpkg5k3nPkQqEd%2FAR2r8dVvfxTIAdcXm%2Bh%2FYztdVBRaMyQz%2FnvgMmok5YlPuTZyg6DC235g9IlloyhM%2BwtvqVpEHQnt%2FfYD%2FV8clk22c7zt033b%2FdsKtFV0mMbiPxBhB7UiZJOe%2BFY9aVqEOXHWaUEcemQRGAQPXFgLsNd2n1EvkBmeRr6HJSt7GZTYR7e6dtPA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 5,
+    topic: "Education Leadership",
+    transcript: `The time in late ninety-nineties when <span class="text-highlight">management consultants</span> wrote books with titles such as ‘<span class="text-highlight">The war for talent</span>’, there was a great deal of talk about the <span class="text-highlight">talent wars</span>. Then I think there was the <span class="text-highlight">bursting of the bubble</span> with the bursting of the dark karma book and a sense of the people who had been <span class="text-highlight">masters of the universe</span> just a few weeks before were out on the streets looking for jobs. I think this created a <span class="text-highlight">reaction</span>, it gave me ideas of that <span class="text-highlight">there was a war for talent</span>, in fact all of the things were saw in late ninety-nineties are <span class="text-highlight">reasserting</span> themselves now, all those shortages are reasserting themselves and the real reason the audit was really the bursting of the bubble not the <span class="text-highlight">shortages of talent</span>. There are very <span class="text-highlight">profound structural forces</span>, which are created these talent shortages. One is the fact that <span class="text-highlight">the</span>nature of the economy<span class="text-highlight">is changing</span>; it’s putting more and <span class="text-highlight">more premium upon intellectual skills</span>, <span class="text-highlight">analytical skills</span>, <span class="text-highlight">creative skills</span>, which <span class="text-highlight">are in short supply</span> so there is a demand increase but there is also a <span class="text-highlight">decrease incline</span>. Because we’re seeing now the <span class="text-highlight">age of baby pool</span> the <span class="text-highlight">shirking of population</span> in Europe, Japan and not very long in China as well and the sort of stabilization that the population of the United States. So we see a time when there is a greater demand for <span class="text-highlight">intellectual skills</span> and slowing down in the supple of people who possess those skills and also a <span class="text-highlight">mismatch between the sort of things that people are learning at school</span>, when university and the sort of things the economy is placing a premium on, particularly with the <span class="text-highlight">shortage of trained people in the sciences and engineering</span> so for all sort of reasons there’s a <span class="text-highlight">premium on talent</span>.`,
+    solution: `The lecturer talked about the talent wars and the shortages of talent. She firstly introduced profound structural forces, which are created the talent shortages. In addition, she indicated that there was a greater demand for intellectual skills and slowing down in the supply of people who possess those skills. Finally, she emphasized a mismatch between what people are learning at Universities and what the economy is placing a premium on. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The talent wars and the shortage of talent.`,
+      `Profound structural forces which are created by the talent shortages.`,
+      `There was a greater demand for intellecture skills and slowing down in the supply of people who possess those skills.`,
+      `A mismatch between what people are learning at university and what the economy is placing on premium.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-5.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=bIumZN7dMSuRU5IkKEGUwtAGel3FpLrS1mForX3Wz5feWcnSz%2FZGnVI0GIYjDeTfqO2goVp6fST6kjjsJcUixZGsnT%2FEKuDmqbNy%2Bx2XHIo5eu5X1sPqgc9dJ6fq75RF598jOKm%2B%2BezPLBzngVdyWUwhtFSw3Tl4uWlhlhaLg0H%2Bkbyk3isFRYwbWbbrBMYyInJeR3g4c8KiMZKepls2GzQM93zHuTIoZkoJnQSE8i4ZuRqb9hm3%2BhbQR5%2BhB%2FqmWYvonyA3EXh91qY27rGa%2B6LzEK%2BWdEigPmQeqzrhh2Vxm9BTJBBCWQmzHk9g02oKskJPaDYpZ6xp5BBYNE4rhg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 6,
+    topic: "Education Leadership",
+    transcript: `My name is Bob Josh, I’m Dean from a Business school of Stanford university, on behalf of all of us from Stanford. We welcome you to this terrific day and <span class="text-highlight">this conference</span> on <span class="text-highlight">educational leadership</span>, this is something relatively unheard of an <span class="text-highlight">higher education</span>, I think where a business school gets together with an <span class="text-highlight">education school</span> and talks about education leadership. The other purpose of Stanford University is to promote learning; <span class="text-highlight">the purpose of school education is to promote learning about education</span>, <span class="text-highlight">the purpose of the business school is to promote learning about management</span>. Most of the world’s businesses services are delivered by <span class="text-highlight">managed instincts institutions</span>, that are <span class="text-highlight">for-profit managed institutions, not-for-profit managed institutions</span>. We rely on the managed institutions that’s our <span class="text-highlight">chosen instrument society</span> to get things done and implement services, particularly educational services which is done by people on their own. The quality of which is done, the performance that underlies how that ever takes place is perfect and we think that in a school of business, the school management has a lot to do with management. The people who <span class="text-highlight">take responsibility</span> for the results, a tremendous sense of worship were saying that they get accomplished and that the work that must be done through other people is in fact done and that there is a capability also by the mangers and people that they feel responsible for.`,
+    solution: `The lecturer talked about the purpose of leadership courses that is to promote learning about education and management. He firstly introduced that most of the world’s business services are delivered by not-for-profit and for-profit managed institutions. In addition, he also introduced how educational services can be done by people on their own. Finally, he emphasized the capability to get work accomplished by managers and people that they feel responsible for. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The purpose of leadership course  that is to promote learning education and managerment.`,`Most of the world’s business services are delivered by non for profit and for profit managed institutions.`,
+      `How educational services can be done by people on their own.`,
+      `The capability to get work accomplished by managers and people that they feel responsible for`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-6.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=Yz32Ed%2F2BCyX9QEaY1%2FcIfUFoJMkQBy9PAE8qNmXj2sItBRjttWMGfkGphLjyAXti4zP92oT0gUQI31mCE4Z8lWzhiyKfYQttmch8TDeJge%2BExboVvtLHzq5hiVzqL7Dv7ddyqr1oB88Mbiu5Vn1rC%2FBbMHYfD2XFTl2Tpd5xS7RxcCbiylCL9rOaW66LEqGQ9oa5OcIFwVZCouE8quDpmfOupcIMYu%2BTxD7X7CVwGRNBGYJaTzYDt8%2FNaOBadP5jxzxuZwR%2FcoIugExYcV7gIyTJoep9nuAniNAbYcLUivNUJV%2FqLT94wjTTgLDz%2Bx21kTrUi1icwwrCyt6UrrW7w%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 7,
+    topic: "Socialism and Communism",
+    transcript: `<span class="text-highlight">Socialism</span> - <span class="text-highlight">the word invented in the late 1810s</span>, <span class="text-highlight">communism - the word first appeared in 1840</span>. <span class="text-highlight">None of these things were words</span>, much <span class="text-highlight">less ideologies</span> <span class="text-highlight">before the French Revolution</span> and the French revolution <span class="text-highlight">gives birth to much of the modern political world</span>. Have you not wondered <span class="text-highlight">why we refer to the political left</span>, and the <span class="text-highlight">political right</span>? Does this have any inherent bodily signification?
+    No. Left and right in politics <span class="text-highlight">comes from the original designation of the Deputies</span> who sat to the 
+    Left of the speaker’s, <span class="text-highlight">podium</span> and those who sat to the right of the speaker’s podium in the National assembly of 1789-1790.  The left were those who were seen as <span class="text-highlight">progressive wanting</span> to change, the right were seen as those wanting to <span class="text-highlight">conserve elements of the old regime</span>.`,
+    solution: `The lecturer talked about Socialism and Communism invented in 1810 and 1840. He firstly indicated that none of these concepts were words before the French Revolution. In addition, he emphasized that the event gave birth to much of the modern political world. Finally, the concept of Right or Left in politics comes from the original designation of the Deputies, who sat to the left or right of the speakers’ podium. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Socialism and Communism invented in 1810 and 1840`,
+      `None of these concepts were words before the French  Revolution.`,
+      `The event give birth the modern political world.`,
+      `The concept of Right or Left in politics comes from the original Deputies.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-7.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=I0RsT6AxujxoEIt6NrfLkfyiagtYdsQ2orRFBYqLHXjhYTbII4Y%2BafyisscLOKvZJnka1by3wy6Y38%2FLijavXXdqGHo6o5mdIisfVtgSELDG7DY30sJiG%2FoEic5g4YKS7hZzbpRczhCJ1F5v1MVXy4XNdtpYSPu7y5TDzxWn8dCB02xko4saBfZqJI2jjv7aV1pc0%2FvUNxyUajtPK6F0HZrXAmDDB4YP1yNFtZL6rRjG4HDJPpfWXaSmJrSFxmPk39PHFDoThiwcnR3w%2FEuXrzNNIrV6pNtRZbIdXBWc4qFj6nY8gySZGFmdPSXP%2FCeFGH6KpqkEx%2BizfFoq%2BfaBtA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 8,
+    topic: "Australian Housing",
+    transcript: `Well it's like, <span class="text-highlight">why is Australian housing so expensive</span>? Essentially it's a showing of <span class="text-highlight">how well the Australian economy has been doing over the last 15 years</span>. We have had 15 years, more or less of uninterrupted and economic growth during which <span class="text-highlight">average earnings</span> have risen by close to &nbsp;90%. While over the course of that period the <span class="text-highlight">standard variable mortgage rate has roughly halved</span>. That meant that the amount which a typical home buying household can afford to borrow under rules which aren’t strictly applied as which they used to be, have more than doubled. Over the same period <span class="text-highlight">rising immigration</span> and <span class="text-highlight">falling average household size</span> have meant that the <span class="text-highlight">number households looking for accommodation has risen</span> by about <span class="text-highlight">one and a half million</span>, that's around 200 thousand more than the number of dwellings has increased by. So you have had a <span class="text-highlight">substantial increase</span> in the <span class="text-highlight">purchasing power of households</span>, no net increase in the supply of housing and hence all that addition purchasing power has gone into <span class="text-highlight">pushing up the price of housing</span>.`,
+    solution: `The lecturer talked about the main reason why Australian housing is expensive. She firstly introduced many concepts including economic growth, average earnings, mortgage rate, immigration issues, and home buying households who afford to borrow money. Additionally, she explained that the number of households looking for accommodations has significantly increased over the period of time. Finally, she concluded that purchasing power is the main factor pushing up the price of housing.  _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The australian economy has been well over the last 15 years.`,
+      `Rising immigration rate, decreasing mortage rate caused an increase in the number of households looking for accommodation.`,
+      `There was a increase in the purchasing power of households and this led to push up the price of housing.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-8.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=c2QV2ZvlY3oyAc9d3ijVonRRV3JLvbkJPnxOCZV%2F5cl6qwmBUzKJW7FE6w4YcMJts%2FH%2FxERPgM5tR34vh44sO4RQ%2FlnxsaXjgFNREIo8ZMVg8sbONZqvHAehR11DYTlK7dzcbmxJNwGDN92ON2nHDRT%2BOG37OP8FNJTpShfhwzn62UzVnnM4SA4xDxtQy8Arq2NdQZ%2F7yK%2FEOe84ZIQ%2FX2B48GfI%2BTnLQPMoHxbSI%2FhEtbGjWB%2FCdilbVlcFIGkDHRJhBo2gDCMUdLxKH7VVj4NCd9Jdymb7kRvM55VtF2jz35t7M5EAvE5KTOfDvzFp8iK05RjvfLQUHKxo8YaAgg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 9,
+    topic: "Language Death",
+    transcript: `<span class="text-highlight">Language death is not a mainstream theatre</span>. It is not mainstream anything. Can you imagine Hollywood taking it on? It is so far <span class="text-highlight">outside the mindsets of most people</span> that they have a difficulty appreciating what the crisis is all about because they are not used to thinking more about language as an issue in itself. Somehow, we need to change these mindsets. We need to <span class="text-highlight">get people thinking more about language more explicitly</span>, <span class="text-highlight">more intimately</span>, <span class="text-highlight">more enthusiastically</span>. Interest in language is certainly there, in the general population. Most people <span class="text-highlight">are fascinated by such topics</span> as <span class="text-highlight">where words come from</span>, or <span class="text-highlight">what the origin of their town’s name is</span>, or <span class="text-highlight">whether their baby’s name means anything</span>; they are certainly prepared to play Scrabble and a host of other language games and infinitum; and you get language games on radio and television too – but a <span class="text-highlight">willingness</span> to focus that interest on general issues, a <span class="text-highlight">preparedness to take on board the emotion</span> and <span class="text-highlight">drama inherent in the situation of language endangerment</span>, <span class="text-highlight">is not something that happens much</span>.`,
+    solution: `The lecturer talked about language death which is not a mainstream theatre. In addition, he emphasized the importance of changing humans’ mindsets about languages. He suggested that people should think about language more explicitly, more intimately and more enthusiastically. Although people are interested in many language topics, they lack a willingness to focus and a preparedness to take on board the drama inherent in the situation of language endangerment. _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Language death which is not a mainstream theatre.`,
+      `The important of changing human’s mindset about languages.`,
+      `People should think about language more explicitly, more intimately and more enthusiastically`,
+      `People are interested in many topics but they lack of a willingness to focus.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fseh4b6t5melfwanp0wemri-sst-9.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=EOTo%2FUTgZvZYz08v1HUTaFZIhjjWGUeAn%2Fla1HcvAda0S%2BSMLRFgl0OZ29MtoOR5ZIR9c4C%2B2hACUKGWoZKOphc5K4DtJdwdQqj5tXmqrDOg58Tfs8Ven%2FCS2d2aZq1R6GbTUayJjLw6ZzrB8%2Fql7jhhyTUWbKh0QYuCrhywX7E5aynVh4LATj57wZ%2BWoqEBUneghw5b6pmJF1UA9KoQgPFiH%2BmFPZ2NsFAgy0gzcrdMm3jh80ytquPlRxdI9oAsR46ExWYjJTtElnfR9CRJM0ACE535InP8OO1IyJ%2B%2BbmV8yrQO9ukCkFlHz1W3gDCDHmCeNHbLqIgv0CIarNTmFg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 10,
+    topic: "Universe",
+    transcript: `For thousands of years, <span class="text-highlight">philosophers and astronomers</span> think of all sorts and imagine of <span class="text-highlight">the universe</span>, <span class="text-highlight">this space around us</span>. It's <span class="text-highlight">rather like a constant</span>. It was <span class="text-highlight">fixed and unchangeable</span>, and things happened in it. Just as <span class="text-highlight">people walk around</span>, so <span class="text-highlight">stars</span>, the <span class="text-highlight">comets</span>, the planets, and the other heavenly bodies<span class="text-highlight">moved around and trace down their parts on this completely</span>unchanging status space<span class="text-highlight">. In the 21st century, as</span>the result of Einstein's work<span class="text-highlight">that</span>fixed and unchangeable<span class="text-highlight">universe</span>was completely transformer<span class="text-highlight">. We began to understand that the universe is</span>absolutely not fixed<span class="text-highlight">state stage of space at all on which also listed emotions played out. But in some sense on</span>a larger scale in the universe<span class="text-highlight">, the space itself was</span>the state of a continuous dynamic change<span class="text-highlight">. That was</span>the prediction<span class="text-highlight">but it that wasn't Einstein who had the honor of</span>making discovery__ that our universe was really like that.`,
+    solution: `The lecturer talked about the universe, which was fixed and unchangeable. He firstly introduced about many concepts including stars, comets, planets, and other bodies moving around the space. Additionally, he argued that the view of the universe was completely transformed as the result of a scientist’s work. Finally, he concluded that the space itself was the stage of a continuous dynamic change on a larger scale in the universe. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The Universe which is the fixed and unchangeable space arround us.`,
+      `The general concept of the universe including stars, planets, and other bodies in the space.`,
+      `The result of the scientist was changed the concept which is about fixed and unchangeable universe.`,
+      `The space itself is a continous dynamic change.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fmrm2ppqegv1yidsgv16vv-sst-10.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=YJEiW3S8oTABKT0ZZLr2uAKqr6YlEjDLKNdfhz6jDTLoLQCNErXK4NsYRnBK4sA0GpZ7xPqpBueEC%2BH6wX58%2FOv833vXxMJD%2Fqn5r9fm0ym2Pqq8YCQpHwiLdXVaF3z0SJ3C4K8w2ADZbHsMCcN2IO%2BCmgQ9jidQ7vcbAB9JmJIT%2F%2B5MZAcjELEF%2FfkmLQsYBU%2FZyCOCCoc05ImYy62GfjwLOtgnoI%2FTKeuvvo6Mk2ex5Wt5QECn%2B0Qg37Im%2BiNxT66UtifjntDvJL4ExYPekhfNCtJxY7y0fOTBmMLc%2Bbz5%2F8ldAkDVdPaV4otzKJZcd1Jtr10GyrNyiMLW%2BnRwTw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 12,
+    topic: "Laughing",
+    transcript: `Keeping people <span class="text-highlight">laughing</span> especially in <span class="text-highlight">times</span> of <span class="text-highlight">adversity</span>, which is the <span class="text-highlight">theme</span> of tonight's <span class="text-highlight">lecture</span> is the <span class="text-highlight">crucially</span> <span class="text-highlight">important</span> thing. It was Gracie Fields, the Lancashire <span class="text-highlight">comedienne</span>, who once said “it’s so bad luv, laughing is all that’s left.” <span class="text-highlight">Laughter</span> is one of the <span class="text-highlight">greatest</span> <span class="text-highlight">therapies</span>in <span class="text-highlight">combating</span> <span class="text-highlight">adversity</span>; and <span class="text-highlight">whole communities</span> and <span class="text-highlight">nations</span> have frequently <span class="text-highlight">relied on</span> <span class="text-highlight">humour</span> to <span class="text-highlight">get</span> them <span class="text-highlight">through</span> their <span class="text-highlight">bleakest times</span>. For instance <span class="text-highlight">40 years ago</span>on August 13, 1961, the barbed <span class="text-highlight">wire</span> was <span class="text-highlight">rolled out of</span> <span class="text-highlight">Berlin</span> to <span class="text-highlight">create</span> the <span class="text-highlight">Berlin wall</span>. For nearly 30 years, until it was <span class="text-highlight">dismantled</span>, <span class="text-highlight">wall</span> <span class="text-highlight">jokes</span> <span class="text-highlight">proliferated</span> - especially among those <span class="text-highlight">living</span>in the <span class="text-highlight">east</span>. <span class="text-highlight">Laughing</span> was all that was <span class="text-highlight">left</span>. <span class="text-highlight">Jokes</span> about those who <span class="text-highlight">rule</span> you - and sometimes those who <span class="text-highlight">tyrannise</span>you - are a form of<span class="text-highlight">folklore</span>that has <span class="text-highlight">existed</span>in <span class="text-highlight">societies</span> as seemingly <span class="text-highlight">different</span> as <span class="text-highlight">communist</span>eastern Europe Czarist Russia, modern Egypt, 12-century Persia, and modern-day Iran. <span class="text-highlight">Humour</span> can also be wonderfully <span class="text-highlight">subversive</span>. It can <span class="text-highlight">protect</span> <span class="text-highlight">self-respect</span> and <span class="text-highlight">identity</span>.`,
+    solution: `The lecture talks about the importance of laughing and humour, which is one of the greatest therapies in combatting adversity. He firstly indicated whole communities and nations have frequently relied on humour. Additionally, he also demonstrate that it was a way of humanizing the tragedy of an ideology that had divided families and a nation. He finally concluded that laugh and humour are able to protect self-respect and identity appropriately. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The important of laughing and humour which is the greatest therapies in combatting adversity.`,
+      `Whole communities and nations have relied on humour to get them through their bleakest times.`,
+      `Humour can also be wonderfully subversive and it can protect self respect and identity.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-12.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=QtPW%2BYb534BA3iJbz%2FqnWkEtQ3u7O8NeVvkm6DZ88Fa%2BhWOKwqoY1%2F3OZlOOvzoovb%2BlBbhyfD8M4ls45B%2F9q6hwp4wQwPjRIRG2udqTTE3TNclJHG37k4z6QeJDAjOjyfAJx8BEfkTqkXxUxzhkqLbGQFURIl4x8oQQgSqWUZz0RJz2GBoUZLXf8me1zN5UmU%2BWZ33nwpJ6YOKhO5lPQmGHSuY0cQAcFA7vl8Lg8mN%2BY%2FcMEKDekk3b7VksItoMHrOBCx%2B7Yx7Jg4rQxao%2BQQ9TZNW66EmBDVZLbOXMr0uNnTEB0QBLj7bG0bMG%2B6wBhEl3BthXomfbmX5F4CZ2eg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 13,
+    topic: "Identity theory",
+    transcript: `And then in the 1950s <span class="text-highlight">philosophers</span> had this <span class="text-highlight">novel idea</span> that perhaps the <span class="text-highlight">mind</span> is just <span class="text-highlight">identical</span> with the <span class="text-highlight">brain</span>. And this had not <span class="text-highlight">occurred</span> to <span class="text-highlight">philosophers</span> before. It <span class="text-highlight">happened</span> around the <span class="text-highlight">same time</span> that the <span class="text-highlight">first</span> <span class="text-highlight">departments</span> of <span class="text-highlight">neuroscience</span> <span class="text-highlight">started</span> <span class="text-highlight">forming</span> like RMIT and Standford and so forth. A couple of <span class="text-highlight">philosophers</span> here in <span class="text-highlight">Oxford</span> place and <span class="text-highlight">smart</span> and they <span class="text-highlight">made the mind</span> just is the brain so that is the <span class="text-highlight">identity theory</span> and with identity, <span class="text-highlight">identity</span> in the <span class="text-highlight">logic</span> is the <span class="text-highlight">strongest relationship</span>. When you have <span class="text-highlight">identity between A and B</span>, you don't have <span class="text-highlight">two things</span> you have <span class="text-highlight">one thing</span>. So now whenever you talk about <span class="text-highlight">mental events</span>, you're talking about <span class="text-highlight">brain events</span>. Whenever you're talking about <span class="text-highlight">brain events</span>, you're talking about <span class="text-highlight">mental</span>, ok, so that is <span class="text-highlight">identity theory</span>. And it is very <span class="text-highlight">popular</span>. It's basically the idea that <span class="text-highlight">mental properties</span> are just <span class="text-highlight">properties</span> of the <span class="text-highlight">brain</span>.`,
+    solution: `The lecturer talked about a novel idea that the mind is merely identical with the brain. He firstly indicated that the idea happened around the same time when the first departments of neuroscience started forming. In addition, a couple of philosophers claimed that the mind is the brain , and they provided detailed information about the identity theory. He finally concluded that mental properties are only properties of the brain. _(69 words)_`,
+    keywords: [
+    ],
+    mainIdeas: [
+      `A novel idea that the mind is identical with the brain.`,
+      `The idea happened arround the same time when the first departments of neuroscience started forming.`,
+      `A couple of philosophers claimed that the mind is the brain and they provide detail information about the identity theory.`,
+      `Mental properties are only properties of the brain.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-13.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Ltty8wxW3laF5ap%2FKGIgN8ipX3oP0qM5mxOQwTsQyJtgqP%2Ff7Sq662Y9NhDzXci1yyUXntIYXO0%2FdfnurMhb1m3F4VK0dDkW0p4sCATSZnpuDdZvon52LbTb4070%2Bh5Il7ei3eyXRhUYwgdX8yuSym9w%2FuTGsSRCL1ftDfTkSDlnkWe1y9gmxI%2BPXkMAy4Iv3iJtjS2lUzJ4OZMZhBxJgROey3fwKGfPJvat8pYECXdhifJ5S%2BOqJXSv8Idv1UBl5EKsE6mIXWdJQq0k0tx7aAc%2BaSkfD5o%2BHqaS%2FMFGXFlYEew6VmTNUqXet2tZ3Va1OdlNbBWpYvKACxFfMqEX6g%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
