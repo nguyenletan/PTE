@@ -261,7 +261,94 @@ const SummarizeSpokenText = [
     priority: "normal",
     newwords: []
   },
+
+  {
+    id: 41,
+    topic: "Mary Mallon (Typhoid Mary)",
+    transcript: `<span class="text-highlight">Mary Mallon</span>, better known as Typhoid Mary, was <span class="text-highlight">the first person in the United States</span> identified as an asymptomatic <span class="text-highlight">carrier of the pathogen associated with typhoid fever</span>. She was presumed to <span class="text-highlight">have infected 51 people</span>, three of whom died, over the course of <span class="text-highlight">her career as a cook</span>. She was twice forcibly isolated by <span class="text-highlight">public health authorities</span> and <span class="text-highlight">died after a total of nearly three decades in isolation</span>. <br /><br/>From 1900 to 1907, Mallon <span class="text-highlight">worked as a cook</span> in the New York City area for seven families. In 1900, she worked in Mamaroneck, New York, where, within two weeks of her employment, <span class="text-highlight">residents developed typhoid fever</span>. In 1901, she moved to Manhattan, where members of the family for whom she worked developed fevers and diarrhea, and the laundress died. Mallon then went to work for a lawyer; she left after seven of the eight people in that household became ill. <br/><br/> In 1906, she took a position in Oyster Bay, Long Island, and within two weeks 10 of the 11 family members were hospitalized with typhoid. <span class="text-highlight">She changed jobs</span> again, and similar occurrences happened in three more households. She worked as a cook for the family of a wealthy New York banker, Charles Henry Warren. When the Warrens rented a house in Oyster Bay for the summer of 1906, Mallon went along too. From August 27 to September 3, six of the 11 people in the family came down with <span class="text-highlight">typhoid fever</span>. <span class="text-highlight">The disease</span> at that time was <span class="text-highlight">“unusual”</span> in Oyster Bay, according to three <span class="text-highlight">medical doctors</span> who practiced there.`,
+    solution: `The lecturer talked about the outbreak of typhoid, and the biography of Mary Mallon who was the carrier of typhoid virus. Moreover, she infected many people and three of them died in New York during her career as a cook. In addition, the public health authorities isolated here, and she spent the rest of her life in quarantine. He finally confirmed that live typhoid bacteria were found in her gallbladder.`,
+    keywords: [
+    ],
+    mainIdeas: [
+    `Mary Mallonwas the first person in the United States identified as a carrier of the typhoid fever.`,
+    `She was presumed to have infected 51 people, three of whom died, over the course of her career as a cook.`,
+    `She was isolated by public health authorities.`,
+    `She died after nearly three decades in isolation.`,
+    `The disease at that time was “unusual” in Oyster Bay, according to medical doctors.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-41.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=bbud1lB1%2BMwjGqhJuCpcadjOYFRYLr0LVVQJzl9eu1YUYqaLPNWmgtxxePrs%2BFdcZCGnFbUcMLh3BWDO%2BUmHtmTn0w0oMhjdH8zUtvUV0t765hWj6mPeqjvdFpE4s3kylHWAz2ieZJtQ%2B4AO%2F7gBMMyD26GMoSe9Yev3Hi5eVchGzg%2BrdBMm89IxIwoCb%2FSEraNJc3%2FvaRa4%2F02PgkAxgtvF2WDnKB5Ul29PEEVON6zgouCBMNWFlRjn7diSYOGAxG1t3sdl0ABmN3VDRFQydg5sNwwbkhPgbHJn1VNsB1LqS%2BIJlfFdnXigVMmCbeQ2zZT%2BUyJ5OI1ARwLMyxO6UA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 42,
+    topic: "University Competition",
+    transcript: `Today <span class="text-highlight">university</span> like the LSE (London School of Economics) certainly has to acknowledge that it's  <span class="text-highlight">a competition for the best students</span>, all of whom have chosen, they can <span class="text-highlight">exercise</span> and many of them choose they can <span class="text-highlight">run across nations and continental borders</span>. We are in competition of the staff. The <span class="text-highlight">academic job market</span> is one of the most global there is. In the 21st century English is the new Latin. So universities in <span class="text-highlight">English speaking countries</span> are exposed to <span class="text-highlight">more intensive competitions</span> than elsewhere. We are in competition for government funding through the assessment of research quality. We are in competition for <span class="text-highlight">research contracts from public and private sources</span>, and indeed, we are in competition for the philanthropic pound.. Many of our own donors were at more than one university. And indeed, think of the LSE request alongside: there are other charities to which they are committed. That is <span class="text-highlight">a competitive environment</span> which is practically visible to our chancellors.`,
+    solution: `The lecturer talked about competitions at many universities across nations and continental borders. He firstly indicated the importance of the academic job market in the current century. In addition, he had a discussion on a more intensive competition for the search contracts from both public and private sources, as well as for government funding through the assessment of research quality. Finally, he reemphasized a competitive environment for other charity activities. _(70 words)_`,
+    keywords: [
+    ],
+    mainIdeas: [
+    `It's a competition for the best students across nations and continental borders`,
+   `The academic job market is the most global`,
+   `We are in competition for government funding through the assessment of research quality, and for research contracts from public and private sources`,     
+    'There are other charities to which they are committed.'
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-42.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=FlNrOj9f0HRiU%2FgMRXd55tAD1o9pNMFCq0mxjZOTXOgi4hLqbsJnnlVSZMHb0CqmDHDqouANgwA%2B0IhxfN4k1dl7oEMnOebuZFT4L6Wt%2B39wfG%2BQDbhm5wb1L02WQPRATIVbToNlgJPX6%2FRZeOYAv5uHDHgrzEQDsxJsfpB8BQiEFvB5VE8ukmAQ%2FR46P2ccRx359d0fOaOfjQNKQWb%2BlQgl9l8bqd7T0HLa1P%2FGyqZzmRDr7FQj9jNa3I4QqIBFktFxJhxCQqFcseUsr7lsfOcjmAUwpCF50ntRxUzqlWk4w4DrCGBVGql3T9WJ6zPwf9OJCe943gGmsx4IOyP1rA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
   
+  {
+    id: 43,
+    topic: "Talent war version 1",
+    transcript: `<span class="text-highlight">Talent war</span>! I think there is <span class="text-highlight">an intense competition</span> at the moment to hire <span class="text-highlight">the most talented</span> and <span class="text-highlight">the most intellectually able people</span>. There is a time when I think companies had many of the adventures in the world, that it was the company's world, it will be the bosses’ world. Now, I think the reverse is the case. We have <span class="text-highlight">a shortage of talent</span> both within countries and between countries: have <span class="text-highlight">intense battle between companies</span> trying to hire the most talented workers and also between countries which are looking to recruit <span class="text-highlight">talented young people</span>, <span class="text-highlight">talented young immigrants</span>. We have these senses of immigrants being things that countries are battling to keep out and immigrants trying to get in, climb over the walls. I think the opposite is, in fact, the case. And the topic is that countries are trying to woo bright young people to get them to go to the universities and get them to become immigrants. So, on many, many levels, time that is a premium, there is a shortage of talent. And so, <span class="text-highlight">countries, companies, all sorts of organizations</span>, of course, voluntary organization as well as are competing to <span class="text-highlight">hire the best and the brightest</span>. You know, we have <span class="text-highlight">a baby boomer population which is aging</span>. We have <span class="text-highlight">an economy which is becoming more sophisticated</span>. And for other sorts of reasons, <span class="text-highlight">talent is the premium</span>.`,
+    solution: `The lecturer talked about an intense competition to hire the most talented and smart people. She firstly indicated a shortage of talent both within countries and between nations while looking to recruit talented young immigrants. In addition, she emphasized a shortage of talent in many countries, as well as highlighted current issues of a baby boomer population. Finally, she had a discussion on our economy, which is becoming more sophisticated. (_70 words)_`,
+    keywords: [
+    ],
+    mainIdeas: [
+    `There is an intense competition to hire the most talented and intellectual people`,
+    `We have a shortage of talent both within countries and between countries: companies trying to hire the most talented workers and countries looking to recruit talented young immigrants.`,
+    'A baby boomer population is aging + an economy is becoming more sophisticated => talent is the premium.'
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-43.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Rziqv18NGsHNrLaMeQvTT%2Fz19mk%2BB8dm6w2dsTYAHrvzqWZnY82%2BLXuRoFWV5nmhP9N2mAN4U47zh4FpdKGWvdjMWrl%2Bc2QqrlQk0sBmSWeKjUSNHHE6FM6Q24VKbfJufp0A82bjMawSyqpHrsJ75sXm2NUGD1Gkjj3OaIEC1MF10oZt1W5G5jGVd0qW7377isDrLbsDVMQxpYjLbU7dUpY%2BU2OsV4RQPJrNDT%2FPQsE5TFtnfJzHSjm20Ouy7HrmYsqNV3BgcfXO3%2Fga5NWeaZUV3yDanU6f7YFh%2BKXyz1Lj4JkwvMtNvRsCR6%2FkmZiVQWxHVk83Sa0N57fDoWngmA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 44,
+    topic: "Urbanization Development",
+    transcript: `I'm trying here to capture the dynamic that just conventionally been associated with <span class="text-highlight">urbanization development</span>. And it gets back once again to this question of <span class="text-highlight">agriculture</span>. Once you have cities you also as a reflection of cities, you have the countryside, you have <span class="text-highlight">rural areas</span> that have this relationship with <span class="text-highlight">urban areas</span> and at mediated by the production of <span class="text-highlight">agricultural goods</span>. And then the trade of those are increasingly <span class="text-highlight">industrial goods</span>. Increasing an agricultural productivity <span class="text-highlight">reduces labour needs and opportunities in rural areas</span>, pushing people towards the city's. There's this notion that in order to have progress and developments in cities, you need people. If everybody is busy growing crops, growing food to simply subsist, you can have people going into the city, you need to <span class="text-highlight">increase productivity in the countryside</span>. You need to have one farmer produce enough food more than one family. And then you will have growth and productivity in the countryside which will free up people to move to the cities. In fact, in many ways, it will compel them to <span class="text-highlight">move to the cities</span> because they won't be able to make a living in the countryside anymore. They will go to the cities <span class="text-highlight">in search of jobs</span> and provide <span class="text-highlight">a labour force</span> for <span class="text-highlight">the production of all kinds of other things</span>.`,
+    solution: `The lecturer talked about the dynamic that conventionally associated with urbanization development. He firstly indicated that an increase in agricultural productivities can reduce labour needs and opportunities in rural areas, then this may push people towards the city. In addition, he argued that people need to leave the countryside and move to the cities in search of jobs and provide a labour force for the production of many various items. (70 words)`,
+    keywords: [
+    ],
+    mainIdeas: [
+    `The dynamic that has conventionally been associated with urbanization development.`,
+     `Increasing agricultural productivity reduces labour/labor needs and opportunities in rural areas => pushing people towards the cities.`,
+     `They won't be able to make a living in the countryside anymore => go to the cities in search of jobs and provide a labour force for the production of other things.`,
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-44.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PmpaGG2not1FApCpQiA4YAdhXkqUerRhstZuXXb3BpEfEeZddmWVjtgOBDirsP1oT8TM6krMg4Uk4Z56AkYBNmf%2BXycZA0GKj3A5Q4UsxlgXtu6SxMrKBkt3coGtDhmeKr645JrutdzC2tQdSP4egHdpLQW0agNA6DnLvStM7CFh9HSAwxI0%2BS2ZIjlv4RnbFjjhFuB8eZvjTVPFA2Nq7QlsPcaMSZ9Stq0KSa6ZeYMyZG8H%2B%2FA%2B%2FrkcxBrQqfwCtM8St4U9YFbqZ%2FGfrKsaagRWoftdEq%2BhJw3itwaMFn4Ig48og5pKaYO6newQorNe5djotYERp878qesTPZLfPg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
   {
     id: 81,
     topic: "Washing Machines",
