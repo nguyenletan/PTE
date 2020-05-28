@@ -122,7 +122,8 @@ const SummarizeSpokenText = [
     solution: `The lecturer talked about the purpose of leadership courses that is to promote learning about education and management. He firstly introduced that most of the world’s business services are delivered by not-for-profit and for-profit managed institutions. In addition, he also introduced how educational services can be done by people on their own. Finally, he emphasized the capability to get work accomplished by managers and people that they feel responsible for. _(70 words)_`,
     keywords: [],
     mainIdeas: [
-      `The purpose of leadership course  that is to promote learning education and managerment.`,`Most of the world’s business services are delivered by non for profit and for profit managed institutions.`,
+      `The purpose of leadership course  that is to promote learning education and managerment.`,
+      `Most of the world’s business services are delivered by non for profit and for profit managed institutions.`,
       `How educational services can be done by people on their own.`,
       `The capability to get work accomplished by managers and people that they feel responsible for`
     ],
@@ -139,7 +140,7 @@ const SummarizeSpokenText = [
     id: 7,
     topic: "Socialism and Communism",
     transcript: `<span class="text-highlight">Socialism</span> - <span class="text-highlight">the word invented in the late 1810s</span>, <span class="text-highlight">communism - the word first appeared in 1840</span>. <span class="text-highlight">None of these things were words</span>, much <span class="text-highlight">less ideologies</span> <span class="text-highlight">before the French Revolution</span> and the French revolution <span class="text-highlight">gives birth to much of the modern political world</span>. Have you not wondered <span class="text-highlight">why we refer to the political left</span>, and the <span class="text-highlight">political right</span>? Does this have any inherent bodily signification?
-    No. Left and right in politics <span class="text-highlight">comes from the original designation of the Deputies</span> who sat to the 
+    No. Left and right in politics <span class="text-highlight">comes from the original designation of the Deputies</span> who sat to the
     Left of the speaker’s, <span class="text-highlight">podium</span> and those who sat to the right of the speaker’s podium in the National assembly of 1789-1790.  The left were those who were seen as <span class="text-highlight">progressive wanting</span> to change, the right were seen as those wanting to <span class="text-highlight">conserve elements of the old regime</span>.`,
     solution: `The lecturer talked about Socialism and Communism invented in 1810 and 1840. He firstly indicated that none of these concepts were words before the French Revolution. In addition, he emphasized that the event gave birth to much of the modern political world. Finally, the concept of Right or Left in politics comes from the original designation of the Deputies, who sat to the left or right of the speakers’ podium. _(70 words)_`,
     keywords: [],
@@ -245,8 +246,7 @@ const SummarizeSpokenText = [
     topic: "Identity theory",
     transcript: `And then in the 1950s <span class="text-highlight">philosophers</span> had this <span class="text-highlight">novel idea</span> that perhaps the <span class="text-highlight">mind</span> is just <span class="text-highlight">identical</span> with the <span class="text-highlight">brain</span>. And this had not <span class="text-highlight">occurred</span> to <span class="text-highlight">philosophers</span> before. It <span class="text-highlight">happened</span> around the <span class="text-highlight">same time</span> that the <span class="text-highlight">first</span> <span class="text-highlight">departments</span> of <span class="text-highlight">neuroscience</span> <span class="text-highlight">started</span> <span class="text-highlight">forming</span> like RMIT and Standford and so forth. A couple of <span class="text-highlight">philosophers</span> here in <span class="text-highlight">Oxford</span> place and <span class="text-highlight">smart</span> and they <span class="text-highlight">made the mind</span> just is the brain so that is the <span class="text-highlight">identity theory</span> and with identity, <span class="text-highlight">identity</span> in the <span class="text-highlight">logic</span> is the <span class="text-highlight">strongest relationship</span>. When you have <span class="text-highlight">identity between A and B</span>, you don't have <span class="text-highlight">two things</span> you have <span class="text-highlight">one thing</span>. So now whenever you talk about <span class="text-highlight">mental events</span>, you're talking about <span class="text-highlight">brain events</span>. Whenever you're talking about <span class="text-highlight">brain events</span>, you're talking about <span class="text-highlight">mental</span>, ok, so that is <span class="text-highlight">identity theory</span>. And it is very <span class="text-highlight">popular</span>. It's basically the idea that <span class="text-highlight">mental properties</span> are just <span class="text-highlight">properties</span> of the <span class="text-highlight">brain</span>.`,
     solution: `The lecturer talked about a novel idea that the mind is merely identical with the brain. He firstly indicated that the idea happened around the same time when the first departments of neuroscience started forming. In addition, a couple of philosophers claimed that the mind is the brain , and they provided detailed information about the identity theory. He finally concluded that mental properties are only properties of the brain. _(69 words)_`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
       `A novel idea that the mind is identical with the brain.`,
       `The idea happened arround the same time when the first departments of neuroscience started forming.`,
@@ -267,14 +267,13 @@ const SummarizeSpokenText = [
     topic: "Mary Mallon (Typhoid Mary)",
     transcript: `<span class="text-highlight">Mary Mallon</span>, better known as Typhoid Mary, was <span class="text-highlight">the first person in the United States</span> identified as an asymptomatic <span class="text-highlight">carrier of the pathogen associated with typhoid fever</span>. She was presumed to <span class="text-highlight">have infected 51 people</span>, three of whom died, over the course of <span class="text-highlight">her career as a cook</span>. She was twice forcibly isolated by <span class="text-highlight">public health authorities</span> and <span class="text-highlight">died after a total of nearly three decades in isolation</span>. <br /><br/>From 1900 to 1907, Mallon <span class="text-highlight">worked as a cook</span> in the New York City area for seven families. In 1900, she worked in Mamaroneck, New York, where, within two weeks of her employment, <span class="text-highlight">residents developed typhoid fever</span>. In 1901, she moved to Manhattan, where members of the family for whom she worked developed fevers and diarrhea, and the laundress died. Mallon then went to work for a lawyer; she left after seven of the eight people in that household became ill. <br/><br/> In 1906, she took a position in Oyster Bay, Long Island, and within two weeks 10 of the 11 family members were hospitalized with typhoid. <span class="text-highlight">She changed jobs</span> again, and similar occurrences happened in three more households. She worked as a cook for the family of a wealthy New York banker, Charles Henry Warren. When the Warrens rented a house in Oyster Bay for the summer of 1906, Mallon went along too. From August 27 to September 3, six of the 11 people in the family came down with <span class="text-highlight">typhoid fever</span>. <span class="text-highlight">The disease</span> at that time was <span class="text-highlight">“unusual”</span> in Oyster Bay, according to three <span class="text-highlight">medical doctors</span> who practiced there.`,
     solution: `The lecturer talked about the outbreak of typhoid, and the biography of Mary Mallon who was the carrier of typhoid virus. Moreover, she infected many people and three of them died in New York during her career as a cook. In addition, the public health authorities isolated here, and she spent the rest of her life in quarantine. He finally confirmed that live typhoid bacteria were found in her gallbladder.`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
-    `Mary Mallonwas the first person in the United States identified as a carrier of the typhoid fever.`,
-    `She was presumed to have infected 51 people, three of whom died, over the course of her career as a cook.`,
-    `She was isolated by public health authorities.`,
-    `She died after nearly three decades in isolation.`,
-    `The disease at that time was “unusual” in Oyster Bay, according to medical doctors.`
+      `Mary Mallonwas the first person in the United States identified as a carrier of the typhoid fever.`,
+      `She was presumed to have infected 51 people, three of whom died, over the course of her career as a cook.`,
+      `She was isolated by public health authorities.`,
+      `She died after nearly three decades in isolation.`,
+      `The disease at that time was “unusual” in Oyster Bay, according to medical doctors.`
     ],
     fillInTheBlank: "",
     audio:
@@ -290,13 +289,12 @@ const SummarizeSpokenText = [
     topic: "University Competition",
     transcript: `Today <span class="text-highlight">university</span> like the LSE (London School of Economics) certainly has to acknowledge that it's  <span class="text-highlight">a competition for the best students</span>, all of whom have chosen, they can <span class="text-highlight">exercise</span> and many of them choose they can <span class="text-highlight">run across nations and continental borders</span>. We are in competition of the staff. The <span class="text-highlight">academic job market</span> is one of the most global there is. In the 21st century English is the new Latin. So universities in <span class="text-highlight">English speaking countries</span> are exposed to <span class="text-highlight">more intensive competitions</span> than elsewhere. We are in competition for government funding through the assessment of research quality. We are in competition for <span class="text-highlight">research contracts from public and private sources</span>, and indeed, we are in competition for the philanthropic pound.. Many of our own donors were at more than one university. And indeed, think of the LSE request alongside: there are other charities to which they are committed. That is <span class="text-highlight">a competitive environment</span> which is practically visible to our chancellors.`,
     solution: `The lecturer talked about competitions at many universities across nations and continental borders. He firstly indicated the importance of the academic job market in the current century. In addition, he had a discussion on a more intensive competition for the search contracts from both public and private sources, as well as for government funding through the assessment of research quality. Finally, he reemphasized a competitive environment for other charity activities. _(70 words)_`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
-    `It's a competition for the best students across nations and continental borders`,
-   `The academic job market is the most global`,
-   `We are in competition for government funding through the assessment of research quality, and for research contracts from public and private sources`,     
-    'There are other charities to which they are committed.'
+      `It's a competition for the best students across nations and continental borders`,
+      `The academic job market is the most global`,
+      `We are in competition for government funding through the assessment of research quality, and for research contracts from public and private sources`,
+      "There are other charities to which they are committed."
     ],
     fillInTheBlank: "",
     audio:
@@ -306,18 +304,19 @@ const SummarizeSpokenText = [
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 43,
     topic: "Talent war version 1",
     transcript: `<span class="text-highlight">Talent war</span>! I think there is <span class="text-highlight">an intense competition</span> at the moment to hire <span class="text-highlight">the most talented</span> and <span class="text-highlight">the most intellectually able people</span>. There is a time when I think companies had many of the adventures in the world, that it was the company's world, it will be the bosses’ world. Now, I think the reverse is the case. We have <span class="text-highlight">a shortage of talent</span> both within countries and between countries: have <span class="text-highlight">intense battle between companies</span> trying to hire the most talented workers and also between countries which are looking to recruit <span class="text-highlight">talented young people</span>, <span class="text-highlight">talented young immigrants</span>. We have these senses of immigrants being things that countries are battling to keep out and immigrants trying to get in, climb over the walls. I think the opposite is, in fact, the case. And the topic is that countries are trying to woo bright young people to get them to go to the universities and get them to become immigrants. So, on many, many levels, time that is a premium, there is a shortage of talent. And so, <span class="text-highlight">countries, companies, all sorts of organizations</span>, of course, voluntary organization as well as are competing to <span class="text-highlight">hire the best and the brightest</span>. You know, we have <span class="text-highlight">a baby boomer population which is aging</span>. We have <span class="text-highlight">an economy which is becoming more sophisticated</span>. And for other sorts of reasons, <span class="text-highlight">talent is the premium</span>.`,
     solution: `The lecturer talked about an intense competition to hire the most talented and smart people. She firstly indicated a shortage of talent both within countries and between nations while looking to recruit talented young immigrants. In addition, she emphasized a shortage of talent in many countries, as well as highlighted current issues of a baby boomer population. Finally, she had a discussion on our economy, which is becoming more sophisticated. (_70 words)_`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
-    `There is an intense competition to hire the most talented and intellectual people`,
-    `We have a shortage of talent both within countries and between countries: companies trying to hire the most talented workers and countries looking to recruit talented young immigrants.`,
-    'A baby boomer population is aging + an economy is becoming more sophisticated => talent is the premium.'
+      `There is an intense competition to hire the most talented and intellectual people`,
+      `We have a shortage of talent both within countries and between countries:<br/>
+        - companies trying to hire the most talented workers<br/>
+        - countries looking to recruit talented young immigrants.`,
+      "A baby boomer population is aging + an economy is becoming more sophisticated => talent is the premium."
     ],
     fillInTheBlank: "",
     audio:
@@ -333,16 +332,86 @@ const SummarizeSpokenText = [
     topic: "Urbanization Development",
     transcript: `I'm trying here to capture the dynamic that just conventionally been associated with <span class="text-highlight">urbanization development</span>. And it gets back once again to this question of <span class="text-highlight">agriculture</span>. Once you have cities you also as a reflection of cities, you have the countryside, you have <span class="text-highlight">rural areas</span> that have this relationship with <span class="text-highlight">urban areas</span> and at mediated by the production of <span class="text-highlight">agricultural goods</span>. And then the trade of those are increasingly <span class="text-highlight">industrial goods</span>. Increasing an agricultural productivity <span class="text-highlight">reduces labour needs and opportunities in rural areas</span>, pushing people towards the city's. There's this notion that in order to have progress and developments in cities, you need people. If everybody is busy growing crops, growing food to simply subsist, you can have people going into the city, you need to <span class="text-highlight">increase productivity in the countryside</span>. You need to have one farmer produce enough food more than one family. And then you will have growth and productivity in the countryside which will free up people to move to the cities. In fact, in many ways, it will compel them to <span class="text-highlight">move to the cities</span> because they won't be able to make a living in the countryside anymore. They will go to the cities <span class="text-highlight">in search of jobs</span> and provide <span class="text-highlight">a labour force</span> for <span class="text-highlight">the production of all kinds of other things</span>.`,
     solution: `The lecturer talked about the dynamic that conventionally associated with urbanization development. He firstly indicated that an increase in agricultural productivities can reduce labour needs and opportunities in rural areas, then this may push people towards the city. In addition, he argued that people need to leave the countryside and move to the cities in search of jobs and provide a labour force for the production of many various items. (70 words)`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
-    `The dynamic that has conventionally been associated with urbanization development.`,
-     `Increasing agricultural productivity reduces labour/labor needs and opportunities in rural areas => pushing people towards the cities.`,
-     `They won't be able to make a living in the countryside anymore => go to the cities in search of jobs and provide a labour force for the production of other things.`,
+      `The dynamic that has conventionally been associated with urbanization development.`,
+      `Increasing agricultural productivity reduces labour/labor needs and opportunities in rural areas => pushing people towards the cities.`,
+      `They won't be able to make a living in the countryside anymore => go to the cities in search of jobs and provide a labour force for the production of other things.`
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-44.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PmpaGG2not1FApCpQiA4YAdhXkqUerRhstZuXXb3BpEfEeZddmWVjtgOBDirsP1oT8TM6krMg4Uk4Z56AkYBNmf%2BXycZA0GKj3A5Q4UsxlgXtu6SxMrKBkt3coGtDhmeKr645JrutdzC2tQdSP4egHdpLQW0agNA6DnLvStM7CFh9HSAwxI0%2BS2ZIjlv4RnbFjjhFuB8eZvjTVPFA2Nq7QlsPcaMSZ9Stq0KSa6ZeYMyZG8H%2B%2FA%2B%2FrkcxBrQqfwCtM8St4U9YFbqZ%2FGfrKsaagRWoftdEq%2BhJw3itwaMFn4Ig48og5pKaYO6newQorNe5djotYERp878qesTPZLfPg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 73,
+    topic: "Consumer Behaviour (Tide Brand)",
+    transcript: `It turns out <span class="text-highlight">consumers are incredibly smart</span>. They can <span class="text-highlight">buy a lifetime of experience with that brand</span>, they can buy with whatever it’s designed to deal with, all of which makes them feel: <span class="text-highlight">performance and price</span>. And they do all that in a few seconds. So <span class="text-highlight">brands are essential to our business to allow us to deliver the increased consumer value associated with our products</span>.<br/> But we're not into the <span class="text-highlight">generic business of toilet paper</span>, we're into probably about the <span class="text-highlight">softest product</span> you're going to want to buy. We're not into a generic soap, we're into the best, you know, stain removing laundry detergent you're going to buy. But we're going to want you to remember that as the tide brand, now, that means there's a second moment of truth. If they do select you and they pay 50% more than they want to pay for Walmart's brand when they get home, it’d better perform when it's used. And here's where the science starts, folks. There's an amazing <span class="text-highlight">number of fundamental engineering contradictions</span>, right?<br/>
+      Airplanes deal with you know, <span class="text-highlight">weight and strength</span>. I want something that's <span class="text-highlight">light, but strong</span>. That's an engineering contradiction.<br/>
+      Once I deal with our things, you have to be <span class="text-highlight">strong and soft</span>. They have to be strong even when they're wet. Break would not tear, liquids, mixtures, not common things, but they need they can't separate. You don't want to shake before use, before you pour down in your washing machine.</p>`,
+    solution: `The lecturer talked about brands which are essential to our business to allow us to deliver the increased consumer value. He firstly introduced that we are not into the generic business of toilet paper, but the softest product. In addition, he indicated that if they do select you, it would better perform when it is used. Finally, he emphasized that there is an amazing number of fundamental engineering contradictions _(70 words)_`,
+    keywords: [],
+    mainIdeas: [],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-73.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hfTViL7cqO95HqXoO%2FqboYIwNRGypqj7OYGapzg9x1bFr109FabnRMGr2L%2BoJFSNItkYhyYuVPUH%2F%2Bs0kddUWbV8PRcbnajf6oqiIiG072XYcdAaC0oGmpBVu0tjwwHkwjGHMn%2FoKKzLcyxei7CGdjLvOhkJSmdI5P0YXxBTT2DqlRIdL48nJuwAm%2BZ8xO3s4DUqwhuTADcIfuzH%2Fy1Ejt8xapAWGoTpeozlTV1o2fkyagOEo510d7YNk6oUCVb5jai0PUHJmnrVC1QS4IA%2FbtMHRDzoDtfobuXrq2OB1MhNqtCVOYcc5NJwksAe6sJtx2BrJYOJBYIR6Ob0QLEhhA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 74,
+    topic: "Biology Study of Life DNA and RNA",
+    transcript: `Now biology or <span class="text-highlight">the study of biology</span> is responsible for some of the <span class="text-highlight">most profound insights that humans have about the world around them</span>. So take a look at these four panels. On the upper left, you see some bacteria, this happens to be E. coli, you obviously see a butterfly flower, a dolphin, <span class="text-highlight">if you fell down from outer space and just looked at these different forms and structures</span>, <span class="text-highlight">you'd have no idea that they were all related to one another</span>. So <span class="text-highlight">one of the most profound things biology has taught us is all life on earth is exceptionally related and similar to one on one to another</span>. So for example, <span class="text-highlight">all of these life forms rely on DNA and RNA, for storing and transmitting and using their genetic inherited information</span>. They're all based on cells <span class="text-highlight">cells are the fundamental building blocks of all life</span>. All of these organisms consist of cells, and the cells essentially at the same time inside of them carbon, hydrogen, oxygen and nitrogen and a whole bunch of other stuff and much smaller amount. <span class="text-highlight">All of these organisms conduct metabolism</span>, in other words, chemical reactions <span class="text-highlight">that use and convert energy from one form to another</span>. And the basic chemistry is all very similar to one another. The types of molecules that are used are all very similar to one another.`,
+    solution: `The lecturer talked about the study of biology, which is responsible for profound insights about the world. He firstly indicated that all life on earth is exceptionally related and similar to each other. Additionally, life forms rely on DNA and RNA to store, transmit and use their genetic inherited information. He finally concluded that all organisms consist of cells and conduct metabolism that convert energy from one form to another.`,
+    keywords: [],
+    mainIdeas: [
+      `The study of biology is responsible for some of the most **profound insights** about the world.`,
+      `All life on earth is **exceptionally related** and **similar** to one on one to another.`,
+      `Life forms rely on **DNA** and **RNA** for **storing** and **transmitting** and **using** **their genetic inherited information**.`,
+      `All of these organisms consist of **cells** and conduct metabolism that convert energy from **one form to another.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-74.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=I6kcQxug4MkTGrqmvRnEYdRcIFcW%2BwA%2BfPBq6xaWM4VfuWaOMmUshc6SIBEKNMOw730APKbkBxoS48QqRRfjSU1DlLzyudov2d1CGhGI%2FX4Eu7gUoLBIEU1ouERqxpq7q%2FfXGdkHeoSBqAgxZCyc2bq2sADkmWCg3AIpX0kpXPAu%2BOg07cdDtcvaikr5cPdb7VdC%2FLLuKg8X5ouvL4QiqXNwvIL2cHWhaSRdjAZLAfB%2FzS2qrVXB6pGi6jJQTq4J3waeOj%2F88NlWzFmdmn90Y%2BZFOBuqCTlc%2BDK24bvZHn3Qe6CBAdVPblMjQ0RYYbZninVHleg7rUdX1dg3XRmMIg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 75,
+    topic: "Curators’ role",
+    transcript: `So look, I'm going to talk today, really mostly about what I do as a <span class="text-highlight">curator</span> here <span class="text-highlight">at the National Museum</span>. But I want to try and draw some kind of generalities from that in terms of how there's <span class="text-highlight">a series of curatorial practices</span>, if you like <span class="text-highlight">tools and techniques and methods</span> that I think could be of interest to your students and of interest to you in <span class="text-highlight">developing extension history courses</span>. So <span class="text-highlight">curators try to understand material culture</span> is evidence of other people's lives as a means to try to understand other people, <span class="text-highlight">what they look like what they did</span>, <span class="text-highlight">how they made a living</span>, <span class="text-highlight">what they hope for in their lives</span>, <span class="text-highlight">how they tried to construct the world</span>, and <span class="text-highlight">why they made particular choices</span>. And one way in which you're a supermodel historians is therefore in focus in terms of <span class="text-highlight">how we interrogate the past</span>, <span class="text-highlight">what elements we use to communicate in the past</span>. Most <span class="text-highlight">academic historians</span>, I trained very much in discipline of words, and they concentrate on words still today. I think all that's changing a little bit. If you go through university history, I think primarily you are encouraged to draw on things like <span class="text-highlight">archival accounts</span>, <span class="text-highlight">manuscripts</span>. Now <span class="text-highlight">oral history</span>, <span class="text-highlight">historians</span>, oral histories, and <span class="text-highlight">most of that work is actually promulgated in the form of books</span>. There's also other kinds of storeys obviously, <span class="text-highlight">filmmaker photographers concentrate on creating images of the world and arranging them in meaningful sequences</span>, but <span class="text-highlight">curators attend to objects</span>. <span class="text-highlight">We look at objects as evidence of the past, and try to arrange objects in meaningful ways called exhibitions</span>.`,
+    solution: `The lecturer talked about curatorial practices in developing extension history courses. She firstly indicated why curators try to understand material culture evidence and how academic historians interrogate the past. In addition, she argued that historians should concentrate on what elements people use to communicate through archival manuscripts. Finally, she concluded that curators look at objects as evidence of the past and try to arrange them in meaningful ways called exhibitions. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-75.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=KAXV3Ama8RKLFjoGkv3jOXqTxo%2FlaruDCh5BbB5bm85v5NJarP4eJBhHUxz5TUH9%2F1yWpJ2mT%2FpsBf%2Baa%2BTvZTNKN8ZltBj9TMu2h%2FSF1YNTpzte1liUJmnbaPIZzvN3JJ4f%2Fv40cvGJuhLeHnyXodUqab1VhmfFu38k2A23IQ15pnPSpHqDmATFyRsfjGNbY%2FRn2N5Sr1qgwJNQD3nAv3WPOGgkkISzYFU8DcBkITC6yKM%2FxDqYzqEIF%2BM%2Bt6cMbZxCcbFD3yz1tHXCQyGAE4IMbo6SSJG9gcjEifzRm32HFdMQVYEMjuaahUvvC9cirKeFS7u%2FYjMQeV6Rk0%2F9HA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 76,
+    topic: "Web page's history (HTML)",
+    transcript: `Well, the 90s came around. And finally it clicked that normal, <span class="text-highlight">normal people could get online</span> which hadn't really clicked before. And the little trick that finally put it together was Tim burners Lee HTML. So thank thank you to the UK for providing the fellow to finally put the little the missing chicken place. And then what happened in the in the 90s was this <span class="text-highlight">extraordinary outpouring of creativity</span> and <span class="text-highlight">constructive news</span>from millions and millions of people. There were millions of people making <span class="text-highlight">web pages</span>, <span class="text-highlight">creating content online</span>, <span class="text-highlight">creating social experiments</span>, <span class="text-highlight">creating lessons</span>, all sorts of things. And the first decade of the web took place, <span class="text-highlight">without much of a profit motive</span>, without well for seven years of the web, let's say, <span class="text-highlight">without any particular charismatic figures</span> driving it, <span class="text-highlight">without fear</span>, <span class="text-highlight">without a desire for an afterlife</span> or any other religious gambits, <span class="text-highlight">without advertising</span>, without any of the <span class="text-highlight">traditional motivational schemes</span>. It simply happened because people enjoyed it. It was a good idea.`,
+    solution: `The lecturer talked about the history of HTML started in the 90s. He firstly introduced extraordinary outpouring of creativity and constructive news from many people making web pages and creating content online. Additionally, he highlighted the first decade of the web taking place without any particular charismatic figures or traditional motivational schemes. Finally, he concluded that people enjoyed creating websites with social experiments, and this was a good idea.`,
+    keywords: [],
+    mainIdeas: [],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-76.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=gkAzjR4rWtyjrIcmbkeRw%2BESCZ7kaDBRd%2FiXbNMkcz5CRQZtOb1IgwRwbNveRYeBdka0pgdc%2FFVBG25HqW3qoKbqu48Ojo9P9Mt4XfFsvYxBzmLNgbR43gOu8cq8H6KMOaKzauD2rLMRIiLX72wBHiurbM90Q8S3YqBmRSvENHiDEJ5rVkJ%2BvENwJVWzwdTUpRkd3h19jI7%2B0uilqO2%2BjkPFg7LCVerYbi9Ei91dJna4tWh7AjXOmHgfxr7Xu8lLTCyXPE%2BCjGcJoAnbV4aQ0eBIqXxyvld%2FJlwZZsXb7AnsoBzLLCp0mlyJA9Ajcfa%2FetHjJRioQIlLPpttIj5JDQ%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -356,8 +425,7 @@ const SummarizeSpokenText = [
     Washington close to a staggering amount of labour
     to <span class="text-highlight">wash</span>, boil and rent a single load of <span class="text-highlight">clothes</span> to take care gallons of water, which had to be hand carried from my pump or well, hand wringing, rubbing and lifting the clothes could <span class="text-highlight">expose</span> <span class="text-highlight">women</span> to <span class="text-highlight">caustic substances</span> in the setups. The whole <span class="text-highlight">process</span> for <span class="text-highlight">households laundry</span> could take an <span class="text-highlight">entire day</span> or more as back breaking labour, and 1846, a <span class="text-highlight">patented washing machine</span> imitated the <span class="text-highlight">human hand</span> moving cloth over a washboard by using a lever to rub the clothes between two red surfaces. This machine was sold in the US as late as 1927. The <span class="text-highlight">first electric clothes washers</span>, in which a motor rotated the tub were <span class="text-highlight">introduced into America</span> about 1900.`,
     solution: `The lecturer talked about washing machine, which is one of the most important inventions in human history. He firstly highlighted the importance of domestic appliances allowing for increased leisure time and redefining gender roles in society. Additionally, the evolution of the washing machine is a representative example of the domestic life. He finally explained the whole process for laundry could take an entire day and expose women to caustic substances. _(70 words)_`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
       "domestic appliances allowed for increased  **leisure time**, and redefined  **gender roles** in society.",
       "The evolution of **the washing machine** is a representative example of this **changing domestic life**.",
@@ -378,8 +446,7 @@ const SummarizeSpokenText = [
     topic: "Globalization and IT",
     transcript: `Well, I would argue that what they will say was the <span class="text-highlight">most important thing</span> to happen <span class="text-highlight">in the early 21st century</span> was the <span class="text-highlight">merger</span> of <span class="text-highlight">globalisation</span>. And the it <span class="text-highlight">revolution</span>. The two really <span class="text-highlight">fused in a way</span> that more and more it started to <span class="text-highlight">drive more and more globalisation</span>. And <span class="text-highlight">more and more</span> globalisation started to drive more and more it. And what that <span class="text-highlight">fusion</span> did was <span class="text-highlight">take the world</span> from <span class="text-highlight">connected</span> to <span class="text-highlight">hyperconnected</span> and from <span class="text-highlight">interconnected</span> to <span class="text-highlight">interdependent</span>. These are huge differences of degree that our <span class="text-highlight">differences</span> in kind. It happened over the last decade. You are all feeling it in your jobs, in your universities in your schools. But no one's really <span class="text-highlight">explaining</span> it to <span class="text-highlight">people</span>. Everyone's living. This fusion now the <span class="text-highlight">plumbing</span> of the world <span class="text-highlight">fundamentally changed</span> <span class="text-highlight">in the last</span> <span class="text-highlight">10 years</span>.`,
     solution: `The lecturer talked about the merger of globalisation and IT revolution, which was the most important thing in the early twentieth-first century. He firstly explained that more IT started to drive more globalisation, and vice versa. Additionally, that fusion took the world from connected to hyperconnected, and from interconnected to interdependent. Finally, he concluded that this event happened over the last decade, but no one is explaining it to people. _(70 words)_`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
       "the most important thing to happen in **the early first 21 century** was the merger of **globalisation** and **IT**",
       "more IT started to **drive** more and more globalisation and vice versa",
@@ -405,8 +472,7 @@ const SummarizeSpokenText = [
     When we finally got down with something which the individual says he <span class="text-highlight">really wants to do</span>?
     I will say to him, you do that? And <span class="text-highlight">forget</span> the money. Because if you say that <span class="text-highlight">getting the money</span> is the <span class="text-highlight">most important</span>. You will <span class="text-highlight">spend your life</span> <span class="text-highlight">completely</span> <span class="text-highlight">wasting</span> your <span class="text-highlight">time</span>. You'll be <span class="text-highlight">doing things</span> you <span class="text-highlight">don't like doing</span> in order to <span class="text-highlight">go on living</span> that is to go on doing things you don't like doing.`,
     solution: `The lecturer raised many questions about what students would like to do if money were not the object. He introduced a few examples to demonstrate why students need to enjoy spending their life with the career they actually like. He argued that if people think money is the most important part, they may completely waste their time. He finally concluded that students should follow their dream and forget the money. _(70 words)_.`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
       `we're getting out of <span class="text-highlight">college</span> and we have the <span class="text-highlight">faintest idea</span> what we want to do`,
       `what would you like to do if <span class="text-highlight">money were no objec</span>`,
@@ -428,8 +494,7 @@ const SummarizeSpokenText = [
     topic: "Wildlife in Africa",
     transcript: `In my view, it's impossible to talk about <span class="text-highlight">wildlife</span> and not think about it roughly in 9 years. And I guess part of that is my own <span class="text-highlight">angle</span> and part of the research that I do in <span class="text-highlight">Africa</span>, in both East and West Africa, I look at the role of the <span class="text-highlight">human reliance</span> on wildlife as a <span class="text-highlight">source of food</span>, and also as a <span class="text-highlight">source of income.</span> Can we talk about our wildlife <span class="text-highlight">at sea</span> and we talk about <span class="text-highlight">fish</span>, we're talking about what's probably the <span class="text-highlight">single most important</span> <span class="text-highlight">source of protein</span>for <span class="text-highlight">humans</span> <span class="text-highlight">across the globe</span>. So, millions for more than a billion people <span class="text-highlight">rely on fish</span> is their <span class="text-highlight">primary source</span> of <span class="text-highlight">animal protein</span>. And most of these people are living in <span class="text-highlight">poverty</span>. So, the <span class="text-highlight">management</span> of fish resources, wildlife in that sense is of course <span class="text-highlight">incredibly important</span> and livelihoods and health. And also, <span class="text-highlight">wildlife tourism</span> is a multi billion <span class="text-highlight">dollar industry</span> and in many <span class="text-highlight">countries</span>, such as Africa and <span class="text-highlight">South America</span>, and it can be the <span class="text-highlight">number one source of income</span>. It can be the <span class="text-highlight">number one</span> source of <span class="text-highlight">foreign income</span> for <span class="text-highlight">economies</span>.`,
     solution: `The lecturer talked about wildlife in Africa and the role of human reliance on wildlife as a source of food and income. He firstly argued that many people relying on fish as the primary source of protein are living in poverty. In addition, he suggested that management of fish resources is incredibly important. He finally concluded that wildlife tourism can be the number one source of foreign income for economies. _(70 words)_.`,
-    keywords: [
-    ],
+    keywords: [],
     mainIdeas: [
       "wildlife in **Africa**",
       "the role of **human reliance** on wildlife as a source of **food**, and **income**",
