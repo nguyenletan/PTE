@@ -351,11 +351,17 @@ const SummarizeSpokenText = [
     id: 73,
     topic: "Consumer Behaviour (Tide Brand)",
     transcript: `It turns out <span class="text-highlight">consumers are incredibly smart</span>. They can <span class="text-highlight">buy a lifetime of experience with that brand</span>, they can buy with whatever it’s designed to deal with, all of which makes them feel: <span class="text-highlight">performance and price</span>. And they do all that in a few seconds. So <span class="text-highlight">brands are essential to our business to allow us to deliver the increased consumer value associated with our products</span>.<br/> But we're not into the <span class="text-highlight">generic business of toilet paper</span>, we're into probably about the <span class="text-highlight">softest product</span> you're going to want to buy. We're not into a generic soap, we're into the best, you know, stain removing laundry detergent you're going to buy. But we're going to want you to remember that as the tide brand, now, that means there's a second moment of truth. If they do select you and they pay 50% more than they want to pay for Walmart's brand when they get home, it’d better perform when it's used. And here's where the science starts, folks. There's an amazing <span class="text-highlight">number of fundamental engineering contradictions</span>, right?<br/>
-      Airplanes deal with you know, <span class="text-highlight">weight and strength</span>. I want something that's <span class="text-highlight">light, but strong</span>. That's an engineering contradiction.<br/>
-      Once I deal with our things, you have to be <span class="text-highlight">strong and soft</span>. They have to be strong even when they're wet. Break would not tear, liquids, mixtures, not common things, but they need they can't separate. You don't want to shake before use, before you pour down in your washing machine.</p>`,
+    Airplanes deal with you know, <span class="text-highlight">weight and strength</span>. I want something that's <span class="text-highlight">light, but strong</span>. That's an engineering contradiction.<br/>
+    Once I deal with our things, you have to be <span class="text-highlight">strong and soft</span>. They have to be strong even when they're wet. Break would not tear, liquids, mixtures, not common things, but they need they can't separate. You don't want to shake before use, before you pour down in your washing machine.</p>`,
     solution: `The lecturer talked about brands which are essential to our business to allow us to deliver the increased consumer value. He firstly introduced that we are not into the generic business of toilet paper, but the softest product. In addition, he indicated that if they do select you, it would better perform when it is used. Finally, he emphasized that there is an amazing number of fundamental engineering contradictions _(70 words)_`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `It turns out consumers are **incredibly smart**.`,
+      `**Brands** are essential to our business to allow us to deliver the increased **consumer value** associated with our products.`,
+      `They're not into the **generic business** of toilet paper, they're into probably about the **softest product** people are going to want to buy.`,
+      `If they do select you and they pay 50% more than they want to pay for Walmart's brand when they get home, it’d better **performace** when it's used.`,
+      `There's an amazing number of fundamental engineering **contradictions**.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-73.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hfTViL7cqO95HqXoO%2FqboYIwNRGypqj7OYGapzg9x1bFr109FabnRMGr2L%2BoJFSNItkYhyYuVPUH%2F%2Bs0kddUWbV8PRcbnajf6oqiIiG072XYcdAaC0oGmpBVu0tjwwHkwjGHMn%2FoKKzLcyxei7CGdjLvOhkJSmdI5P0YXxBTT2DqlRIdL48nJuwAm%2BZ8xO3s4DUqwhuTADcIfuzH%2Fy1Ejt8xapAWGoTpeozlTV1o2fkyagOEo510d7YNk6oUCVb5jai0PUHJmnrVC1QS4IA%2FbtMHRDzoDtfobuXrq2OB1MhNqtCVOYcc5NJwksAe6sJtx2BrJYOJBYIR6Ob0QLEhhA%3D%3D",
@@ -375,7 +381,7 @@ const SummarizeSpokenText = [
       `The study of biology is responsible for some of the most **profound insights** about the world.`,
       `All life on earth is **exceptionally related** and **similar** to one on one to another.`,
       `Life forms rely on **DNA** and **RNA** for **storing** and **transmitting** and **using** **their genetic inherited information**.`,
-      `All of these organisms consist of **cells** and conduct metabolism that convert energy from **one form to another.`
+      `All of these organisms consist of **cells** and conduct metabolism that convert energy from **one form to another**.`
     ],
     fillInTheBlank: "",
     audio:
@@ -383,7 +389,7 @@ const SummarizeSpokenText = [
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: []
+    newwords: ["profound insight = sự thấu hiểu sâu sắc"]
   },
 
   {
@@ -392,30 +398,40 @@ const SummarizeSpokenText = [
     transcript: `So look, I'm going to talk today, really mostly about what I do as a <span class="text-highlight">curator</span> here <span class="text-highlight">at the National Museum</span>. But I want to try and draw some kind of generalities from that in terms of how there's <span class="text-highlight">a series of curatorial practices</span>, if you like <span class="text-highlight">tools and techniques and methods</span> that I think could be of interest to your students and of interest to you in <span class="text-highlight">developing extension history courses</span>. So <span class="text-highlight">curators try to understand material culture</span> is evidence of other people's lives as a means to try to understand other people, <span class="text-highlight">what they look like what they did</span>, <span class="text-highlight">how they made a living</span>, <span class="text-highlight">what they hope for in their lives</span>, <span class="text-highlight">how they tried to construct the world</span>, and <span class="text-highlight">why they made particular choices</span>. And one way in which you're a supermodel historians is therefore in focus in terms of <span class="text-highlight">how we interrogate the past</span>, <span class="text-highlight">what elements we use to communicate in the past</span>. Most <span class="text-highlight">academic historians</span>, I trained very much in discipline of words, and they concentrate on words still today. I think all that's changing a little bit. If you go through university history, I think primarily you are encouraged to draw on things like <span class="text-highlight">archival accounts</span>, <span class="text-highlight">manuscripts</span>. Now <span class="text-highlight">oral history</span>, <span class="text-highlight">historians</span>, oral histories, and <span class="text-highlight">most of that work is actually promulgated in the form of books</span>. There's also other kinds of storeys obviously, <span class="text-highlight">filmmaker photographers concentrate on creating images of the world and arranging them in meaningful sequences</span>, but <span class="text-highlight">curators attend to objects</span>. <span class="text-highlight">We look at objects as evidence of the past, and try to arrange objects in meaningful ways called exhibitions</span>.`,
     solution: `The lecturer talked about curatorial practices in developing extension history courses. She firstly indicated why curators try to understand material culture evidence and how academic historians interrogate the past. In addition, she argued that historians should concentrate on what elements people use to communicate through archival manuscripts. Finally, she concluded that curators look at objects as evidence of the past and try to arrange them in meaningful ways called exhibitions. _(70 words)_`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `She wants to try and draw some kind of generalities from that in terms of how there’s a series of **curatorial practices**, if people like tools and techniques and methods that she thinks could be of interest to their students and of interest to them in developing **extension history courses**.`,
+      `Curators try to understand **materials culture** of other people’s lives as a means to try to understand other people.`,
+      `One way in which you’re a supermodel historians is therefore in focus in terms of how we interrogate the past, what elements we use to **communicate in** the past.`,
+      `If you go through university history, I think primarily you are encouraged to draw on things like  **archival accounts**, **manuscript**.`,
+      `We look at objects as evidence of the past, and try to arrange objects in meaningful ways called **exhibitions**.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-75.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=KAXV3Ama8RKLFjoGkv3jOXqTxo%2FlaruDCh5BbB5bm85v5NJarP4eJBhHUxz5TUH9%2F1yWpJ2mT%2FpsBf%2Baa%2BTvZTNKN8ZltBj9TMu2h%2FSF1YNTpzte1liUJmnbaPIZzvN3JJ4f%2Fv40cvGJuhLeHnyXodUqab1VhmfFu38k2A23IQ15pnPSpHqDmATFyRsfjGNbY%2FRn2N5Sr1qgwJNQD3nAv3WPOGgkkISzYFU8DcBkITC6yKM%2FxDqYzqEIF%2BM%2Bt6cMbZxCcbFD3yz1tHXCQyGAE4IMbo6SSJG9gcjEifzRm32HFdMQVYEMjuaahUvvC9cirKeFS7u%2FYjMQeV6Rk0%2F9HA%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: []
+    newwords: ["interrogate = đặt nghi vấn", "manuscript = bản viết tay"]
   },
 
   {
     id: 76,
     topic: "Web page's history (HTML)",
-    transcript: `Well, the 90s came around. And finally it clicked that normal, <span class="text-highlight">normal people could get online</span> which hadn't really clicked before. And the little trick that finally put it together was Tim burners Lee HTML. So thank thank you to the UK for providing the fellow to finally put the little the missing chicken place. And then what happened in the in the 90s was this <span class="text-highlight">extraordinary outpouring of creativity</span> and <span class="text-highlight">constructive news</span>from millions and millions of people. There were millions of people making <span class="text-highlight">web pages</span>, <span class="text-highlight">creating content online</span>, <span class="text-highlight">creating social experiments</span>, <span class="text-highlight">creating lessons</span>, all sorts of things. And the first decade of the web took place, <span class="text-highlight">without much of a profit motive</span>, without well for seven years of the web, let's say, <span class="text-highlight">without any particular charismatic figures</span> driving it, <span class="text-highlight">without fear</span>, <span class="text-highlight">without a desire for an afterlife</span> or any other religious gambits, <span class="text-highlight">without advertising</span>, without any of the <span class="text-highlight">traditional motivational schemes</span>. It simply happened because people enjoyed it. It was a good idea.`,
+    transcript: `Well, the 90s came around. And finally it clicked that normal, <span class="text-highlight">normal people could get online</span> which hadn't really clicked before. And the little trick that finally put it together was Tim burners Lee HTML. So thank you to the UK for providing the fellow to finally put the little the missing chicken place. And then what happened in the in the 90s was this <span class="text-highlight">extraordinary outpouring of creativity</span> and <span class="text-highlight">constructive news</span> from millions and millions of people. There were millions of people making <span class="text-highlight">web pages</span>, <span class="text-highlight">creating content online</span>, <span class="text-highlight">creating social experiments</span>, <span class="text-highlight">creating lessons</span>, all sorts of things. And the first decade of the web took place, <span class="text-highlight">without much of a profit motive</span>, without well for seven years of the web, let's say, <span class="text-highlight">without any particular charismatic figures</span> driving it, <span class="text-highlight">without fear</span>, <span class="text-highlight">without a desire for an afterlife</span> or any other religious gambits, <span class="text-highlight">without advertising</span>, without any of the <span class="text-highlight">traditional motivational schemes</span>. It simply happened because people enjoyed it. It was a good idea.`,
     solution: `The lecturer talked about the history of HTML started in the 90s. He firstly introduced extraordinary outpouring of creativity and constructive news from many people making web pages and creating content online. Additionally, he highlighted the first decade of the web taking place without any particular charismatic figures or traditional motivational schemes. Finally, he concluded that people enjoyed creating websites with social experiments, and this was a good idea.`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `What happened in the 90s was this extraordinary **outpouring creativity** and **constructive news** from millions upon millions of people.`,
+      `There were millions of people making web pages, creating **content online**,  **creating social experiments**, **creating lessons**, all sorts of things.`,
+      `The first decade of the web took place without much of a profit motive, without any particular **charismatic figures** driving it, without fear, without a **without a desire** for an afterlife or any other religious gambits, without advertising, without any of the traditional motivational **schemes**.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-76.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=gkAzjR4rWtyjrIcmbkeRw%2BESCZ7kaDBRd%2FiXbNMkcz5CRQZtOb1IgwRwbNveRYeBdka0pgdc%2FFVBG25HqW3qoKbqu48Ojo9P9Mt4XfFsvYxBzmLNgbR43gOu8cq8H6KMOaKzauD2rLMRIiLX72wBHiurbM90Q8S3YqBmRSvENHiDEJ5rVkJ%2BvENwJVWzwdTUpRkd3h19jI7%2B0uilqO2%2BjkPFg7LCVerYbi9Ei91dJna4tWh7AjXOmHgfxr7Xu8lLTCyXPE%2BCjGcJoAnbV4aQ0eBIqXxyvld%2FJlwZZsXb7AnsoBzLLCp0mlyJA9Ajcfa%2FetHjJRioQIlLPpttIj5JDQ%3D%3D",
     level: "medium",
     times: 1,
     priority: "normal",
-    newwords: []
+    newwords: ["outpouring creativity = sự sáng tạo"]
   },
 
   {
@@ -427,7 +443,7 @@ const SummarizeSpokenText = [
     solution: `The lecturer talked about washing machine, which is one of the most important inventions in human history. He firstly highlighted the importance of domestic appliances allowing for increased leisure time and redefining gender roles in society. Additionally, the evolution of the washing machine is a representative example of the domestic life. He finally explained the whole process for laundry could take an entire day and expose women to caustic substances. _(70 words)_`,
     keywords: [],
     mainIdeas: [
-      "domestic appliances allowed for increased  **leisure time**, and redefined  **gender roles** in society.",
+      "Domestic appliances allowed for increased  **leisure time**, and redefined  **gender roles** in society.",
       "The evolution of **the washing machine** is a representative example of this **changing domestic life**.",
       "The whole process for **laundry** took an entire day and could expose women to **caustic substances**.",
       "In 1846, **a patented washing machine** imitated the human hand moving cloth over a **washboard** and used a **lever to rub the clothes** between two red  **surfaces**"
@@ -448,9 +464,9 @@ const SummarizeSpokenText = [
     solution: `The lecturer talked about the merger of globalisation and IT revolution, which was the most important thing in the early twentieth-first century. He firstly explained that more IT started to drive more globalisation, and vice versa. Additionally, that fusion took the world from connected to hyperconnected, and from interconnected to interdependent. Finally, he concluded that this event happened over the last decade, but no one is explaining it to people. _(70 words)_`,
     keywords: [],
     mainIdeas: [
-      "the most important thing to happen in **the early first 21 century** was the merger of **globalisation** and **IT**",
-      "more IT started to **drive** more and more globalisation and vice versa",
-      "that **fusion** takes the world from connected to **hyperconnected** and from interconnected to **ineterdependent**",
+      "The most important thing to happen in **the early first 21 century** was the merger of **globalisation** and **IT**",
+      "More IT started to **drive** more and more globalisation and vice versa",
+      "That **fusion** takes the world from connected to **hyperconnected** and from interconnected to **ineterdependent**",
       "It happened over the last decade, but no one's really **explaining** it to people"
     ],
     fillInTheBlank: "",
