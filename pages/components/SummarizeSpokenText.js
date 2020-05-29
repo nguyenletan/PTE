@@ -37,7 +37,7 @@ const Topic = styled("h2")`
 
 const H3 = styled("h3")`
   margin: 0;
-  margin-top: 0.25rem;
+  margin-top: 0.35rem;
   font-size: 22px;
 `;
 
@@ -144,7 +144,6 @@ const SummarizeSpokenText = ({
       <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
-        {NewWords}
       </MoreInformation>
       <Audio controls preload="none">
         <source src={audio} type="audio/mpeg" />
@@ -162,7 +161,7 @@ const SummarizeSpokenText = ({
       <Button
         mt={2}
         ml={0}
-        mb={3}
+        mb={4}
         mr={2}
         pt={2}
         pb={2}
@@ -186,6 +185,7 @@ const SummarizeSpokenText = ({
       </Button>
       {showTranscript && (
         <>
+          {NewWords}
           <TranscriptBlock />
           <MainIdeasBlock />
           <SolutionBlock />
