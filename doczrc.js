@@ -4,14 +4,15 @@ export default {
   htmlContext: {
     favicon: '/public/favicon.png',
   },
-  editBranch: "development",
+  editBranch: "master",
   repository: "https://github.com/nguyenletan/PTE",
   menu: [
     "Pearson Tests of English",
     "Write From Dictation",
     "Repeat Sentence",
-    "Describe Image",
     "Summarize Spoken Text",
+    "Listen Fill In The Blanks",
+    "Describe Image",
     "Retell Lecture",
     {
       name: "Collocations",
@@ -114,5 +115,5 @@ export default {
     fontSizes: [13, 14, 15, 20, 22, 30, 35, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
-  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md', '74-biology-study-of-life.mdx']
+  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
 };
