@@ -20,8 +20,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.input {
-  font-size: 19px;
+.input, input.blank {
+  font-size: 20px;
   font-weight: 700;
   font-family: "IBM Plex Sans", sans-serif;
   font-style: italic;
@@ -30,6 +30,7 @@ body {
   border: none;
   border-bottom: 1px solid black;
   text-align: center;
+  width: 10rem;
 }
 
 button {
@@ -66,4 +67,8 @@ textarea {
   background-color: rgba(71, 193, 191, 0.3);
   padding: 0rem 0.6rem 0.2rem 0.6rem;
   border-radius: 4px;
+}
+
+.hidden {
+  display: none;
 }
