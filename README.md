@@ -8,3 +8,4 @@
 
 ## Screen shot:
 
+![](https://github.com/nguyenletan/PTE/blob/development/public/screen-shot.png)
