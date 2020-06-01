@@ -377,6 +377,159 @@ const WriteFromDictationDataFrom401To500 = [
     priority: "normal",
     newwords: []
   },
+  {
+    id: 437,
+    transcript: "Despite protests, the chemistry department was closed down.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2F1cp61xcyjwjj8ronto67p-WFD.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=ZOvOqeSGAaCnJdELN9%2BwpocqwUGuXz%2F5HM8KuGF2kAs0U2qBl8ZPLtNB0ZUm3rOQZzyFHvKzRlbKPGByme%2BnMAMRr5rICbSfxOKQudMtGbm%2BZwdY%2BV4g6o2YLLtwUhWScKJBt9EK9c3BufznrZNF7HG8WhZMaCY%2BxtD973EAHxDVNZYc0lftv4Dr5Ds01Npt9IYaE5DIZY3vts9bq%2FvqXfw1EG8sWxtXSueL3wY%2BlnTN3fcWVbD4Hoo3LKA%2B5Ly2RjrjXC6Tcj9jF4X6Dg5zcCHRhNiHP%2Bs%2BT1Q7xrlJJnnuF7%2F2apzVzx44FXfj32K0qgvBKT8HFSGiCRToT7cW%2BQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["protest = phản đối"],
+    audioType: "x-m4a"
+  },
+  {
+    id: 438,
+    transcript: "Human beings compete with other living things for resources and space.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fvdsjm1fwo68895ft9ymqp-WFD1.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=BIGd20ZWlHfRSidzFTPGgXPLYd9%2Bot5awAapsjUSP6Ws%2BCiIn4CoHN%2BaftJwk75X2ozSd3MWa1CC4SzA2r3roDchvMF1D%2BQs3bH5WYrA2gdMGOWxFmST4ENaH3x7ovi5s4%2Bt4G69XcSZeSAyz2LAGcSZ8jvPTS7xkvU7uhHeIN1oTLJUHdNSjCvuJdMvL7gn%2F5Dw5fLyMT7qKDRdKM%2BlXOeN9GBTwVEJXgAqqvaJxwjUmI7qPnirt4wOIdqRydQhPZYRi2NE1W3kLGHdkSIHXTbEbIFaQQiWepYZPIHn0hKD%2FxTJ0D%2Fcz0YLnfiaQ0OVjYlGqYwrxJseo%2FPgj1jpXQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "x-m4a"
+  },{
+    id: 439,
+    transcript: "These regions were both areas of advanced economic development.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2F6hecz651mbgjr38l278y1-WFD439.m4a?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=dFcooTpP49ZV3cPlzvMcKc30kRWYQLGIwAFIpEqhdMDd4Q3x0Mz2k1KNVpKkpV1oRvLtBtwL4yZdUrD3UoWza5op%2FzbNZlvFV9sotFup1sg%2B%2FaKH3aFa10WQPJOzBPC5iB8ROcLHFwGqMUoNNFycLDKF%2B9XsnpYNosSrAPOTSzkjH7gDvVFEw57HKUjPKPY6Hl3B5fTxyakYJ64uykXboK0Rc4zkqeMG%2Fz%2FjFBPb%2F6lzv%2BZXCwRLNEEYvsp4prNGW9OpvoHPo0wX9Zr07iBOIxHI9TB3rPXLN0tDSOQ30GTUTFhg4WiO8TQVmAc7z1WQfKjsSXexb%2BlJoe82Oumw2w%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "x-m4a"
+  },
+  {
+    id: 440,
+    transcript: "Rising inflation means an increase in goods prices and a decrease in demand for consumer products",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F17854470-09a0-44c2-8dfa-708a1ba4685e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=gOcHybe8LrubpPZDH9wuxRDYUF20mUwin9ZM3oQv%2B8%2BQjkEZ5HY96JFwK5t3mZhkVpBOFSa0LlyvAqOzPN52wJqXh45u7%2FnuYToY%2FcgJuSbkqbifumkCn5PaOUG%2Fx%2FJh%2B63v2VTzpvNRWAAw9ddP0uGIcb%2FBLxe%2Ft4s4Sji%2BH%2Bnod%2Bix2TAEU84%2F64d4uN%2FJB%2F6Tw9W%2BncJqPgCzr79K2uQxaKBlst1pMX8EX6XgYMMJpjbjCOIdphY7oz9twdEbnGHMJRYwN%2B1%2B7nn1lM7VrM75DdP6isEQT%2FWCDNlzVyqfMiHhlMylDOZFyVuyvkpr%2FbbD7U%2BwJ3egm%2BCPHLBYPA%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 441,
+    transcript: "All industries can be thought of as a system of input, process, output and feedback.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F14f330e6-5699-4036-bc76-c9e62f01adba.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=KuhZA44ORXrmbLf56yTcC8WVaUVSidRKcjIzN5o8Xt%2BuzEUwo%2F8vzB03UwC57DglFZZmRTGDzIckVfou6KVyg6fwg9aN1yb%2FyM79jVBOLAnbWSxViepvYRbPzmc%2BifZdcimJ98MQK2ib3rhG35sSx8M63sSUTYR0p7tVFRm96J%2F6snms3A60BlNeb%2F6%2BLOYbj%2FjkEQesOrpVmG0FMCyyjPRUNkwgoq1PDrhVPY3yvojDAFdNL19hkkqdVAvttQFt56Kp729uiXttGMMaBu30zXT9sD55Nw%2FEyY%2FVlVKHSThlFCtY8aVYTdcNtvM00mETejgqHJvkdTVrf4VvR3r5oQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 442,
+    transcript: "Medical researchers have focused on different causes of diseases and treatments.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F677a73f0-7025-4166-a9b7-fe276744ac12.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=IxbN%2B73UNJBBy5qdF%2BDfCsi4y3O8LhjYlwleUyaItAXJJYco2F9zfvfbYvYQa%2BSDRrZngDJs0B7TKnePUVworm6o2zGsn1Qd%2FmMKQ0%2BJpjYL8fywp3tgYHsl1skbBZCKjCwDEvchwe98Be1UqR9xvvYoZ2TD5gjaQuwqJLNf9zEIcaAp%2F%2FnTJcEMVRCle0bEnQUDxHitZVzR4kQMu84KPw9MgjJ6vUn6l12VR3tXKaofer%2Ft1YDqtWGGNe6fJq9cFsQAjpzbtGhyQywZYnZfT3fSCMNKo1GoZiNXjVMCR970CxSxkpO5htigw3%2B6t6xQb9z0DwD5y4rxfcG8lLSm2g%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 443,
+    transcript: "In some countries, people live in homes made from shipping containers.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F7484f2de-5e42-4eab-ba85-5e74706b7333.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=RD3RbmR9pNsC5Y7bfpT1Lr9imWb736IUnRylPc61ccuey0A8B7raZ5beVmBr79Ak%2BMzu51OAFlz2LK%2BfdFwYGT1CpYNjbs2rT%2F2tl3A6knByL2xoMAqNjuyyZYkaZVBEXI8laNsemySkOudynTb5ca5%2FQZrgtUV69b0tLFqdYM9TOsRXBWA60svPaqQA64Xl8hQ9naxlNB7tTFpvlhLvxxjOCu0NjC2WW0CHsTSK2cXVyyiNrEk4IkPOczHIgpOtWVpUOOryp2s8wprm5dUV3O47AjU9yqDC0Xdxo5sewJK9UqnKK6UIIvgquOemkyti8mPgUFl61YdOU%2FVJYejhVQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 444,
+    transcript: "Remember, the prestigious selection has strict eligibility criteria.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F44159c58-13a5-4db0-ae4a-7b7327a29227.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=TjuYYHqjAfT6SPph6Vu0Wv%2Bc67lJvxXlioSGzmP5jd3O5QHjwW%2F8dmqD4G170oLRtbT39TK2jI4NSEWEs3hd996fnrxdJETrvh3iFIqsVCmAyem7vsJvXey%2Bs3v%2FgdId7L9mQtL%2FuYLY0BXhYi%2BG674TuUhxmSNPWHGm5rRISgO1GbYBgI3tPaQuN%2FD0xLyj%2FdX1fijocb6Sy0Lw3WAw9nWQtAjzTk0LlfkHQB%2BAcUX206grPFhaaXH5Kg0Bhl3bw5j6m1Mg40c9YTevXlcuKoY57t4wLo4aP20OS0wiRdeV4xoT3npcguyVOgnAUCH5%2BJhG9LMY0f8jv7f0wWCi2w%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ['eligibility = tư cách ứng cử', 'prestigious = có uy tín'],
+    audioType: "mpeg"
+  },
+  {
+    id: 445,
+    transcript: "Food that contains antibiotics provides few or no nutrition values.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F24d80ee8-7743-474b-85e2-cde6af038c41.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=XfZ0nqmPvf5R%2BFTFiQpwxG7OJwHt0l8qlFXQMhvON9tJ7PeLzZOZyXEgVHqs859buxXtNJzMiX7F5U665IUkB7c6RQ20wW3M%2FrkoakE4Do7lGsCaFu7cslCysI0xqbS3vUakzArEATboBEmKPorfFSkb3xpAhI2RxbS9iz3AmmyrmCRAr5AW8KvTlydG54X%2BDZkoWt4aONoRw3I7Z97sZ7XPnUYdh4d5%2FvmZSzgsU8RG4acCl05TiBVS62qtSLXEzGgjl4UCf0Egx2NyKS5nk8xLvkTrdP87bdijAIVEtsAOgI61gDIOxpVibR2WUTHmfDHNTxxbKHfd%2B0KNFK%2B5Wg%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 446,
+    transcript: "Coastal communities are vulnerable to rising sea levels.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3799d150-74d1-4c8e-8c20-7c9173fc977b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=e3nSMYtPObfxLnPkBWyy7c0EJGvNTlaCfXT34gqBQiJJfm%2Ft0VLvMtKSlCSLb8W51DvY9bXQAH3FOiFItTIhr7ti9kjgQAf8Krq%2Byo8YFc%2Bo4FocKufYVl8hXZbPdOuA2DEYRXojyC4oOY2z8RxOGeQhbuJZDv5kh5ttKbNkD2n5D%2FApHmTPILisk6ovnRdQsB6teKxHBWgPizbNV%2FUqUZ0%2FXaoTesFooOFLoDus2Yk%2BgawH571oR7Imk2So3%2FETfXlffJ2IXxe00hUlIIBxb%2BKl%2FYymCytYCU8Sij8as0sS9SB%2FVJ%2FXo3aVrDfekC18InCTcm6N2hVFlceFGckucQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ['rising sea level = mực nước biển tăng'],
+    audioType: "mpeg"
+  },
+  {
+    id: 447,
+    transcript: "When the court pronounces the sentence, the judge will see if she is regretting.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F2fe47cc0-cf1b-45cb-a7b0-7fa768bb7561.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=A0T1xk7HhOgNuMeIrLo1x3crXJKwodUgR94BYeT%2BWvXu%2BPXsWgGxGm9KabwWiACmpPSCC%2BAxHQy77RUcYyaQwlc5SECbNQMABMTlhBb8WoHoy2u9ImCP%2BsTipPpqgct4rFE%2FbuPcPg4Ro4Isms0YlT4uE%2FBEnVfiy95RYj43wZ3Qq%2BkReuFnRfy8iV207ysXIM0CxjkQsO0Dg0oSlhY0syh%2BDlBpPCwTBbvTIv2P6k0j8fMTDDp5yuUFCb3bxGmczXyDN%2FF7k7F3JzE3QtfAIrmGwI7gnf%2BzuzYYtFbNJUfN3JJIgBY8LhDU6U4raMKiwT0ooZToVscj%2F4uHux%2F4NQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ['the court pronounced the sentence = tòa tuyên án', "judge = thẩm phán"],
+    audioType: "mpeg"
+  },
+  {
+    id: 448,
+    transcript: "People will never learn that if life exists on other planets.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb2a77aa7-57f2-456e-8a34-fbb7aaa4ca95.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LNmRquLxgQjT7E8QjY3sMcFkAjd%2FA0kMR8lh0uyoFurLlL2RCOeNP05vLDq72hG9ZLx0%2BhCowip%2BvHIfL3CksLPTOWKJxXvgzVwCh3q889Qe0u8dYYH8wmRfvM6epmIVHgzxKjNao%2Bpxku2CEX6eyXUzigbi3422D2OUevC5fzIaoXAOdjygL7OLl6cK%2FbHDZ9XalWSyJDahPJ2J2IopSyip1%2Fl%2BwdbbNotcyTyZiMgBppoDq1PSFoR%2FB1%2BJmz1wXUSjQefShGEsq6gxv%2Fm8P1EoqOFTZZC1%2FUL3TXqtak9lZ65fotSu1DLfd%2FzJbns5ApLtNacRJaOGb67TnQD6mQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 449,
+    transcript: "Years of training are required to become a medical specialist.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fced4338b-cca6-466e-a344-f9b6093edccc.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=gml4NpxCDeJkbVU%2F8fQCCvGvz0eRFsgNG0SN5XcY%2Bp3BJXkRjbneMB%2F6Uv6vw5y9iuJy7hzsK4a1ueh3QaLpoDvDsIoZ2Og3MS8nQg%2FmhVacrxJn4oY547gui3hwQSjhPAW98zUHOxyFIBJptiDCvnVV31%2BE6GpWFKva7RDO75dwuxRoPYyKszBj%2FieojzLb5m5RxeeU22X%2BPQ2FSmGDysXF7kewDHZnil5wWyJBhg2f1LL0%2F4fIpSoyOqp%2BmlTnJ6QvkW3LdHxNEBXyqlMG7AqFAUuy9H5C9gapXypoDLYc9qQlc6CvRqXyk1nzaTUqR%2FgAbGprQL7f3FJ1bGB%2FUw%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 450,
+    transcript: "The prevailing wind ensures the temperature extremes unwell.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F838a1272-4870-4f89-aaac-c5384943b238.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=WLCkx6UYBRZBVL3JMKIBT2Ua%2FPFGMa%2BdshanXRqrFBEvUi8Uaq3xsZSPD7%2BCq%2F9VKJR8oNJhGfGaJXADbVQuCxKK7cAyNAB3Oz9POY%2F3PZAUX%2FxmVZqstuWClov0rlNyaZ9aiVMJm3iCdVC2eSQp4X3v7ZHN17Yg%2BMbJEtdeZJbdRq0lYcIwVYggh1cmnPhL%2Bn3Op4zfVgbGx1j9Nq19f%2BfCmz8sFce6qBiwoA3jqk%2FU4GABJvObG1okj%2FeujXJPt7QTmgtn6wx4FI6rMAenxBTf2FJV3BHr0%2Fl4lSMvFWzBL4xFGo1lI1aENcK1cksQ5cs5axs%2FNKDNX95dJn3kLQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["prevailing = thịnh hành"],
+    audioType: "mpeg"
+  },
 ];
 
 export default WriteFromDictationDataFrom401To500;
