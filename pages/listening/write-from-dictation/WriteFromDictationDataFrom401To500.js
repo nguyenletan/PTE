@@ -530,6 +530,215 @@ const WriteFromDictationDataFrom401To500 = [
     newwords: ["prevailing = thịnh hành"],
     audioType: "mpeg"
   },
+  {
+    id: 451,
+    transcript: "Those who are considering a career of marketing should attend the talk.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F13c20d04-7748-491e-836e-ab643da7e8cb.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=TwnAWj2X5yNbFMp6O7IvxWCMbxhwgC4XLOD8SygrzNOhz0hRYuBKMfuj55GB4fqoMpVAeNauKkuityvTsrTaRQtkxh9C4gmsDHcgyoxHuZrStxHLIPCLYlbAeZQyY98MFPi99K8o2ZEWJ12uGshCSRyF2%2FLPHohPVJG1NYeDAThuYCPOKd8rt6MH4W2Cc54spnh2bnCX19FshyfVeFVoTYhiWPHpvUJZmSahJIiBzAmwtb3laxtpRZyGFKqgRUMalEoYifFoWRCXfku8OTUT7tRA1EqUhQn8qdZ3CdzgJDJK8RYNKmkJ1rufj9afAozHOsXRlnKaj%2BIUF%2F7yud7D1g%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 452,
+    transcript: "The reading list will be available before the course begins.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fec61c33a-b1bc-4331-827b-4456cdee5829.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=UC26utObQC5n5k2tRit4GpJI5FJ3E7uofVGUPyUFXH0dh07goVHUJQywNBIKikW6jbLJhAVnIR5VnD0Zuvh69IbJImZeVjhVY8p%2BimLahtauSGcCBQGLYN2pft9o5UAiQS5RFV7oTjJGDuBjCKkZM6BuzSbq7yjBXx6SqMbuueVBbolk5%2FoikQ%2BBe5xJsyrsFvi3i4CfNl9N8V%2FWfxpgL4am7AHulkCD4V2lp%2BAw4lBl%2FiwhZTP8slC7Kmil67ITcFHJI0ETV9dnI8fg65F%2FNtgdM%2F3wEB%2FTHhNgvMKpWDTwhuvw8FdLma4et3X6CBdUy%2B42lIqsdOm5omesKcRVZQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 453,
+    transcript: "The post office will be closed on Mondays and Friday afternoons.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F2c582e34-796f-4e9a-b123-d6bbbc17d934.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Xpi8FW7TR%2Fiy7FFpIFhRlQkxqAYGSr4Et8l216xJIQLU5JQmueLUawQq5CCZbwBYBnC7N2beJT3ceR6JPJ6tjXE9lNU8XEqYNQbqddFc4FZ1dzZ3Dxskq5dD%2BxYEJlau0JmidAm%2FTRIqOvdsCRbnX4K%2FgP9A3xj%2B0U4ftKvVV7LfqPucyMcFMMgvTmtklpdtOcHWpf1oG%2F6a4Mcln%2FIdRJ6s8f71L4zSSDpG5NX7hjOQqGKvjfjFvklQ89biEnS01atn1YMpGkya4%2BrSVJjDVhHNe6g0%2FHRwuDLbIQe3CVEIvWA7zLlVCy0%2BCSCwuToMarWoCOYPTsyMzz9wB5AJyA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 454,
+    transcript: "Making a mistake is fine, as long as you learn from it.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ffa2175b0-3492-43a4-b816-7fbd9bfe091b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=GVF9pIPGgToNgEL6F%2F67ShnglYjCWZyKyL6blj1cs%2BGLp19LOx7ad9sNwBkI9HpNBL%2BWel9y12AGTYnrqad7NtiblrPs7KOfPhtCPdijjctIFLsOgHhVUhLPbjtAwbA%2FnelVeREEZIEP6awHmipxCmQqhyghoKnb2Mg9pIzYIrJQbmCzFtypRL6pUM5ld1MKLbNVUZPyRGHPAdNKpCUTBhS6%2F6yNzJlDgsQ4cy%2FNX%2FTVb82V6hL%2B33peMdrWTbE8EPQtMt%2Bf3EM7r48bNpWRGL2a%2FU3ugOAeUhahdXYdjnsA7sIgx2rWKq%2BO4Z7StreF46FqB%2Fd5e8TQks%2BMaMpBVw%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 455,
+    transcript: "All new medical students must attend the talk about optional courses.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fu6070rhpxxjg3m6x5omwy4-All%20new%20medical%20students%20must%20attend%20the%20talk%20abou.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=BBHVAB72rtKR7SFHmHR%2FakLBHXzACwpjEFfhiCVkZcQDQamVaM48OF8Z6CK8OOpO4OqjmguyCe2K7gZ2I83JyZWy3s1ann3yth4Etp2BXqJPwC0gOzLr8kMLrWTUX0giQn3kxhXQpfrnzlAX1M0bJ7snpaNbxqPR%2FCvJ8z0R1eX%2FiumfnW8S3yXs72grMDKFhYkZOaj9VRvCdhC9NMm0npSfwZgKTsaEcDR71%2F8CzxpsfTz8YtbrN%2FLyS9VW4S8gfioBRJ7bC4IAe2XfwijEtbYf4uLrebYMgIcSotsK%2BqeP6czEVRzZ1XEU0Q1UN6HepqG57m9wElnqp6xTiksOIA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 456,
+    transcript: "Parents today are involved in the education of their children.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8ab92e7a-dfc5-4858-a38d-07b24058e66b.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QkICA%2BMOQSavrbzd8HZGIOa7Ot4nFDMAHgkAtZleXhQDXAji2Q3rp4XzrMsOkfFE6hr%2FmDfdBez70Cy4usSglpHhsjQcMP6D1lkcbdOOQO4mJc7rzClKKVkK11W3eFf3V1jbC4suoc0%2Fzval4ufeRODD7st9PPP0Zj5r29suDYINIC96mclFHkyW4JtzUoFaJeFkINMH%2FTtfp1SrT9KI%2FHQSpQOMkNi34%2BZeTj6%2BWbOZLtzIX9%2F5QzHvezrfZsdmff48zF8b%2F7FGEOOZ00WoWsZ0jZS6qFQ5j4Gqsj7UhFahTGi7nN6NAo4YI531Ci4v9HGENNs8F36nYq6Q5DeCZw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 457,
+    transcript: "Fruits containing too much sugar and calories have little or no nutritional value.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F3f401a77-eab2-4dab-9e09-a19bb72e754e.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=jYEwbzrSePBd8vpzuaiuymgPaywdXR7Msl3wT%2BD36HfKeiiap7MYGl2n1FA0OJylVuW0AvOrxGZMduKf39gqAL%2B1TGL5lQMJ7egJ0DwufRvxNJh9HeUEh5xN98UJkcAQMmHk%2BphA1vPXAEtn2KOrlO8ufXSeNhwSQrJoW9uuHw6kXoyyMtjwtCuZas1HAoUbX7LQFZPgoF2qIIOSx9WN4p%2FwpyFl%2BsU1Npn5EEsTM8RRulBBjRvWV7O3szvzTMP9Nu%2FwQz2SqOtmww7o%2Fbj9PQ8JPUDAEz5nD0LHyufP6cz7fO8bSOZlSv2cr69dAjAt4KjKvi2ExgRhCtiXfJdk4A%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 458,
+    transcript: "Mechanical engineering has become predominant since the industrial revolution.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Ff13bb85e-6cee-4bdb-afff-cd2b395aadc4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=cn7Yig6bV%2B1pqz4PQLdtKYL1CgxdkYNNyX7LS6VQzrGV8t09WxBcKeDw6RqaOjiQut6s9uPhBIR18wkJIF6rkL1cNn%2FXSycio5Zp7SzUJ3fe68p%2Fuqf5nNVAxV0GirYWb1iZSJ%2FtWiX7%2Bx462y0%2BQjKJ8eH9i5E6IVUHBkNVqZ74NINVG5gK5Kc%2FSdxuXcgrGdnPj9G%2Bw7%2BTp4%2FhnnerqE%2FQxDIYZxY13e9ss%2FOyU6GL82GT%2B2hsgfPmlkVe6dlMAQOFA5H3Dy9veIco%2BH3eipXqQFGCmocqXV3RtKnMlYcD1WC0ZtSPufN%2BWOJHk7QlC%2FHWZXbg83GzpKJblD880w%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["predominant = chiếm ưu thế"],
+    audioType: "mpeg"
+  },
+  {
+    id: 459,
+    transcript: "Social policy describes the ways societies meet human needs.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa09d87d9-f216-4075-9734-eec8711592d8.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=LSNkQbbfvU9HiO%2FN6r1StNQkLdzbsbh9sl2WKkf312FAEhvl4hXa8VPWR4%2FWr%2Bg%2BetlOyQLOMApPWSalmT%2F28KFRUIp73swgS76KPYIiokkIqIFtLa%2Blk7w3w8o6zBasmG5U2TI%2FIrUH9P37xbnrW4LrRgl5JqF2u8QL1UmWOW46AaI2t42p9mSxmErsmhmbv68WPn%2FDEfbxWVayrFchM785RTTnMK4p8%2FZ7jTyrblcdeJ8gRVtkOB2WLQ8%2F0FkGc9OyCL5fNSX%2FDUG5xrW0%2BBi%2Bh6ZcD01JuVtYc6%2BbNsHrY%2BZ0SQ5AsYtT0rMu1NyHf4IeKO8nPIO0Bi4WezeCZA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 460,
+    transcript: "The toughest part of postgraduate education is funding.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F24a79de6-6b6c-42a0-bf86-c53b40b0bd0d.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=XKG8hfgo5w7WClP3V%2B2DAoT1qD2F4XvcS4Dijwb%2F0Ax%2Fs8v0e1iIGBnSiuRgRs%2F%2BUaRZDlV04JaAVMS8hNk4bJmA2qJKRCAcsx3N3SKumVxFgjdUke4UGNaxQHWk7fRH76tlqLGcaWNerkdZop92KTehBRHXJz5aqahY6gDtFMHzVReBds3cmEQ9XD6tNQ3kItI47GB6gvbQRnZVqZE8B0VKeUYb7EX8n%2FyJquewMnZaIhkGxuaPyOPZs5rIq5TGJZNvFJFcxdwjQN4GuY%2B54AW0sfP%2FTLPckdTruQ63ll6yJ8Q%2By3hGZPxzDZTEaFhBvUZCap7gPA4e9xpwQ%2F7HuQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 461,
+    transcript: "The poster of this play is hung in the large lecture theater.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fd69c5007-e1a9-4f80-81c7-ccea09aeb73a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=g83CjV7sAJwTR9QD%2BNcsTL9oZf1L8lzaohrCSSoSnZR0dtqgaM3EmGXY%2B9eAqTaSo9j0AubFBEJ9wq4vtS9%2BnjMTt%2FLAhvZtGjyD4RTJgB2dQ69T9M7kLNmLkLKN7y8OaxxyR%2B1vJcaXcVAy7TnttskjurE5XkAGSJESCmYPKCQoT4ql4V%2F93VtCXe4UJe7n2zqXB2fdBHCaX%2BttZnnOM%2Fwa79Gi82M4XuMuDvtIUD6qP5xRzqyWMGrZoM4ImIL05%2B29ZGee6%2BDwC2%2FxyT23PodqRJevTEn5UjymJ%2FnJzrBxUyl43K39DgD0YmLCLUI3mUoOH2cTBn5jloZ%2BMsnRiQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["hung = treo"],
+    audioType: "mpeg"
+  },
+  {
+    id: 462,
+    transcript: "If you need a parking ticket, see me after the lecture.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F6ea5c48d-c86b-4728-bf2b-f7e9964cce09.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=YxBLdib6q00HIBsyaoCDLNImbOBO7W4T9KUQcUcgpmnZgWhrcVjMaiTdjtHZHGP7gem%2BQm4hWet68Nwz%2FbqLF3Fyur70%2BseeKHYkOpyCQUuE3QiTJA5%2BR9FRqqXea382UZlS8So8Ip%2FgT6pjya3shI1n8x7zTGwgnQMabh0iBTuGZXNSQM0a1J9UjU6sGFWb4ewvSRqvYJLlm75zJsoqojViHxYOnfcfTu2mmlSTOhy6b9%2B8Ij2UNahBRHk34UtFJU3LWrsptLm2ngdBsuRwLV2NqSlo84KeXuEAcbK44PYZOae1uWqqLFoQBy0u26QwE%2F3oY99nVURrcp2U5%2FFl1A%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 463,
+    transcript: "Artificial intelligence has made significant progress for the last few years.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F03989069-dc41-44b0-b17e-a6e3862d8fb7.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=XPFZHv6ADISmlwnaO%2FbVp5ZOncDI5SG8YhX%2FQ1Hc5KFiSYJ0b07yBbZRQvGNLVGsO%2FIZL0RSZ1kZsLSocX9XKRLrxjQPEcjyk%2F0k87fMTCFg9SJ4dj08%2F%2F92lQSDUhAvBXcc0XRaepwolwmClJanx5dynQ0ebooekHeh7SBVwXWFCndnx1e1Qh0%2BqbqsYdCtdeIKmze4u8gRY%2B9A5DU%2FZ%2FHBQyd8NBbdF%2Fc02%2BUG%2FzRrS3sUzhpeWqU4bWwoQTi%2FAfvbQxFw9Sp9Rj%2Bf0YBtpMWDrwej7V9lRYmiOpX4OuRFyKsOOnhdpO23WH8%2FsJyWpmDhIDi7dKs3ck5%2BuoYjbw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 464,
+    transcript: "Businesses must obey contemporary general regulations.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F7293ed22-18e3-4d35-9ccf-7a69131f5811.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=QpYSwOvqCvdgT%2B3MXzB2jKR3V96W5acmnvFfKEcatv9vQ5BOv0tSIFh8No16YsoN8qI7vSZM8wT6IwQMHemCgA04RelFxsAvkL%2B%2FVY5UcOIPsOr9MdbqepdKzr2gax6QLKb8pfKEIN%2BQUqFI72TpPpllNgGW%2BOfLk%2Fi9z4txdhJ%2FEk8drHujq%2B0MnFrtQndQrCVQblGf6hREt0o9cqIMnSvEBEK2o0cJzOxrCaPfYKYwsFw7EWDkGj62XfeH%2FqzlSdYVNMlRXvBauFzIQCXxwkkN8NAoG7M7hvlvZS99AgpJu5IjsSClolPix1Bt3CpqRgapoM18UAczuKnhnDkgjQ%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: ["obey = vâng lời", "contemporary = chung"],
+    audioType: "mpeg"
+  },
+  {
+    id: 465,
+    transcript: "The world is now getting warmer at a fast rate.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F8f2096ca-0d76-4965-8c79-f394460f2c8c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=CgXMuThSwHWaCxvv9m%2F81vDiP%2Bm9fcVw6%2BpKq6UAL75wlpjSTSWsawX%2F5yIpoDuENrJHiObi2vBovUzKHobS5vAYf5X9x0nz8pwQ9IsfHtqg1VMytExBBvFgQVs7eX6%2BRMRCkBifMdOHSa5Nx90uUv54Y7nLTI4CKbNmCqluG4OT8NVzceGtjQQiZP9r7sUO1ROfZKSfHjnZEBKLxMSPN3bjlTqcb0Kejti2X8ys4y7ANUkcKlg1pOVInVE3hPSEJZA5VgrzJB0OAaZGm%2B7e%2FlZEeIMhBEQNTsxPtcTNtxFbmHP8sOz1PcqRjVi7iVwDEWjMdVwbSbPYtnO0Qh%2FwwA%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 466,
+    transcript: "The history department is very active in research.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F54dac808-9e12-4bfb-a18e-79a3226535e4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=bkjyQFq7%2BIMldV2xq4vVEskv4kLMckzMbVp4OBsUL%2Fx0chb%2FrzxWGVCjOk9X20tTu4xg3N6C0SlDg5YK4TGAix7LLyBlCkAMaJYEJruDg3DzJFyIrVSQKUAFjeSrnvMuwzNG%2FLxgjRhAgUkfbdhDx9Ew%2Ffl8lsDeTcUpT7HUl%2BLeFpmqi8oCnZbcyEhHnUMm4%2FbHWCnzIJlLoERA1KKwztkYp%2BL93XJkeCMGbbtW5Wi%2FXgc0DGEPCWuGBvIndhdevbOTplBeONJnk%2BGztIeHoWgoPJJGbil2AJrlHsk%2F78EU7zAcstg06LMxOuIPZ97SANcW%2BdrPN7JA%2BKLWG4kosw%3D%3D",
+    level: "easy",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 467,
+    transcript: "We shall be studying the economy of several developing countries.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fa23e9799-8036-43f0-bb82-0a357a7ec85c.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=dO%2BpsgcjV%2F2PHDYGmsSrkgFvhXJlYySrXzx87S5weLRFcAiE4P2jAo1AgSeWP6Cg8uhCSPISz1%2FwO%2Bxs6Rc5ACqrmSLdTnbT9uUwfB%2Bj645T4Vk2IUcJ2Kw4xNEOX7ckcWHZTFLKWwjG6JrZZyfNqZxWk5v4s%2Bv7nza577wiG73FsIiuWXd1sqyKiwSCrI3iiaxRLZEq0vJjser1XX0QB6iXW9SZPakKSdrIGB0izsHCJ%2FaATkFgemzZsVJZh8vpgLpJOsTFrfIwpOqK8Vam2CQ1TAv2rijvLe38Apujy1PRgIPOiqStpjIZ2c9%2BQ49IEvGiyQdSKYSdJsSa7gQjYw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 468,
+    transcript: "The research was investigating the great impact of gender on social attitude.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2F17784455-64dc-4553-bf37-cb796fd87a77.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=R9lQUStUqkB3d6Ox1u1D0K%2FrVimEjTZ6fuV2G9GS9Qkhhgx4zSxW1BmoW0Kpeymaf8PiW63EpIqbfA2F%2Fv3262xppqjaoWQj4O2VQ5sVnhyyUvjeYcb1kbYxaAONGrHHKechYsLTgB5WadpQKtR%2FsXYgAfSLeWJhuPdxN8jX%2FjiStAWw7%2F2vYuk3zIEaQinDrzG6c6L12W6iY%2B8gHT23OnMEvbJwVm8k0Ru2eCADM%2FToZEU1b2gnnDh5Qn7ne8TSYueQk%2Bc6K2wVVmGGkr23V69S5fSR%2BW2RW3p7NOhVXvw9bDLYI1pCjgp%2FmUzcm16zwpjTXvhYsOOcoGRTNRImtg%3D%3D",
+    level: "hard",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
+  {
+    id: 469,
+    transcript: "Having snow means no flight can take off or land.",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fwfd%2Fb8c1f076-f8f4-439b-b41d-14cc4e316c7a.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=Q22HvaeGRiVbJ69o1PxuqKhDYUN3wrlnZR59%2BJyfe10ggJk04Ckt8QRlE26RXr7AfQjut1e23nJmQpHYzSIW87rSKUz9ajq1ojbMlfIr5mw%2BNlKcE8kw17rj%2Fb0G2Ll13JgRBJlg2GRPhVQsGz8QR03FWfIH093SQeJ6De0Gv4xVnlL6vh8ffSmQLdjB36uuIh4aNr70sxGR8P7Zo1WhtQ7WHmFkQIA%2F%2BJRpQHg00w%2FIpCeWf5PLh8qu6QWRxnDN5iSpS4wkKvaixHGehfrISToC6NwOaDLdbl6ZxOx0Syk62FqnbXb5fHrgVgL5w5TqmmjqUmtqoYnKsbdaxz7tgQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: [],
+    audioType: "mpeg"
+  },
 ];
 
 export default WriteFromDictationDataFrom401To500;
