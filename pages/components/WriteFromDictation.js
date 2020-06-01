@@ -25,12 +25,14 @@ const NewWord = styled("span")`
   display: block;
 `;
 
-const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) => {
+const WriteFromDictation = ({ transcript, audio, times, level, newwords, audioType, id }) => {
   const [showTranscript, toggleShowHide] = useState(false);
   const [showAnswer, toggleShowAnswer]= useState(false);
   const [answer, changeAnswer] = useState('');
+  let i = 0;
   const NewWords = newwords.map(w => {
-    return <NewWord>{w}</NewWord>;
+    i++;
+    return <NewWord key={i}>{w}</NewWord>;
   });
 
   return (
@@ -66,7 +68,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords, id }) =
         {showTranscript ? "Hide transcript" : "Show transcript"}
       </Button>
       <Audio controls preload="none">
-        <source src={audio} type="audio/mpeg" />
+        <source src={audio} type={"audio/" + audioType}/>
         Your browser does not support the audio element.
       </Audio>
       <Textarea
@@ -117,9 +119,10 @@ WriteFromDictation.propTypes = {
   times: t.number,
   level: t.string,
   newwords: t.array,
-  id: t.string
+  audioType: t.string,
+  id: t.number
 };
 
-WriteFromDictation.defaultProps = { newwords: [] };
+WriteFromDictation.defaultProps = { newwords: [], audioType: 'mpeg' };
 
 export default WriteFromDictation;

@@ -8,7 +8,22 @@ export default {
   repository: "https://github.com/nguyenletan/PTE",
   menu: [
     "Pearson Tests of English",
-    "Write From Dictation",
+    {
+      name: "Write From Dictation",
+      menu: [
+        "1. Write From Dictation",
+        "2. Write From Dictation",
+        "3. Write From Dictation",
+        "4. Write From Dictation",
+        "5. Write From Dictation",
+        "6. Write From Dictation",
+        "7. Write From Dictation",
+        "8. Write From Dictation",
+        "9. Write From Dictation",
+        "10. Write From Dictation",
+      ]
+
+    },
     "Repeat Sentence",
     "Summarize Spoken Text",
     "Listen Fill In The Blanks",
@@ -112,7 +127,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [13, 14, 15, 20, 22, 30, 35, 60, 80],
+    fontSizes: [12, 13, 14, 20, 22, 30, 35, 60, 80],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
