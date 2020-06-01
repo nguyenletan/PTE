@@ -5,7 +5,7 @@ import LFilInTheBlanks from "./LFilInTheBlanks";
 
 const Ol = styled("ol")`
   padding: 0;
-  margin: 55px 0 0 16px;
+  margin: 50px 0 0 16px;
 `;
 
 const LFillInTheBlanksList = ({ start, total, data }) => {

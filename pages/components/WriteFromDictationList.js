@@ -11,14 +11,16 @@ const Ol = styled('ol')`
 const WriteFromDictationList = ({ start, total, data }) => {
   const listSentences = data.map(s => {
     if (s.id >= start && s.id < start + total) {
+      let audioType = s.audioType || "mpeg";
       return (
         <WriteFromDictation
           transcript={s.transcript}
           audio={s.audio}
           times={s.times}
           level={s.level}
+          audioType={audioType}
           newwords={s.newwords}
-          id={"write-from-dictation-" + s.id}
+          id={s.id}
           key={"write-from-dictation-" + s.id}
         />
       );
