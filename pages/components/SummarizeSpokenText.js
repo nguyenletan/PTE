@@ -4,7 +4,6 @@ import t from "prop-types";
 import ReactMarkdown from "react-markdown/with-html";
 import { Button, Link, Textarea } from "theme-ui";
 
-
 const Question = styled("article")`
   margin-top: 32px;
   margin-bottom: 8px;
@@ -24,7 +23,7 @@ const Keywords = styled("ul")`
 
 const MainIdeas = styled("ol")`
   margin: 0;
-`
+`;
 
 const MoreInformation = styled("p")`
   margin: 1rem 0 1rem;
@@ -36,9 +35,12 @@ const Topic = styled("h2")`
 `;
 
 const H3 = styled("h3")`
-  margin: 0;
-  margin-top: 0.35rem;
+  margin: 0.35rem 0 0;
   font-size: 22px;
+`;
+
+const H4 =  styled("h4")`
+  margin: 0;
 `;
 
 const Audio = styled("audio")`
@@ -53,11 +55,11 @@ const NewWord = styled("span")`
   display: block;
 `;
 
-
 const SummarizeSpokenText = ({
   topic,
   transcript,
   audio,
+  audio2,
   solution,
   keywords,
   mainideas,
@@ -92,7 +94,7 @@ const SummarizeSpokenText = ({
   );
 
   const KeywordsBlock = () => {
-    if(keywords.length === 0) {
+    if (keywords.length === 0) {
       return null;
     }
     let i = 0;
@@ -103,28 +105,53 @@ const SummarizeSpokenText = ({
     return (
       <>
         <H3>Keywords</H3>
-        <Keywords>
-          {keywordlist}
-        </Keywords>
+        <Keywords>{keywordlist}</Keywords>
       </>
     );
   };
 
+  const AudioBlock = ({ audio, audio2 }) => {
+    console.log(audio2)
+    if (audio2 === "") {
+      return <Audio controls preload="none">
+        <source src={audio} type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </Audio>
+    } else {
+      return (
+        <>
+          <H4>PTE Helper Audio</H4>
+          <Audio controls preload="none">
+            <source src={audio} type="audio/mpeg"/>
+            Your browser does not support the audio element.
+          </Audio>
+          <H4>China Audio</H4>
+          <Audio controls preload="none">
+            <source src={audio2} type="audio/mpeg"/>
+            Your browser does not support the audio element.
+          </Audio>
+        </>
+      );
+    }
+  };
+
   const MainIdeasBlock = () => {
-    if(mainideas.length === 0) {
+    if (mainideas.length === 0) {
       return null;
     }
     let i = 0;
     const ideaList = mainideas.map(k => {
       i++;
-      return <li key={i}><ReactMarkdown source={k} escapeHtml={false} rawSourcePos /></li>;
+      return (
+        <li key={i}>
+          <ReactMarkdown source={k} escapeHtml={false} rawSourcePos />
+        </li>
+      );
     });
     return (
       <>
         <H3>Main Idea</H3>
-        <MainIdeas>
-          {ideaList}
-        </MainIdeas>
+        <MainIdeas>{ideaList}</MainIdeas>
       </>
     );
   };
@@ -140,15 +167,12 @@ const SummarizeSpokenText = ({
         >
           {`${id}. ${topic}`}
         </Link>
-        </Topic>
+      </Topic>
       <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
       </MoreInformation>
-      <Audio controls preload="none">
-        <source src={audio} type="audio/mpeg" />
-        Your browser does not support the audio element.
-      </Audio>
+      <AudioBlock audio={audio} audio2={audio2} />
       <Textarea
         placeholder="Quick note here"
         rows={8}
@@ -161,7 +185,7 @@ const SummarizeSpokenText = ({
       <Button
         mt={2}
         ml={0}
-        mb={2}
+        mb={3}
         mr={2}
         pt={2}
         pb={2}
@@ -203,12 +227,13 @@ SummarizeSpokenText.propTypes = {
   keywords: t.arrayOf(t.string),
   mainideas: t.arrayOf(t.string),
   audio: t.string,
+  audio2: t.string,
   times: t.number,
   level: t.string,
   newwords: t.array,
   id: t.number
 };
 
-SummarizeSpokenText.defaultProps = { newwords: [] };
+SummarizeSpokenText.defaultProps = { newwords: [], audio2: "" };
 
 export default SummarizeSpokenText;

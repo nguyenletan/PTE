@@ -19,6 +19,7 @@ const SummarizeSpokenTextList = ({start, total, data}) => {
           keywords={s.keywords}
           mainideas={s.mainIdeas}
           audio={s.audio}
+          audio2={s.audio2}
           times={s.times}
           level={s.level}
           newwords={s.newwords}
