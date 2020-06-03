@@ -348,6 +348,94 @@ const SummarizeSpokenText = [
   },
 
   {
+    id: 45,
+    topic: "Globalization v1",
+    transcript: `<span class="text-highlight">Globalization</span>, what is globalization?
+I think that he takes on <span class="text-highlight">a few different definitions</span> in one sense of the word. Globalization means <span class="text-highlight">a proliferation of transactions across country</span>. So, one way of thinking about globalization is a way to describe, increase <span class="text-highlight">international communications</span>, more <span class="text-highlight">trade happening between countries</span> and  be less self-sufficient in <span class="text-highlight">providing goods and services</span> to their people and more companies that have offices in <span class="text-highlight">multiple countries</span>, which we call <span class="text-highlight">multinationals</span>. So, <span class="text-highlight">the source of growth in travel and communication</span> and corporate <span class="text-highlight">increases across borders</span>. And this way of thinking about globalization is the continuation of thinking that has been around for a long time, such as when the Europeans went to the Orient, to find spices, which was also an example of <span class="text-highlight">global trade and communication</span>. Another way to think of globalization though, is <span class="text-highlight">an economic system</span>. It is a system in which countries become <span class="text-highlight">integrated</span> in a way that never had been before. In this system, we see a global split in the process between <span class="text-highlight">consuming and producing goods</span>. Some countries produce goods, some countries, consumer goods, and then these countries in different areas of the globe depend on each other in a kind of organic solar directly rather than having an economic system being just inside your country. The system is the way economy in your country functions depends on economic economy of the country. And in fact this way of thinking about globalization's represents a new area of <span class="text-highlight">economic progression</span> the past industrially industrialist economy that has been <span class="text-highlight">a global issue</span>`,
+    solution: `The lecturer talked about globalization which is a proliferation of transactions across countries. Globalization involves international communications and trades happening between nations. It is by providing goods and services in multinationals, the source of growth in travel and communication increases significantly across borders. He finally indicated that the way of thinking about globalization represents a new area of economic progression in which countries of the globe depend on each other. (70 words)`,
+    keywords: [],
+    mainIdeas: [],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-45.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=DrgBSDF6SZWTLarhB1yYR%2FApJo%2FHzHiwUURvdPj5Wn01bsbqvrjcOlyb9TiULDnUCwwLV6R0mTDm9tx6lJq%2FSVFbv5pIw5WfRlTP1lHdb5lt0CKmxBchhtO3ANOJlzf%2B9N%2Bcf2wmEhv2Ip8sSbACBShHhWMRyyT0an9PW1VJAjS9nnpxM1Q16xtlF%2BE5M%2Fk01brQG4yynBq5G7mcGHhY0lwdCIM3s5qCLwB3tkjRWTIHMLjre2qO8gjl7cDaC%2B8e58juttKxCoOUD389QQCaBgqPR2pOpAZmlhv87b3dzd0FvL2DRUf7P93VZrXNjMg5S6YCOMtWTyrnLRFZ96Y54Q%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 46,
+    topic: "DNA RNA",
+    transcript: `<span class="text-highlight">Chromosomes</span> are found in the <span class="text-highlight">nucleus sub-cells</span>. The key factors are chromosomes contain a molecule <span class="text-highlight">DNA</span>. Scientist said that DNA is <span class="text-highlight">a genetic material</span> and not because our DNA determines our <span class="text-highlight">inherited features</span>. I’m showing you <span class="text-highlight">a structure of DNA</span> here. This is a simplified structure but it covers all the points that you need for combined science. DNA consists of <span class="text-highlight">two strands</span>, each strand is <span class="text-highlight">a polymer</span>. In another word, each strand is made by <span class="text-highlight">joining together lots of smaller molecules</span>. In DNA, the two strands are wrapped around each other to form a double helix. It’s really important that you learn the term double helix as it’s a very common exam question. So, as we said, DNA’s found in chromosomes. I’m showing you a picture of chromosome here. Now the key factors are <span class="text-highlight">the gene</span>, it’s the small section of DNA on the chromosome. And again, you need to learn that definition. So, I’m showing here a gene. For example, this could be the gene which determines your blood type. This gene is found on chromosome number nine. Each gene encoded for specific sequence of amino acid to make a specific protein. For example, the blood type gene encoded the sequence of amino acid for the protein that determines blood type. Now humans have literally thousands of genes. We’re going to finish now by looking at <span class="text-highlight">the genome</span>. The genome is <span class="text-highlight">the entire genetic material of an organism</span>. So, the human genome is the entire genetic material that makes a human.`,
+    solution: `The lecturer talked about DNA which determines people’s inherited features. He firstly indicated that chromosomes are found in the nucleus sub-cells and DNA is found in chromosomes. He also showed a picture of a chromosome to demonstrate that DNA consists of two strands and each strand is made by joining together lots of smaller molecules. Finally, he emphasized that the genome is the entire genetic material of an organism. (69 words)`,
+    keywords: [],
+    mainIdeas: [
+      `Chromosomes are found in the nucleus sub-cells; they contain a **molecule** DNA.`,
+
+      `DNA determines our **inherited features.**`,
+
+      `DNA consists of two strands; each strand is made by **joining together** lots of smaller molecules`,
+
+      `The genome is **the entire genetic material** of an organism.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-46.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Tn%2FZ5TxvxcdRBi9lM9I6kdpxByKE87KkOzZqxXmFCvQOcOySliTOW6fLNZzZG2hFNiDiDlHxDc27PlQEPgzbdDX5S3YVwz3DziMscaZS9APvUreQCa%2BJhGGd7vLsb1geoqQVJjLuRCOAYZTw9JFvm0siNUZJpd2KCjnL3vUMAz0WeL19M1AdSQHXeWRNZZQUnNtyzd2RgPEwKX%2FCgTSyyHYcAOEggJ0KaubeZ200dd7FqToXkMrT0W6Ddr3wHbu%2FQM75EvztyCot435GuRu2tGnpUS04x%2FQB%2Fqimn67MkPspIWpd%2B4HiHBjdRUXrCs4iUpj2b8xHbr18YiKLl0XBxw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: ["Chromosome = nhiễm sắc thể", "genome = bản đồ gen, hệ gen"]
+  },
+
+  {
+    id: 47,
+    topic: "Gross National Happiness",
+    transcript: `Only one country tiny little Bhutan, wedged between China and India has adopted <span class="text-highlight">the gross national happiness</span> as __the
+central index of government policy<span class="text-highlight">, and actually has had a good deal of success in education and in health and economic growth and environmental preservation. And they have rather</span>sophisticated way of measuring the effects of different policies on people's happiness<span class="text-highlight">. But they are the only country to go that far. But you're now beginning to get other countries interested enough to do kind of white paper policy analyses about whether happiness research, what effects would it have we used it more for public policy. you're beginning to get countries like Australia, France, Great Britain that are considering</span>publishing regular statistics on happiness__
+So it's beginning to become <span class="text-highlight">a subject of greater interest</span> for <span class="text-highlight">policymakers and legislators</span> in <span class="text-highlight">different advanced countries</span>.`,
+    solution: `The lecturer talked about gross national happiness which is the central index of government policy in many countries. He firstly indicated that these nations should focus on sophisticated ways of measuring the effects of different policies on people's happiness. Additionally, they need to consider publishing regular statistics on happiness. Finally, he emphasized that gross national happiness becomes a subject of greater interest for policymakers and legislators in different advanced countries. (70 words)`,
+    keywords: [],
+    mainIdeas: [
+      `The gross national happiness is the central index of **government policy**`,
+
+      `Some countries have sophisticated way of measuring the effects of **different policies** on people's happiness`,
+
+      `Some countries are considering publishing **regular statistics** on happiness.`,
+
+      `It becomes a subject of greater interest for **policymakers** and legislators in different **advanced countries.**`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-47.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=KinB6VonnsTZujeWpEZW6PdHwuaeMEZb%2Fuo%2BiT8a8ILyNvUBgZYA3u6zEZmNNdw2DdeGsPdauoufyQPN4a7sQhnpmG%2FXhHlvi9bP2jB0i8W421nYNgMusvlL4Y9O8wXf7Zfj4ui2NSbzklpIGPLCadT7kFuMLz8zmCFvglehKSMDJ91TpFG2%2BiLxM9nMcazoCl7YDAw1r5psW4Dgqnj%2BdAF7XDE%2BLybfeTa%2B5VD6RmrPCbLDViaoNR%2FZd3mN8Tuyx1nTW3SW18n%2B3VrGy8CEHQAVWyg3JjSFMczvF%2FHJ%2B8BVs3K9XTIuQwtpADbAb2zTwHWpAcfKwMx%2F80byqA4fow%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 48,
+    topic: "Gross National Happiness",
+    transcript: `One of the things that was going on during the Great Depression was <span class="text-highlight">the beginning of the sort of modern food technology</span> that rules, you know, <span class="text-highlight">the way Americans eat today</span>. That is, there a lot of <span class="text-highlight">canned foods</span> were being coming onto the market at the time. And also <span class="text-highlight">refrigerators</span> were really becoming very, very popular during <span class="text-highlight">the Great Depression</span>, both <span class="text-highlight">in cities</span> and, and and <span class="text-highlight">in rural parts</span> of the country, thanks to electrification, the rural electrification administration, people could buy appliances. You know, <span class="text-highlight">farmers could buy appliances</span>, and that meant <span class="text-highlight">frozen foods were becoming big</span>. And you know, at that time, few people could afford to buy them during the early years of the Great Depression. But you know, gradually these things picked up. And, and so this was like the surface beginning of the era when people were starting to think about <span class="text-highlight">supermarkets</span>, with <span class="text-highlight">rows and rows of freezer cases</span> and rows and rows of <span class="text-highlight">canned foods</span>.`,
+    solution: `The lecturer talked about the beginning of modern food technology that rules the way Americans eat. He firstly indicated that refrigerators were becoming popular during the Great Depression, both in cities and rural parts. In addition, he indicated that farmers could buy appliances, and that meant frozen foods were becoming big. Finally, he emphasized that people were starting to think about supermarkets, with rows of freezer cases and canned foods (70 words)`,
+    keywords: [],
+    mainIdeas: [
+      `The beginning of **the modern food technology** that rules the way American eat`,
+      `**Refrigerators** were really becoming **very popular** during the Great Depression, both in **cities** and **rural parts.**`,
+      `**Farmers** could buy **appliances**, and that meant **frozen foods** were becoming big.`,
+      `People were starting to think about **supermarkets** with rows of **freezer cases** and **canned foods**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://dl26yht2ovo33.cloudfront.net/public/system/ssts/audios/SST_CAN_FOOD/original/8e20dd92983834f4899fe25bf58069dd/SST_CAN_FOOD.mp3?1553589409",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
     id: 73,
     topic: "Consumer Behaviour (Tide Brand)",
     transcript: `It turns out <span class="text-highlight">consumers are incredibly smart</span>. They can <span class="text-highlight">buy a lifetime of experience with that brand</span>, they can buy with whatever it’s designed to deal with, all of which makes them feel: <span class="text-highlight">performance and price</span>. And they do all that in a few seconds. So <span class="text-highlight">brands are essential to our business to allow us to deliver the increased consumer value associated with our products</span>.<br/> But we're not into the <span class="text-highlight">generic business of toilet paper</span>, we're into probably about the <span class="text-highlight">softest product</span> you're going to want to buy. We're not into a generic soap, we're into the best, you know, stain removing laundry detergent you're going to buy. But we're going to want you to remember that as the tide brand, now, that means there's a second moment of truth. If they do select you and they pay 50% more than they want to pay for Walmart's brand when they get home, it’d better perform when it's used. And here's where the science starts, folks. There's an amazing <span class="text-highlight">number of fundamental engineering contradictions</span>, right?<br/>

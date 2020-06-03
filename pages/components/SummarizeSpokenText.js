@@ -6,7 +6,7 @@ import { Button, Link, Textarea } from "theme-ui";
 
 
 const Question = styled("article")`
-  margin-top: 16px;
+  margin-top: 32px;
   margin-bottom: 8px;
 `;
 
@@ -132,7 +132,7 @@ const SummarizeSpokenText = ({
   return (
     <Question key={id}>
       <Topic id={`${id}.${topic}`}>
-        <Link 
+        <Link
           href={`#${id}.${topic}`}
           sx={{
             color: "text"
@@ -161,7 +161,7 @@ const SummarizeSpokenText = ({
       <Button
         mt={2}
         ml={0}
-        mb={4}
+        mb={2}
         mr={2}
         pt={2}
         pb={2}
