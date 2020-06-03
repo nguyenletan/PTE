@@ -5,7 +5,7 @@ import SummarizeSpokenText from "./SummarizeSpokenText";
 
 const Section = styled('section')`
   padding: 0;
-  margin: 0;
+  margin: 10px 0 0;
 `;
 
 const SummarizeSpokenTextList = ({start, total, data}) => {
