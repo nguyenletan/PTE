@@ -127,7 +127,7 @@ export default {
       body: 1.66,
       heading: 1.125
     },
-    fontSizes: [12, 13, 14, 20, 22, 26, 34, 40, 60],
+    fontSizes: [13, 14, 15, 20, 22, 26, 34, 40, 60],
     space: [0, 4, 8, 16, 38, 64, 128, 256, 512],
   },
   ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'contributing.md', 'license.md']
