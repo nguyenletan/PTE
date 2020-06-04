@@ -354,10 +354,18 @@ const SummarizeSpokenText = [
 I think that he takes on <span class="text-highlight">a few different definitions</span> in one sense of the word. Globalization means <span class="text-highlight">a proliferation of transactions across country</span>. So, one way of thinking about globalization is a way to describe, increase <span class="text-highlight">international communications</span>, more <span class="text-highlight">trade happening between countries</span> and  be less self-sufficient in <span class="text-highlight">providing goods and services</span> to their people and more companies that have offices in <span class="text-highlight">multiple countries</span>, which we call <span class="text-highlight">multinationals</span>. So, <span class="text-highlight">the source of growth in travel and communication</span> and corporate <span class="text-highlight">increases across borders</span>. And this way of thinking about globalization is the continuation of thinking that has been around for a long time, such as when the Europeans went to the Orient, to find spices, which was also an example of <span class="text-highlight">global trade and communication</span>. Another way to think of globalization though, is <span class="text-highlight">an economic system</span>. It is a system in which countries become <span class="text-highlight">integrated</span> in a way that never had been before. In this system, we see a global split in the process between <span class="text-highlight">consuming and producing goods</span>. Some countries produce goods, some countries, consumer goods, and then these countries in different areas of the globe depend on each other in a kind of organic solar directly rather than having an economic system being just inside your country. The system is the way economy in your country functions depends on economic economy of the country. And in fact this way of thinking about globalization's represents a new area of <span class="text-highlight">economic progression</span> the past industrially industrialist economy that has been <span class="text-highlight">a global issue</span>`,
     solution: `The lecturer talked about globalization which is a proliferation of transactions across countries. Globalization involves international communications and trades happening between nations. It is by providing goods and services in multinationals, the source of growth in travel and communication increases significantly across borders. He finally indicated that the way of thinking about globalization represents a new area of economic progression in which countries of the globe depend on each other. (70 words)`,
     keywords: [],
-    mainIdeas: [],
+    mainIdeas: [
+      `Globalization means a proliferation of **transactions** across country`,
+      `It describes increased **international communications** and more **trade** happening between countries`,
+      `The source of growth in **travel** and **communication** and **corporate** increases across borders`,
+      `Globalization is **an economic system**: your country functions depends on the economy of the country.`,
+      `This way of thinking represents **a new area of economic progression**.`
+    ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-45.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=DrgBSDF6SZWTLarhB1yYR%2FApJo%2FHzHiwUURvdPj5Wn01bsbqvrjcOlyb9TiULDnUCwwLV6R0mTDm9tx6lJq%2FSVFbv5pIw5WfRlTP1lHdb5lt0CKmxBchhtO3ANOJlzf%2B9N%2Bcf2wmEhv2Ip8sSbACBShHhWMRyyT0an9PW1VJAjS9nnpxM1Q16xtlF%2BE5M%2Fk01brQG4yynBq5G7mcGHhY0lwdCIM3s5qCLwB3tkjRWTIHMLjre2qO8gjl7cDaC%2B8e58juttKxCoOUD389QQCaBgqPR2pOpAZmlhv87b3dzd0FvL2DRUf7P93VZrXNjMg5S6YCOMtWTyrnLRFZ96Y54Q%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/70/original/674d99328757569cca921a60a0a48f84/70.mp3?1571064804",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -372,11 +380,8 @@ I think that he takes on <span class="text-highlight">a few different definition
     keywords: [],
     mainIdeas: [
       `Chromosomes are found in the nucleus sub-cells; they contain a **molecule** DNA.`,
-
       `DNA determines our **inherited features.**`,
-
       `DNA consists of two strands; each strand is made by **joining together** lots of smaller molecules`,
-
       `The genome is **the entire genetic material** of an organism.`
     ],
     fillInTheBlank: "",
@@ -391,18 +396,15 @@ I think that he takes on <span class="text-highlight">a few different definition
   {
     id: 47,
     topic: "Gross National Happiness",
-    transcript: `Only one country tiny little Bhutan, wedged between China and India has adopted <span class="text-highlight">the gross national happiness</span> as __the
+    transcript: `Only one country tiny little Bhutan, wedged between China and India has adopted <span class="text-highlight">the gross national happiness</span> as the
 central index of government policy<span class="text-highlight">, and actually has had a good deal of success in education and in health and economic growth and environmental preservation. And they have rather</span>sophisticated way of measuring the effects of different policies on people's happiness<span class="text-highlight">. But they are the only country to go that far. But you're now beginning to get other countries interested enough to do kind of white paper policy analyses about whether happiness research, what effects would it have we used it more for public policy. you're beginning to get countries like Australia, France, Great Britain that are considering</span>publishing regular statistics on happiness__
 So it's beginning to become <span class="text-highlight">a subject of greater interest</span> for <span class="text-highlight">policymakers and legislators</span> in <span class="text-highlight">different advanced countries</span>.`,
     solution: `The lecturer talked about gross national happiness which is the central index of government policy in many countries. He firstly indicated that these nations should focus on sophisticated ways of measuring the effects of different policies on people's happiness. Additionally, they need to consider publishing regular statistics on happiness. Finally, he emphasized that gross national happiness becomes a subject of greater interest for policymakers and legislators in different advanced countries. (70 words)`,
     keywords: [],
     mainIdeas: [
       `The gross national happiness is the central index of **government policy**`,
-
       `Some countries have sophisticated way of measuring the effects of **different policies** on people's happiness`,
-
       `Some countries are considering publishing **regular statistics** on happiness.`,
-
       `It becomes a subject of greater interest for **policymakers** and legislators in different **advanced countries.**`
     ],
     fillInTheBlank: "",

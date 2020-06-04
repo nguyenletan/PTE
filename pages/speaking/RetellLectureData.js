@@ -352,6 +352,31 @@ const RetellLectureData = [
     times: 1,
     priority: "normal",
     newwords: []
+  },
+  {
+    id: 44,
+    topic: 'Animal Behavior Ver. 2 ',
+    transcript: [
+      `We can ask two fundamental questions about animal behavior, they referred to as proximate and ultimate. Proximate questions are those concerned with the mechanisms that bring about behavior; ultimate questions are those concerned with the evolution of behavior. We can divide the proximate and ultimate questions into two sub-questions. For proximate, how does the behavior develop and secondly what causes the behavior. For ultimate, you can ask how did the behavior evolve, and secondly what is the adaptive significance of the behavior, what's its purpose. Together these comprise what are called Tinbergen's four questions about animal behavior. Niko Tinbergen was one of the founding fathers of the study of animal behavior. These questions represent the different ways of studying animal behavior and understanding the difference between those four questions are fundamental to understanding behavior and indeed the whole of biology. How do we study animal behavior? Well that depends on the type of question we’re hoping to answer.`
+    ],
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Frl-44.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=MVh9bROGct4GkHF4hu71Y723YdsrfJrhdhUwPOF72ZUy2xuK2Rm9oQMNN6ebI%2Fa5WpkCJzbRPEbg4608jCcgNGN7xMC%2F8qypglRBTxSFkpVd1XelhIbnS%2FqlznyFW%2FXNgUjSZhGVPQjOOKKOZ7prhhjs2E6VLfAEPE5xr0Ts7hnz0pvPsbieMJAR%2F37StVhk2vIxYvxU9QIX%2FkQyOybI99Eoyql7XZjVUvxqqSUqamgYywQ0AYQ5BB1GFBe7SkntuYmE405j0hKDTRSO3ej5cykA6410FIXLT%2Bisyq32Dgfe6J22ORa85WTgMNci479rh2dGJxDzoKSb2E7f72pEsA%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  {
+    id: 46,
+    topic: 'The Dilemmas of Privacy and Surveillance',
+    transcript: [
+      `I think it's important that we are, as a society, able to have an informed debate about how much privacy is enough but not too much, how much security is enough but not too much. Privacy as a human right, that's simply quoting the Universal Declaration. In the physical world, we've got all kinds of protections. There is evidence that we care about our privacy. We've got doors, we've got obscured glass, we've got locks, we wear clothes, we put up shutters. And technology continues to erode the privacy that exists in the real world, in the three spatial dimensions. Security cameras, automatic number plate recognition take away anonymity. Long lenses, paparazzi, take away distance and the privacy that it used to create. And body scanners are increasingly being used to see through clothes. 
+      This process isn't going to slow down and the new quantum technologies are actually being able to do gravitational sensing. And that's advancing at a remarkable rate. And you can't shield gravity. So some of the new quantum technologies are able already to see through walls. And there are technologies also for seeing around corners now using scattered light from lasers. Technology continues to erode privacy.`
+    ],
+    audio: "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Frl-46.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524568400&Signature=M1%2BewO%2FS8BbMI%2FplqojsZv64V%2BZKs2360aDCKQrNSZRLzawf7lH8OYcPh%2B8hutx0CTsvRcx2QiEG4Bx7m4lwzuFo0yeibBYx5ql8kSFLXQvZQnx%2BSZrS7W5%2FhbpLnpwwAKYtak%2BNlGpGALvRb%2FF%2Fg4IdpWZEpbv455fYIRjrnX9v5hBX0QYWAhCuXg7ysls5okOpXwUT%2FKcERH5h5f7rGxEuB8rTRTWt%2Bdmj6prgUCOsIi89hyCxtWg3GmbjaMqVXCu5djEJBFDdP0f5CsKQ3swpVCycjOv3LU8%2BQiUEqZ%2FZ4FSgYPvK3oQIZhfaEjBTlFIsGb0IqpEnVi0R1Ir%2FEQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
   }
 ];
 

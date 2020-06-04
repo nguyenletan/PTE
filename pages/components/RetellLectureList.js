@@ -19,7 +19,7 @@ const RetellLectureList = ({start, total, data}) => {
           times={s.times}
           level={s.level}
           newwords={s.newwords}
-          id={"write-from-dictation-" + s.id}
+          id={s.id}
           key={"write-from-dictation-" + s.id}></RetellLecture>
       );
     }
