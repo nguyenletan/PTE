@@ -124,7 +124,7 @@ const SummarizeSpokenText = ({
             <source src={audio} type="audio/mpeg"/>
             Your browser does not support the audio element.
           </Audio>
-          <H4>China Audio</H4>
+          <H4>Pearson Audio</H4>
           <Audio controls preload="none">
             <source src={audio2} type="audio/mpeg"/>
             Your browser does not support the audio element.
