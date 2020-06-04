@@ -436,7 +436,77 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: []
   },
-
+  
+  {
+    id: 65,
+    topic: "History of English",
+    transcript: `So the title of my lecture today is Heinz 57, the <span class="text-highlight">history of English</span> and the <span class="text-highlight">rise of English</span> as a <span class="text-highlight">global language</span>. I know that John Slack gave you a lecture on English, the global language that right you've had to run. Oh, he's going to say, the end of my lecture will lead on to what John Slack's going to talk to you about next time. So there'll be a link, and I've called my lecture, Heinz 57. Because English, as you've already read, is, is <span class="text-highlight">not a pure language</span>. I don't think there really are any pure languages in the world. But English is definitely not a pure language. English, in fact, has <span class="text-highlight">borrowed</span> from over <span class="text-highlight">350 languages</span> in its history. So it's a <span class="text-highlight">variety of many languages</span>. Some people say it's like a dog, a Mongol dog, a dog that's been made up of many different dogs. The English language is like that. And by looking at the <span class="text-highlight">history of the English language</span>, we learn about the <span class="text-highlight">history of the English people</span>, the two things are <span class="text-highlight">closely connected</span>. So in fact, today, we're not <span class="text-highlight">learning about language</span>, but we're <span class="text-highlight">learning about history</span>. And fact, the English has borrowed words from over 350 languages, has been <span class="text-highlight">viewed differently</span> throughout history. So for example, in <span class="text-highlight">Shakespeare's time</span>, people were very <span class="text-highlight">angry</span> about words which were not they thought <span class="text-highlight">original English words</span> - words, which came from other languages they didn't like them. During <span class="text-highlight">times of war</span> for is, for example, World War II, German words were they tried to remove German words from the English language, but as we'll see from the lecture today, that was very difficult because the <span class="text-highlight">basis of English</span> lies in <span class="text-highlight">Germanic languages</span>, so it was very hard to remove all German words from the English language.`,
+    solution: `The lecturer talked about the history of English and the rise of English as a global language. She firstly indicated that English is not a pure language. In addition, she indicated that English has borrowed from over 350 languages in its history. Finally, she emphasized that the fact that English has borrowed words from over 350 languages has been viewed differently throughout history _(64 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-65.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PHomB6pxNQ8ShFcltdrIMy2Mf1%2B9JlARYewDOYDWf9rcpzIB0wM0Vo91JiqerDopi7rFqL4rGWmh%2FKxG5Vn%2BXpl%2B0Lra8R52zbSbROQPoz4TKYcA4QQ8Q%2FC9ggdbNYIW92LK%2FkClsumDnPvj2y8Rk3nGOLNBOHGY0%2FJ7Rdi%2BMNd5wb1TECQ41a0ETC3SYf1OA8bXEo%2B8NOp4Z1fb7fSBxiE17%2Ft7SflGAKNHpKK78%2BmfQYyWWMYkKRmoxTVbvTKs2YNOjuVdIxO%2BEopgnez93rAdxtR1fy3YCpYuF8RuIXFDYkZMtZi%2BhJRxvqnhOpG3laczQwv%2Faref%2BTj6d61wfw%3D%3D",
+    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/1030346c6219b06e24a393dc4c685458/original/5dac0824948843b545f5bdad2f8ad6f0/1030346c6219b06e24a393dc4c685458.mp3?1590115238",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  
+  {
+    id: 66,
+    topic: "Bee Decline",
+    transcript: `So, various conclusions. Yes, <span class="text-highlight">bees</span> are in <span class="text-highlight">decline</span>. These declines are <span class="text-highlight">well documented</span>. They are <span class="text-highlight">real</span>. And they're supported by <span class="text-highlight">good</span>, <span class="text-highlight">strong</span> <span class="text-highlight">scientific evidence</span>, which is the only evidence that counts. The <span class="text-highlight">drivers of decline</span> are <span class="text-highlight">many and varied</span>, depending on <span class="text-highlight">species</span>. The <span class="text-highlight">effects of pollinator loss</span> could be absolutely <span class="text-highlight">huge</span>. So is it a <span class="text-highlight">catastrophe</span>? Not yet.But it could be. On the <span class="text-highlight">positive side</span>, we are <span class="text-highlight">aware of the problem</span>. <span class="text-highlight">Awareness is being raised</span> all the time, and <span class="text-highlight">people are taking action</span> that before one can fix anything, you've got to <span class="text-highlight">recognize</span> there's a problem. And that at least, is being done.`,
+    solution: `The lecturer talked about bees which are in decline. He firstly indicated that these declines are well documented, and they're supported by good, strong scientific evidence. In addition, he indicated that the drivers of decline are many and varied, and the effects of pollinator loss could be absolutely huge. Finally, he emphasized that on the positive side, we are aware of the problem and people are taking action _(68 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-66.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=HPGyVTzGkevaTFpgCsqx5w7Nbp2e9cJcfhU6mcpmeWCDrANZj07eFYYZ0LVcMYVeUA9xxR7TgF3d1Xn5YyJlGIL5kntCrQmyIaiziCzzxbEj0wrEqz88k5henra724NnXgf%2Bc2%2BTArmhsrPu%2BR%2FbVcFJg788q5ENy%2FW%2FoZ6I65bPAcpN%2Fx7rILWEqsxsbNGSN1nEhIR7oBoGUyb%2BaXXXORM2hfmTL9M8HvKQOsas%2ByIeAfqUfwvMU%2FDIl1FqxwXruTTZJ8xJP9U6gatigHLcKyC6U2XKyJwyKKEa0AsOv3hj9xvUI%2B9VFKWzxYNC4CAFe59bVGBJzmDLYQ4Pn8THOg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  
+  {
+    id: 67,
+    topic: "Where Earthquakes occur?",
+    transcript: `So we have a <span class="text-highlight">fault plane</span>, and then the <span class="text-highlight">earthquake</span> itself <span class="text-highlight">occurred</span> on this fault plane, the earthquake starts at a particular point on the fault plane. And we call that the <span class="text-highlight">focus of the earthquake</span>.  And then the <span class="text-highlight">rupture</span> <span class="text-highlight">propagates out</span> from that point on the <span class="text-highlight">rupture plane</span> to <span class="text-highlight">cover the entire fault plane</span>. That ruptures in that particular earthquake. We talked about the <span class="text-highlight">epicenter of an earthquake</span> a lot, the epicenter is just the <span class="text-highlight">surface projection</span> of the <span class="text-highlight">focus of the earthquake</span>. So if we wanted to look in <span class="text-highlight">map view</span> of where the earthquake was located, and we were able to look down into the earth, we would see the focus down at some depth on the earth, and the epicenter is just the point <span class="text-highlight">vertically above</span> that focus at the <span class="text-highlight">surface of the earth</span>. Okay. So this is the <span class="text-highlight">relationship between fault and earthquakes</span>. This <span class="text-highlight">block model</span> that you can see here is the same block model that we were just looking at, it's a <span class="text-highlight">thrust fault</span> of some kind. So we have rupture on this thrust fault. And as a result of that rupture, we see a <span class="text-highlight">seismic wave</span> <span class="text-highlight">radiated away</span> from the fault, so we get this <span class="text-highlight">displacement</span> on the fault and <span class="text-highlight">radiated seismic ways</span> away from the fault.`,
+    solution: `The lecturer talked about a fault plane, on which the earthquake occurred. He firstly introduced the focus of the earthquake, which is a particular point where the earthquake starts. In addition, he indicated that if we wanted to look at where the earthquake was located, we would see the focus. Finally, he emphasized that as a result of the rupture, we see a seismic waves radiated away from the fault _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-67.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=aexBWLrs%2FMyXreGbNHYHg3eTrbO17NU%2B2F2iib7ET5G1atWpYDqfxXoIc06UMR5J7Ze%2BRaGP9Ll75%2F5cMnHqLLYVeGxJTW%2Fpb6P0QEqtRIo6Q%2B%2BIbtGiOdz7FlqL6oFs%2FWr8Xcn0jXNahpqCSiv648CZwbKg920KiJIFJsHtLs%2B3LWbyZ36qb9rlVd2Qc%2FE0doak1QvqZ1HOZ9lBPVltJyq8642ZYHrUmbiUnTnvzRjB9HLeVTkvPnvtXf47VQDhOVz9xUbenV26d%2BNet3V9RLEoZqu3P2KfLZVgKKZaRpTUdBGmMyFsIQLmRPD6hKz5MQSZd1kxVTKhoSwbgUDwrQ%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  
+  {
+    id: 68,
+    topic: "Globalisation v.2",
+    transcript: `<span class="text-highlight">Globalization</span> is an <span class="text-highlight">overused</span> and often <span class="text-highlight">misunderstood concept</span>. We hear it all the time on <span class="text-highlight">news broadcast</span> and in any type of <span class="text-highlight">public discussion</span>. But the starting point for <span class="text-highlight">understanding globalization</span> is that it is <span class="text-highlight">industries and markets</span> that <span class="text-highlight">globalized</span> not countries. That's why it's helpful to think of globalization as the <span class="text-highlight">integration of economic activities across borders</span>. But why does globalization matter? I would argue that globalization matters, because it means the <span class="text-highlight">rise of interconnectedness</span> between countries and markets across the world. For example, one of the reasons why the <span class="text-highlight">financial crash</span> of 2007 2008 was so <span class="text-highlight">serious</span> was because the <span class="text-highlight">financial and banking systems</span> of countries around the world have become so <span class="text-highlight">closely interconnected</span> with the globalization.`,
+    solution: `The lecturer talked about globalization, which is an overused and often misunderstood concept. She firstly indicated that it is industries and markets that globalized, not countries. In addition, she indicated that it's helpful to think of globalization as the integration of economic activities across borders. Finally, she emphasized that globalization matters, because it means the rise of interconnectedness between countries and markets across the world _(65 words)_`,
+    keywords: [],
+    mainIdeas: [
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-68.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=akISZBn08lA7nuSUa1mzNSTCjbhxOmAWHCFlLooJEAdGAhfVcALCdvEAeSh7%2Fe8fDYotCPVMwxjnWuWEdDxPJDAuJIOQdHXayHetBvAB%2FJCyXyeBfAjmcqAYy7zI2dGBMOvCrsCgyEAsLvZaJ9f5WtIWn3hzpSYhLy9Y18f0rUJ7DC7KZkSuBdeGxP4n3YD9JXgxbZ%2Bh8T1SMfMs1ZUPsQMgpyOZk49KOgKC0AeQt1JVdasZCJBDznxW1X9LpMCLTArhpR9GejkdFRTALyeUWOQkcMoQqtt1SbUr46dp9C2erhKI1sAHgqu94WpzMB23aujmNxp7MjNS0ts123TbVQ%3D%3D",
+    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_149/original/828a0ac52fa5c9ecc395f9a02a156ac9/SST_149.mp3?1557286801",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+  
   {
     id: 73,
     topic: "Consumer Behaviour (Tide Brand)",
