@@ -36,7 +36,7 @@ const WriteFromDictation = ({ transcript, audio, times, level, newwords, audioTy
   });
 
   return (
-    <Question key={id}>
+    <Question key={id} value={id}>
       <Transcript>
         {showTranscript ? transcript : ""}&nbsp;
         <em>({times} times)</em>&nbsp;-&nbsp;

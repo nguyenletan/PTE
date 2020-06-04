@@ -111,7 +111,6 @@ const SummarizeSpokenText = ({
   };
 
   const AudioBlock = ({ audio, audio2 }) => {
-    console.log(audio2)
     if (audio2 === "") {
       return <Audio controls preload="none">
         <source src={audio} type="audio/mpeg" />
