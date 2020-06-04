@@ -47,8 +47,8 @@ const RetellLecture = ({topic, transcript, audio, times, level, newwords, id}) =
   });
 
   return (
-    <Question key={id}>
-      <Topic>{showTranscript ? topic : ""}</Topic>
+    <Question key={id} value={id}>
+      <Topic>{topic}</Topic>
       <MoreInformation>
         <em>({times} times)</em>&nbsp;-&nbsp;
         {level && <strong>{level}</strong>}
@@ -103,7 +103,7 @@ RetellLecture.propTypes = {
   times: t.number,
   level: t.string,
   newwords: t.array,
-  id: t.string
+  id: t.number
 };
 
 RetellLecture.defaultProps = { newwords: [] };
