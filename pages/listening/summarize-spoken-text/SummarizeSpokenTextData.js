@@ -399,7 +399,7 @@ const SummarizeSpokenText = [
     mainIdeas: [
       `The reason why the **noverlist** wrote a **fiction** named **The secret life of bees**.`,
       `The author **started writing** at the age of 30 and took a long detour but she absolutely had no regret about it.`,
-      `Influenced bu a famous writer, author decided to write the **first chapter of the novel** in the early 90s although she felt a bit risky at that time.`
+      `Influenced by a famous writer, author decided to write the **first chapter of the novel** in the early 90s although she felt a bit risky at that time.`
     ],
     fillInTheBlank: "",
     audio:
@@ -1003,7 +1003,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
 
   {
     id: 83,
-    topic: "“What makes you itch? (or How to Spend Life)”",
+    topic: "What makes you itch? (or How to Spend Life)",
     transcript: `What makes you itch? What sort of a <span class="text-highlight">situation</span>? Would you like?
     Let's suppose I do this often in <span class="text-highlight">vocational guidance</span> of students. They come to me and say, well, we're <span class="text-highlight">getting out of college</span> and we have the <span class="text-highlight">faintest idea</span> what we want to do. So I always ask the <span class="text-highlight">question</span>, what would you like to do if <span class="text-highlight">money</span> were <span class="text-highlight">no object</span>? What would How would you really <span class="text-highlight">enjoy spending your life?</span> Well, it's so amazing as a result of our kind of <span class="text-highlight">educational system</span>. Crowds of students say, Well, we'd like to be <span class="text-highlight">painters</span>, we'd like to be <span class="text-highlight">poets</span>. We'd like to be <span class="text-highlight">writers</span>, but as everybody knows, you can't done any money that way. Or another person says, Well, I'd like to<span class="text-highlight">live an outdoors life</span> and <span class="text-highlight">ride horses</span>.
     I said you want to teach in riding school?
