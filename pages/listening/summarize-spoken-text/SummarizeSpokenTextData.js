@@ -24,6 +24,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-1.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=VJK6MXznl3bOrHECbfQem%2F1xx6B2e9yAJqH9wQ%2FnlGCRvNr3H7OG53kJuUko49cSrVfWOz9wB0V%2FlLeiij7ifPtc9yuoxJunQujDlXOQ%2Bl4N2f%2BQqz%2FEWg6jt4uXfNTMVDi561xtJc8cMVQ6b7n33jR%2Fk59cSqSSYWETCkcksvCgtA2ghJmNYApCBxFSWUi52b%2B5WkL6U1aEm939nUSCShCLW9y5oVtP16FNl65qJvVMCuHy8Oy3knR29G3nkY6K9pt6WD8Y80Gj65PInCH9QzvquysrWEaMlUStOJzSd6h2My5Vj2PW9zNRLlxhcssW5hU94PGrcVRpVnnWKkM2Zw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/e09fbdf79084b4eb7cae/original/869f97562136b23bbfd063219bb4a078/e09fbdf79084b4eb7cae.mp3?1570096882",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -37,14 +39,16 @@ const SummarizeSpokenText = [
     solution: `The lecturer talked about the concept of architecture that causes both pleasure and trouble. He firstly indicated that a poorly designed building has serious impacts on the people around it. He strongly agreed that there was so much bad architecture and emphasized terrible problems with architecture as it lasts longer than a bad book or a bad play. He finally introduced a book to suggest why and how architecture works. _(70 words)_`,
     keywords: [],
     mainIdeas: [
-      `Concept of the architecture causes both pleasure and trouble.`,
-      `Poorly designed building has impacts on the people arround it.`,
-      ` There was so much bad architecture, and terrible architecture lasts longer than a bad book or a bad play.`,
-      `Introduced a book to suggest why and how architecture works`
+      `Concept of the **architecture** causes both **pleasure and trouble**.`,
+      `Bad building has impacts on the people around it.`,
+      `Terrible problem with architecture lasts longer than a bad book or a bad play.`,
+      `Introduced a book to suggest why and how **architecture works**.`
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-2.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=CFYUO6a80FjiFDPCuRyMc82dyKlinTaikWW9dt0%2Fm0n7tOrWNFP5yZn1FNsXcbN5BSqLAm2t9sGeXrGeB0vVRGKhxbdvS11G06KnIGa06mjk%2BNwe7hLda%2BvLALzORNY8x0H7ikN30q2Cn%2FfAqlaPlK0XFFzwXJpM2wneQ5AqCca2rJIsZKWaaahsk63O3KvI2nZ374smzE7hzkP3QpVY1VpjS0gHZk3agv0tD7T8ly3CQmUxjiihT9mPeZk1T4aEzJWhBBin0wrK5SxtezSzq6dMNxD%2BXly5L3LBHcy5PbHXbiHcqXUq8rtVELSewxOwF3JSoyWjoacmnW9MQ6AEag%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_178/original/86bc6ba5a392313bc0745b94930e23b4/SST_178.mp3?1566116350",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -65,6 +69,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-3.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=V%2BXL6p1vdkZiATpcivoiTVDFjmnWIPMNqqMSn7zQtdDlfR3UeopEa8muiZuRr%2BCIZ1aw3MkuAhUSUAU%2BvXbi7vqfW8k7MlAIBxWFzm4s935bGiRxGX%2FkNFiGMiQROl835eyPhys7Dtkt7whRamGO2aFn7appFqfpLoTazIlV6mKFPrkuf2av%2Brr6ooidzkU5qnNzfgb%2BYjWifsoZE%2BJaEAeIB%2FXJX4XVxvbgGkQnqOAH%2BrUuE0sU8sVYsosAlq0OCz0d6xuYMqWpoGSnqSW9FPhLTPu5nf2kg1oVzPAWSkI6YmDRcYNyn%2Bo2rzlmL1xy6YxMoNqRv%2BW29wRklortoA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst138/original/b5ca93b596a5e014fe18794ff1c439f4/sst138.mp3?1572433512",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -74,20 +80,22 @@ const SummarizeSpokenText = [
   {
     id: 4,
     topic: "Danger of keeping drugs at home",
-    transcript: `“But what are the <span class="text-highlight">dangers of keeping these drugs</span> at home?”
-    “There are a number of dangers. Parents should know that <span class="text-highlight">leftover drugs are dangerous</span> because they may be <span class="text-highlight">accidentally ingested by children</span>. Either adults don’t keep the bottles properly closed and stored or because even many kids can sometimes open childproof lids. <span class="text-highlight">Patients may use the drugs after their expiration date</span>. The leftover drugs may be <span class="text-highlight">taken for the wrong reasons</span>. For example, someone may have a <span class="text-highlight">viral infection</span> and <span class="text-highlight">self-prescribed</span> to left over into microbial that was prescribed for a bacterial infection. But that drug will have no effect as the viral infections. Drugs that are left over might be given to or taken by someone else who may have a <span class="text-highlight">serious allergy</span> to the medicine and who for that reason would not be prescribed to medicine under the supervision of a physician. Finally, <span class="text-highlight">inappropriate use of drugs promotes drug resistance</span> if the drug is <span class="text-highlight">taken for the wrong indication, the wrong duration, or in the wrong dosage</span>.
-    “Todd, what can people do about this how can the situation be improved?”
+    transcript: `“But what are the <span class="text-highlight">dangers of keeping these drugs</span> at home?”<br/><br/>
+    “There are a number of dangers. Parents should know that <span class="text-highlight">leftover drugs are dangerous</span> because they may be <span class="text-highlight">accidentally ingested by children</span>. Either adults don’t keep the bottles properly closed and stored or because even many kids can sometimes open childproof lids. <span class="text-highlight">Patients may use the drugs after their expiration date</span>. The leftover drugs may be <span class="text-highlight">taken for the wrong reasons</span>. For example, someone may have a <span class="text-highlight">viral infection</span> and <span class="text-highlight">self-prescribed</span> to left over into microbial that was prescribed for a bacterial infection. But that drug will have no effect as the viral infections. Drugs that are left over might be given to or taken by someone else who may have a <span class="text-highlight">serious allergy</span> to the medicine and who for that reason would not be prescribed to medicine under the supervision of a physician. Finally, <span class="text-highlight">inappropriate use of drugs promotes drug resistance</span> if the drug is <span class="text-highlight">taken for the wrong indication, the wrong duration, or in the wrong dosage</span>.<br/><br/>
+    “Todd, what can people do about this how can the situation be improved?”<br/><br/>
     “I think <span class="text-highlight">physicians, patients and parents of patients</span> can take steps to <span class="text-highlight">improve the situation</span>. First of all, physicians should <span class="text-highlight">prescribe the drug only when appropriate</span>, only in the <span class="text-highlight">correct amount</span> and only for the <span class="text-highlight">correct duration</span>. Also, the physician must <span class="text-highlight">stress to the patient</span> that the <span class="text-highlight">full course of the drug must be taken</span>. This is recommended <span class="text-highlight">even if symptoms resolved before the end of the prescription</span> and parents of children on antibiotics need to ensure they complete their course as well.”`,
     solution: `The lecturer talked about the dangers of keeping drugs. He indicated that leftover drugs are dangerous because they may be accidentally taken by children. In addition, patients may use their drugs after their expiration date and the leftover drugs may be taken for the wrong decision. Finally, he strongly recommended that both patients and their parents can take important steps to improve the situation of the inappropriate use of drugs. _(70 words)_`,
     keywords: [],
     mainIdeas: [
       `The lecturer talked about the dangers of keep drugs. He firstly indicated that leftover drugs are danger because they may be accidentally used by children.`,
-      `Inaddition, patients may be use their drugs after their expiration date and leftover drugs may be taken for wrong decision.`,
+      `In addition, patients may be use their drugs after their expiration date and leftover drugs may be taken for wrong decision.`,
       `Finally, he concluded that both patients and their parents can take important steps to improve the situation of inappropriate use of drugs.`
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-4.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=WHRrzsOAGHtF2VQQ%2BWIEOIk%2BCbQ0eq70LUuYMEWUYJXqpuM8SWRH3rjbXJxWxx%2F1OWngIfSf8SshcodqboemO0IGCjP2kgl%2BGNOowtpRjiGwQelGyIHtS8woZz0kAza1VFlYBRzQeujVZrgHDx%2FDpkg5k3nPkQqEd%2FAR2r8dVvfxTIAdcXm%2Bh%2FYztdVBRaMyQz%2FnvgMmok5YlPuTZyg6DC235g9IlloyhM%2BwtvqVpEHQnt%2FfYD%2FV8clk22c7zt033b%2FdsKtFV0mMbiPxBhB7UiZJOe%2BFY9aVqEOXHWaUEcemQRGAQPXFgLsNd2n1EvkBmeRr6HJSt7GZTYR7e6dtPA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst218/original/964db1afcb55efff221366e319c40f7b/sst218.mp3?1572433627",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -96,14 +104,14 @@ const SummarizeSpokenText = [
 
   {
     id: 5,
-    topic: "Education Leadership",
+    topic: "Talent war version 2",
     transcript: `The time in late ninety-nineties when <span class="text-highlight">management consultants</span> wrote books with titles such as ‘<span class="text-highlight">The war for talent</span>’, there was a great deal of talk about the <span class="text-highlight">talent wars</span>. Then I think there was the <span class="text-highlight">bursting of the bubble</span> with the bursting of the dark karma book and a sense of the people who had been <span class="text-highlight">masters of the universe</span> just a few weeks before were out on the streets looking for jobs. I think this created a <span class="text-highlight">reaction</span>, it gave me ideas of that <span class="text-highlight">there was a war for talent</span>, in fact all of the things were saw in late ninety-nineties are <span class="text-highlight">reasserting</span> themselves now, all those shortages are reasserting themselves and the real reason the audit was really the bursting of the bubble not the <span class="text-highlight">shortages of talent</span>. There are very <span class="text-highlight">profound structural forces</span>, which are created these talent shortages. One is the fact that <span class="text-highlight">the</span>nature of the economy<span class="text-highlight">is changing</span>; it’s putting more and <span class="text-highlight">more premium upon intellectual skills</span>, <span class="text-highlight">analytical skills</span>, <span class="text-highlight">creative skills</span>, which <span class="text-highlight">are in short supply</span> so there is a demand increase but there is also a <span class="text-highlight">decrease incline</span>. Because we’re seeing now the <span class="text-highlight">age of baby pool</span> the <span class="text-highlight">shirking of population</span> in Europe, Japan and not very long in China as well and the sort of stabilization that the population of the United States. So we see a time when there is a greater demand for <span class="text-highlight">intellectual skills</span> and slowing down in the supple of people who possess those skills and also a <span class="text-highlight">mismatch between the sort of things that people are learning at school</span>, when university and the sort of things the economy is placing a premium on, particularly with the <span class="text-highlight">shortage of trained people in the sciences and engineering</span> so for all sort of reasons there’s a <span class="text-highlight">premium on talent</span>.`,
     solution: `The lecturer talked about the talent wars and the shortages of talent. She firstly introduced profound structural forces, which are created the talent shortages. In addition, she indicated that there was a greater demand for intellectual skills and slowing down in the supply of people who possess those skills. Finally, she emphasized a mismatch between what people are learning at Universities and what the economy is placing a premium on. _(70 words)_`,
     keywords: [],
     mainIdeas: [
       `The talent wars and the shortage of talent.`,
       `Profound structural forces which are created by the talent shortages.`,
-      `There was a greater demand for intellecture skills and slowing down in the supply of people who possess those skills.`,
+      `There was a greater demand for intellectual skills and slowing down in the supply of people who possess those skills.`,
       `A mismatch between what people are learning at university and what the economy is placing on premium.`
     ],
     fillInTheBlank: "",
@@ -173,6 +181,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-8.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=c2QV2ZvlY3oyAc9d3ijVonRRV3JLvbkJPnxOCZV%2F5cl6qwmBUzKJW7FE6w4YcMJts%2FH%2FxERPgM5tR34vh44sO4RQ%2FlnxsaXjgFNREIo8ZMVg8sbONZqvHAehR11DYTlK7dzcbmxJNwGDN92ON2nHDRT%2BOG37OP8FNJTpShfhwzn62UzVnnM4SA4xDxtQy8Arq2NdQZ%2F7yK%2FEOe84ZIQ%2FX2B48GfI%2BTnLQPMoHxbSI%2FhEtbGjWB%2FCdilbVlcFIGkDHRJhBo2gDCMUdLxKH7VVj4NCd9Jdymb7kRvM55VtF2jz35t7M5EAvE5KTOfDvzFp8iK05RjvfLQUHKxo8YaAgg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/219/original/a4223c051c9e4e83dfe0887513965e25/219.mp3?1571065184",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -194,6 +204,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fseh4b6t5melfwanp0wemri-sst-9.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=EOTo%2FUTgZvZYz08v1HUTaFZIhjjWGUeAn%2Fla1HcvAda0S%2BSMLRFgl0OZ29MtoOR5ZIR9c4C%2B2hACUKGWoZKOphc5K4DtJdwdQqj5tXmqrDOg58Tfs8Ven%2FCS2d2aZq1R6GbTUayJjLw6ZzrB8%2Fql7jhhyTUWbKh0QYuCrhywX7E5aynVh4LATj57wZ%2BWoqEBUneghw5b6pmJF1UA9KoQgPFiH%2BmFPZ2NsFAgy0gzcrdMm3jh80ytquPlRxdI9oAsR46ExWYjJTtElnfR9CRJM0ACE535InP8OO1IyJ%2B%2BbmV8yrQO9ukCkFlHz1W3gDCDHmCeNHbLqIgv0CIarNTmFg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/d13d44ccdcea4bbbbbe8e7e65b0148b1/original/3a66d5226fdbb3c905d32117cf24e30b/d13d44ccdcea4bbbbbe8e7e65b0148b1.mp3",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -202,7 +214,7 @@ const SummarizeSpokenText = [
 
   {
     id: 10,
-    topic: "Universe",
+    topic: "Universe (or Einstein)",
     transcript: `For thousands of years, <span class="text-highlight">philosophers and astronomers</span> think of all sorts and imagine of <span class="text-highlight">the universe</span>, <span class="text-highlight">this space around us</span>. It's <span class="text-highlight">rather like a constant</span>. It was <span class="text-highlight">fixed and unchangeable</span>, and things happened in it. Just as <span class="text-highlight">people walk around</span>, so <span class="text-highlight">stars</span>, the <span class="text-highlight">comets</span>, the planets, and the other heavenly bodies<span class="text-highlight">moved around and trace down their parts on this completely</span>unchanging status space<span class="text-highlight">. In the 21st century, as</span>the result of Einstein's work<span class="text-highlight">that</span>fixed and unchangeable<span class="text-highlight">universe</span>was completely transformer<span class="text-highlight">. We began to understand that the universe is</span>absolutely not fixed<span class="text-highlight">state stage of space at all on which also listed emotions played out. But in some sense on</span>a larger scale in the universe<span class="text-highlight">, the space itself was</span>the state of a continuous dynamic change<span class="text-highlight">. That was</span>the prediction<span class="text-highlight">but it that wasn't Einstein who had the honor of</span>making discovery__ that our universe was really like that.`,
     solution: `The lecturer talked about the universe, which was fixed and unchangeable. He firstly introduced about many concepts including stars, comets, planets, and other bodies moving around the space. Additionally, he argued that the view of the universe was completely transformed as the result of a scientist’s work. Finally, he concluded that the space itself was the stage of a continuous dynamic change on a larger scale in the universe. _(70 words)_`,
     keywords: [],
@@ -215,6 +227,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Ffiles%2Fmrm2ppqegv1yidsgv16vv-sst-10.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=YJEiW3S8oTABKT0ZZLr2uAKqr6YlEjDLKNdfhz6jDTLoLQCNErXK4NsYRnBK4sA0GpZ7xPqpBueEC%2BH6wX58%2FOv833vXxMJD%2Fqn5r9fm0ym2Pqq8YCQpHwiLdXVaF3z0SJ3C4K8w2ADZbHsMCcN2IO%2BCmgQ9jidQ7vcbAB9JmJIT%2F%2B5MZAcjELEF%2FfkmLQsYBU%2FZyCOCCoc05ImYy62GfjwLOtgnoI%2FTKeuvvo6Mk2ex5Wt5QECn%2B0Qg37Im%2BiNxT66UtifjntDvJL4ExYPekhfNCtJxY7y0fOTBmMLc%2Bbz5%2F8ldAkDVdPaV4otzKJZcd1Jtr10GyrNyiMLW%2BnRwTw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/sst214/original/16f9cae45b7d0ed3df46529d1f19ce07/sst214.mp3?1572433576",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -235,6 +249,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-12.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=QtPW%2BYb534BA3iJbz%2FqnWkEtQ3u7O8NeVvkm6DZ88Fa%2BhWOKwqoY1%2F3OZlOOvzoovb%2BlBbhyfD8M4ls45B%2F9q6hwp4wQwPjRIRG2udqTTE3TNclJHG37k4z6QeJDAjOjyfAJx8BEfkTqkXxUxzhkqLbGQFURIl4x8oQQgSqWUZz0RJz2GBoUZLXf8me1zN5UmU%2BWZ33nwpJ6YOKhO5lPQmGHSuY0cQAcFA7vl8Lg8mN%2BY%2FcMEKDekk3b7VksItoMHrOBCx%2B7Yx7Jg4rQxao%2BQQ9TZNW66EmBDVZLbOXMr0uNnTEB0QBLj7bG0bMG%2B6wBhEl3BthXomfbmX5F4CZ2eg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Laughter/original/13b62fead9a36aedbafea0bea78673ff/SST_Laughter.mp3?1551945716",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -256,6 +272,319 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-13.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Ltty8wxW3laF5ap%2FKGIgN8ipX3oP0qM5mxOQwTsQyJtgqP%2Ff7Sq662Y9NhDzXci1yyUXntIYXO0%2FdfnurMhb1m3F4VK0dDkW0p4sCATSZnpuDdZvon52LbTb4070%2Bh5Il7ei3eyXRhUYwgdX8yuSym9w%2FuTGsSRCL1ftDfTkSDlnkWe1y9gmxI%2BPXkMAy4Iv3iJtjS2lUzJ4OZMZhBxJgROey3fwKGfPJvat8pYECXdhifJ5S%2BOqJXSv8Idv1UBl5EKsE6mIXWdJQq0k0tx7aAc%2BaSkfD5o%2BHqaS%2FMFGXFlYEew6VmTNUqXet2tZ3Va1OdlNbBWpYvKACxFfMqEX6g%3D%3D",
+    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Identity/original/e1a07da6a1f4996dbd101cefbc7f71a9/SST_Identity.mp3?1552375648",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 14,
+    topic: "Clean Water",
+    transcript: `Today I want to talk about <span class="text-highlight">water</span> and the <span class="text-highlight">law</span> that surrounds <span class="text-highlight">drinking water</span>, to talk about its <span class="text-highlight">quality</span>, talk about what <span class="text-highlight">your rights</span> are to <span class="text-highlight">clean water</span>, to also give you a sense of what <span class="text-highlight">key</span> <span class="text-highlight">threats</span> are to <span class="text-highlight">drinking water</span>, what your <span class="text-highlight">exposure</span> might be, and what we might to do about it, both <span class="text-highlight">legally</span> but also <span class="text-highlight">personally</span>. <span class="text-highlight">Water</span> is a <span class="text-highlight">critical component</span> of our <span class="text-highlight">environment</span> and our <span class="text-highlight">bodies</span>. Your body is close to <span class="text-highlight">70 percent</span> water. You can <span class="text-highlight">go</span> for <span class="text-highlight">several weeks</span>, <span class="text-highlight">two</span> or <span class="text-highlight">three</span> on average <span class="text-highlight">without food</span>. You can only go for about <span class="text-highlight">four minutes</span> <span class="text-highlight">without air</span>. And you can go for maybe <span class="text-highlight">four</span> or <span class="text-highlight">five</span> <span class="text-highlight">days</span> <span class="text-highlight">without water</span> before you <span class="text-highlight">die</span>. So <span class="text-highlight">water</span>is absolutely <span class="text-highlight">critical</span>. And one of the <span class="text-highlight">key</span> <span class="text-highlight">arguments</span> I want to make today is that it's a largely <span class="text-highlight">neglected area</span> of <span class="text-highlight">environmental law</span>, given the <span class="text-highlight">rapid increase</span> in our <span class="text-highlight">knowledge</span> about <span class="text-highlight">chemical threats</span> to <span class="text-highlight">water quality</span> and where those <span class="text-highlight">threats</span> come from.`,
+    solution: `The talk delineated a detailed picture regarding water and the law that surrounds drinking water. The lecturer firstly had a discussion about water’s quality and people’s rights to having clean water. In addition, he also indicated that water is a critical component of people’s environments and bodies. However, there were key threats to water quality due to a rapid increase in chemical issues and largely neglected area of environmental law. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Detail picture  regarding **water** and the **law** that surround **drinking water**.`,
+      `**Water’s quality** and people’s rights of having **clean water**.`,
+      `Water is a **critical  component** of people’s environmenta and bodies.`,
+      `One of the key arguments is the **environmental law** and we need to increase our knowledge about **chemical threats** to **water quality** and where those threats come from.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-14.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=UlcwVVUZzD1Kmzl7uRQkulUKf7aTuizIO8HO6HQpVLPsfMXxMTyjZ04DUVZE2WFKqyS1yYYgsm1MGYmasv6QpBbCxa1Qt0HuBmNIwrfLsFyH5Mo5sdchQQlr7ylVZPMdTwFZzueIyajOPwboFsQixAotpYwNoiI2bsHGiPcqW4Mir%2Bu6Vl61ZJcBLxv3pC8aXVQ89yj6sRirAuieQonZAzIO6stW5WGLfOO3I%2FJA00EHrcnknEgAwi26HJK%2BSBRNUzTfHrkSBnGYXqjOv4XQXoNzU3xeiZ5t4%2FXc3rFvkAqK%2FSNs2%2FQdiFcoQoC2mlXqIG0KbdWSVyQf0gUcl%2F2FjA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/safe_drinking_water_SST/original/0008cad5385044ed2cd43bdeb2b2fb63/safe_drinking_water_SST.mp3?1536809904",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 15,
+    topic: "Vitamin D",
+    transcript: `So, today we're gonna  finish talking about the <span class="text-highlight">effect</span> <span class="text-highlight">side</span> of <span class="text-highlight">vitamins</span>. We start with <span class="text-highlight">vitamin D</span>. And I think probably most of you know that vitamin D is <span class="text-highlight">called</span> the <span class="text-highlight">sunshine vitamin</span>. It's called that because there's absolutely no  <span class="text-highlight">dietary need</span> for vitamin D if you <span class="text-highlight">adequate</span>   <span class="text-highlight">sunshine</span>. And the real <span class="text-highlight">important</span> word there is if because it turns out that  in  <span class="text-highlight">climates</span> which aren't  <span class="text-highlight">near</span> the <span class="text-highlight">equator</span>, there’s a <span class="text-highlight">big</span>   <span class="text-highlight">question</span> as to whether human beings get  <span class="text-highlight">enough</span>  sunshine. That's important because <span class="text-highlight">fruits</span> are not<span class="text-highlight">naturally</span> <span class="text-highlight">abundant</span> in <span class="text-highlight">vitamin D</span>, and that's why <span class="text-highlight">milk</span>  is  <span class="text-highlight">fortified</span>. But the <span class="text-highlight">fortification</span> may not be <span class="text-highlight">enough</span>. So again, if  <span class="text-highlight">exposure</span> to  <span class="text-highlight">sunlight</span>  is  <span class="text-highlight">adequate</span> ,  <span class="text-highlight">no need</span> for  <span class="text-highlight">vitamin D</span> . So vitamin D really isn't a vitamin, it's a  <span class="text-highlight">pro-hormone</span> . When <span class="text-highlight">human beings</span> <span class="text-highlight">evolve</span>, we evolve in <span class="text-highlight">tropical climates</span> and run around naked, there was plenty of <span class="text-highlight">skin exposure</span>  to  <span class="text-highlight">sunlight</span>, and so there was  <span class="text-highlight">no dietary need</span>  for vitamin D. As humans <span class="text-highlight">migrated</span>  away from <span class="text-highlight">equatorial regions</span>, they actually created a <span class="text-highlight">need</span> for <span class="text-highlight">vitamin D</span>  in  <span class="text-highlight">food</span> because sunlight was <span class="text-highlight">inadequate</span>, particularly during the <span class="text-highlight">winter</span> and especially if you have to  <span class="text-highlight">wear clothes</span>.`,
+    solution: `The lecturer talked about vitamin D, which is called the sunshine vitamin. Vitamin D is not a vitamin, but a pro-hormone which is necessary in food for people who do not get adequate sunshine. In addition, people migrating away from equatorial regions need this type of vitamin. However, foods are not always naturally abundant in vitamin D and people do not need it if their exposure to sunlight is adequate. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `1.	The lecturer talked about **vitamin D** which is called the **sunshine vitamin**.	`,
+      `2.	If climates are not near the quator, human can not get enough the sunshine. And we know that if exposure to to the **sunlight** is **adequate**, no need for vitamin D.`,
+      `3.	Vitamin D  really isn't a vitamin, it’s a **pro-hormone**.`,
+      `4.	We need for vitamin D in **food** because sunlight was inadequate during the winter and that is the reason we evolve in **tropical climate**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-15.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=aLbQm1Vfx61wV0Kcque%2Fh25vnRag4Y8kpyyt6Ky7qhfsFLtAGuB0SvMP%2F8uMJFZPOoQTUKLqUzTFDeM9GOnIgqjUMZcKDHgn9TqVBrBuYbxSEJAuSxxUytsLrOrC2AhntABytzXi1T%2Fyp5VljtSomAa7P3z%2F7hiaE357hFroMUwGU%2F3z2evJ3Zu3zJ2C4Ory3Zbgp7I97QO1hp90Mx1%2FWwvjRHSwD4QrrJ47WbPVWPFZAPKkLUrBKQTa2CyL0ecGdSAgBsGS095IQ9ay64OdwBqMW4rdl6kzoAgSPBwPm076TbTpFiY05pGtX7iWNmhrfKI2hSwZCBMrTORqxGV%2FKw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 16,
+    topic: "Analysing Questionnaires",
+    transcript: `Questions can be divided into <span class="text-highlight">three types</span>. This is sometimes called level of <span class="text-highlight">measurement</span>. Firstly, we have <span class="text-highlight">category</span>  <span class="text-highlight">type questions</span>, which are also known as <span class="text-highlight">nominal</span> <span class="text-highlight">questions</span>. These are when <span class="text-highlight">participants</span>  <span class="text-highlight">select</span>  from a list of <span class="text-highlight">categories</span> for their  <span class="text-highlight">response</span> , such as <span class="text-highlight">male</span> or <span class="text-highlight">female</span>, or they may include <span class="text-highlight">ethnic origin</span>. Secondly, we have <span class="text-highlight">ordinal</span>  <span class="text-highlight">type questions</span>. These are <span class="text-highlight">similar</span> to category questions. But instead of the categories being <span class="text-highlight">independent</span>, there is some sort of <span class="text-highlight">order</span> between them. If we ask people to  <span class="text-highlight">indicate</span>  their  <span class="text-highlight">age</span> in categories, this is an  <span class="text-highlight">ordinal</span>   <span class="text-highlight">type questions</span> . Thirdly, we have <span class="text-highlight">continuous</span>  <span class="text-highlight">questions</span>. These are any question that can be  <span class="text-highlight">answered</span>  by a  <span class="text-highlight">number</span> . It could be an <span class="text-highlight">open-ended</span>   <span class="text-highlight">question</span>, asking participants to tell you how many  <span class="text-highlight">times</span>  they  <span class="text-highlight">attended lectures</span> , or how often they  <span class="text-highlight">use</span>  the  <span class="text-highlight">valley</span> .Or it could involve asking them to write the <span class="text-highlight">importance</span> or <span class="text-highlight">intensity</span> of some <span class="text-highlight">experience</span>. The reasons are to remind you the type of questions is our <span class="text-highlight">choice</span> of <span class="text-highlight">question</span>, this type of tough <span class="text-highlight">analysis</span> we can use. Therefore, it’s <span class="text-highlight">important</span> to get our <span class="text-highlight">questionnaires</span>  <span class="text-highlight">correct</span> in the first place.`,
+    solution: `The lecturer talked about three main types of questionnaires and introduced some terms to use when analysing responses. He firstly mentioned the category type questions, which are called nominal questions. In addition, he provided information about ordinal questions which are similar to category questions but there is some sort of order between them. He finally discussed the continuous questions that can be answered by a number, including open-ended statements. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Three main types of **questionaires** which is sometimes called level of **measurement**.`,
+      `The **category type questions** which are called nominal questions.`,
+      `Information about **ordinal questions** which are similar to category questions but there is some sort of order between them.`,
+      `The **continue questions** that can be answered by a number.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-16.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YcidM3kw5QVOL6cnch9dXv%2BL4XdgBEA0quNsfUenbrDNsJ93mQ%2FYoKEfIK63LaQNUAc38KSfl8c8vHDARKjtzwkNEgzmd2gj7QeLqqqrylUFX39KRJEQFfmnMtQI1uakgrOW1JUI5oLQIOLCGoibWwVma1Y53ig21AWl%2FQ%2FHusdEZp%2BuQLZ%2BokyPAm5WTmt2PKVshfjJlO8ZUGmrigcOm%2FCu37htW55G533M2jSYytrZ9rJ1EyXw3pF9ZSoZlyA5NkLC57PK%2FFWvbMYDysxVNmXnVp06RSOUSRWbJTMb6nOzOZ3oG5IXLiaX0G83kyY57qcFsIj47W42T5XWwvDDxw%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 17,
+    topic: "History of software",
+    transcript: `The <span class="text-highlight">history</span>  of  <span class="text-highlight">software</span> is, of course, very, very  <span class="text-highlight">new</span>. The  whole <span class="text-highlight">IT industry</span> is is really only <span class="text-highlight">67 years old</span>, which is <span class="text-highlight">extraordinary</span> and to be so close to the, to the  <span class="text-highlight">birth</span>  of a  <span class="text-highlight">major new technology</span>  and  <span class="text-highlight">aging</span>  <span class="text-highlight">new discipline</span> , is quite remarkable given where we got to in those  <span class="text-highlight">67 years</span> . And, and the <span class="text-highlight">progression</span> has been not so much a progression as a <span class="text-highlight">stampede</span>. Because Moore's law, the <span class="text-highlight">rapid</span>  <span class="text-highlight">expansion</span> in the  <span class="text-highlight">power</span> of <span class="text-highlight">computing</span> and the <span class="text-highlight">rapid</span>  <span class="text-highlight">fall</span> of the <span class="text-highlight">cost</span>  of  <span class="text-highlight">computing</span> and <span class="text-highlight">storage</span> and <span class="text-highlight">communications</span>, has made it <span class="text-highlight">feasible</span> for information technology to <span class="text-highlight">move</span> into <span class="text-highlight">all sorts</span> of <span class="text-highlight">areas</span>  of  <span class="text-highlight">life</span> that were never originally <span class="text-highlight">envisaged</span>. What has happened is that there has been, as I said, a <span class="text-highlight">stampede</span> for people to pick the low hanging fruit. And that is what's <span class="text-highlight">guided</span> the <span class="text-highlight">development</span> of <span class="text-highlight">software</span> and <span class="text-highlight">information technology</span> over the past decades and <span class="text-highlight">continues</span> to do so. With a number of <span class="text-highlight">consequences</span> that we will <span class="text-highlight">explore</span>.`,
+    solution: `The lecturer talked about the history of software which is very new. He introduced that the whole IT industry is only 67 years old, which is extraordinary and remarkable. Additionally, the rapid expansion in the power of computing and the rapid fall of the cost of computing and communication made information technology become feasible. Finally, he concluded that IT moves into all areas of life that people never originally envisaged. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The **history of software** which is very **new**`,
+      `The whole **IT industry** is only 67 years old. Which is remarkable.`,
+      `The rapid expansion in **power of computing** and the the rapid fall of the **cost computing** and **communication** made information technology become feasible.`,
+      `It moves into all **areas of life**`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-17.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=cm3TNzkHy3JKuBCzL5jQBFqVN5111nwj1Wg68kquW9HE4W1qFXXbbnLt1JTjFODRfYBnroA5zh0BcVr3tOzI5yGKWwt3ND5FTFaTqKUtYKB95%2BfkJin4pRQjbNAzUlzMIIerS14j4bJ7SVfVrltK%2FztAxdLesXhHVU%2Bm8mQ6pjT1kD9FTxrSMJQbyU3KZu1scWhEewTJN2GSKwD2arz2HPWp0PhGXRnToiCwEv3GjM4BWlkqDrf9Ccw%2FOT1JO1pSplIFH2vRkxxDIAfS4rd9EyaeJ7dao7uK1IhBScWBVnf2yOvAR41lcqo%2FrsUDCUNcriSa7LTUJs%2F0TRHO4JiMdw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/1687fd386267fbf5b2c8/original/52894c59f44ae064ffefe4ba112d0ce1/1687fd386267fbf5b2c8.mp3?1557392410",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 18,
+    topic: "Why Read Plato’s book? (The Republic)",
+    transcript: `Why should we <span class="text-highlight">read</span> the <span class="text-highlight">Republic</span>? There might be lots of students asked this question to themselves given a set book at the beginning of their university course. But in fact there are many good  <span class="text-highlight">reasons</span> to read the Republic and the first one I would pick on is just that it is  <span class="text-highlight">immensely</span>  <span class="text-highlight">readable</span>. It's not <span class="text-highlight">Plato</span>  did not write <span class="text-highlight">philosophy</span> like a <span class="text-highlight">dry text book</span>. He wrote it like a <span class="text-highlight">living conversation.</span> The whole of the Republic, which is a fairly fat  <span class="text-highlight">book</span>  is a living conversation written in short almost sound bite  <span class="text-highlight">type answers</span> , but nevertheless <span class="text-highlight">developing</span> some very, very <span class="text-highlight">important ideas</span>. So my first answer, then we should read the republic just because it is readable. It was <span class="text-highlight">written</span> by a <span class="text-highlight">genius</span> and it's <span class="text-highlight">worth reading</span>. It's <span class="text-highlight">easy</span> to <span class="text-highlight">read</span>, it's <span class="text-highlight">not difficult.</span> But then there's also obviously the the thoughts, the  <span class="text-highlight">content</span> of the book, and he's asking this absolutely <span class="text-highlight">fundamental question</span>, why should we bother to be good? What's in it for us effectively? It seems when we look at the world that looks as though injustice pays, it looks as though crime pays, or as the good people get trodden down, so Plato <span class="text-highlight">addresses</span> this absolutely <span class="text-highlight">fundamental question</span>. Why should we be good? I'm not going to tell you his answer, read the book. And then there's, he gives. It's a <span class="text-highlight">thought-provoking book</span>. So first of all, what I'm trying to say is it's <span class="text-highlight">accessible</span> to anybody to read, and it will provoke people to think. He asks the question, <span class="text-highlight">what is</span><span class="text-highlight">justice</span>? He gives an <span class="text-highlight">astonishing answer</span>  and answer this bound to make anybody think because it doesn't frame the answer in terms that we would expect, like  <span class="text-highlight">justice</span>  is to do with <span class="text-highlight">equity</span> or how you <span class="text-highlight">deal with</span> other <span class="text-highlight">people</span>, your  <span class="text-highlight">friends</span> your  <span class="text-highlight">family</span> , the  <span class="text-highlight">world</span>   <span class="text-highlight">around you</span> . He frames an answer in terms of how you should <span class="text-highlight">structure</span> the <span class="text-highlight">different parts</span> of your  <span class="text-highlight">mind</span> as an <span class="text-highlight">individual,</span> so that you can become adjust person within yourself and then act out that <span class="text-highlight">justice</span> in the outside world. So you know, that's a <span class="text-highlight">typical</span>, <span class="text-highlight">thought-provoking</span> <span class="text-highlight">answer</span> that he gives to a  <span class="text-highlight">fundamental</span>  <span class="text-highlight">question</span> . This is why we should read the Republic.`,
+    solution: `The lecture talked about an immensely readable book, which is accessible to anybody and easy to read. He firstly emphasized that this book was written by a genius with important ideas. Additionally, the content of the book focuses on a fundamental question, which is why people bother to be good. He finally concluded that the author gives an astonishing answer which is not framed as what people would normally expect. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `There are many good reasons to read the **Republic** because it is **immensely readable**. For example Plato wrote philosophy like a living conversation.`,
+      `This book was written by a genius with important ideas which help you to deal with other **people**, your **friends**, your **family**, the **world** arround you.`,
+      `The content of book is addressed by **fundamental question** and **astonishing answer**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-18.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=LgbruLgIF2mWYiBZWh4LBn%2Bn3muqgmclb7dGD6HowVe09j6WZq%2BfmmIPuEYQVWjWebf4Lw6yupOD4%2B9jV6ncMkUds3VDv7R%2FOwndGt87fNnMfKdHAW4CcFIr6uDo0oW2s1NiM%2B8CfqVP9ew0wrOE2fiKQ3qITzMCzjezbcBTJONH3haZU9lR%2FWgadnrQeLlVCL4A271CuIx9HJVmDkfI%2BnDSyC2%2BaKMvk14jns8tn%2Fy9ib8tf%2Bq4KkV%2FiOzucv2aLh49ar5tiKSh9B1saa%2BphhyGELTm3RMe1fAAscuIMTBVQb44Oeh5aKc8i9tsp52dR0yWxMvZ%2Bvsao0BO7jqhIA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/4f3b91ea9779d3f501f3/original/375e680ce684c5e64b25b41e65ae673e/4f3b91ea9779d3f501f3.mp3?1557394298",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 19,
+    topic: "Secret Life of Bees",
+    transcript: `I have been <span class="text-highlight">writing</span>   <span class="text-highlight">nonfiction</span> <span class="text-highlight">for years</span> actually, and but secretly <span class="text-highlight">wanting</span> to be a <span class="text-highlight">novelist</span>. When I first <span class="text-highlight">started writing</span> at the <span class="text-highlight">age of 30</span>, it was with the  <span class="text-highlight">intention</span> of writing  <span class="text-highlight">fiction</span> . But I <span class="text-highlight">took a little detour</span> for 10 or 12 years and <span class="text-highlight">wrote nonfiction</span> which I have absolutely <span class="text-highlight">no regret</span> about at all, I think was exactly <span class="text-highlight">the right thing</span> for me to do. But there was that <span class="text-highlight">dream tucked away</span> inside of me to do this. Now remember reading something that Eudora Welty wrote who is, you know, the <span class="text-highlight">great novelists</span> from Mississippi who had a  <span class="text-highlight">big</span>   <span class="text-highlight">influence</span> on me. Actually, she said, **_no art ever came out of not risking your neck_**. And I think she's absolutely <span class="text-highlight">right</span>  about that. It felt that way to me at the time and actually feels that way to me. Every time I sit down to write something. Finally, in the  <span class="text-highlight">early 90s</span> , I <span class="text-highlight">took</span>  my <span class="text-highlight">deep breath</span>  and started <span class="text-highlight">writing fiction</span>. It felt risky to me at the time to do that. And one of the very first things that I wrote was what I thought was going to be the <span class="text-highlight">first chapter of a novel</span> called <span class="text-highlight">The Secret Life of bees</span>. I <span class="text-highlight">wrote</span> it <span class="text-highlight">in 1992</span>, and it is actually essentially the first chapter of the novel as it is now.`,
+    solution: `The lecture talked about an immensely readable book, which is accessible to anybody and easy to read. He firstly emphasized that this book was written by a genius with important ideas. Additionally, the content of the book focuses on a fundamental question, which is why people bother to be good. He finally concluded that the author gives an astonishing answer which is not framed as what people would normally expect. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The reason why the **noverlist** wrote a **fiction** named **The secret life of bees**.`,
+      `The author **started writing** at the age of 30 and took a long detour but she absolutely had no regret about it.`,
+      `Influenced bu a famous writer, author decided to write the **first chapter of the novel** in the early 90s although she felt a bit risky at that time.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-19.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=aEZe63r99OjlI5lhvM0iFCUL3HonWBvhw7bn0cH3ATcvH09sUTVR6uwJmHlPpaR4yobVI8F5qeA1x64nFWaIjxJSTCCUn9g3R%2BKVh2swcuSx63N3H8gyxi2I9V2Wn9tvoe494MZXRPmZhjG9vSPtOJMQ0OWhP1U%2BLZ7UXCgmSWWs4jMqK10W4%2FlYg0BW7HU3zBuv56T6GDEm3DsJPaXLVmeq%2F4kSN1fOdD5b3MKx5WVS4CcaP7SfCbLe32Whsdo3NAUBP5ulZhAm98V1B2GE5SSLbpU6G4JWcDNGCaOyW9%2FGuzdhDpDOyz8woWm3aMwxKAQhjacT203ma8GiWgwSsA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Secret_life_of_bees__/original/914010d2bc78dd8c6d066db406ddb181/Secret_life_of_bees__.mp3?1536827459",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 20,
+    topic: "Spectacles",
+    transcript: `Normally, however, <span class="text-highlight">spectacles</span> are part of an  <span class="text-highlight">assemblage</span>  of items, giving us an  <span class="text-highlight">overall</span>  ‘<span class="text-highlight">look</span>’. In <span class="text-highlight">fashion terms</span>, they are classed as ‘<span class="text-highlight">accessories</span>’ along with shoes, jewelry, handbags or watches. But in <span class="text-highlight">healthcare terms</span>, they are of course a <span class="text-highlight">medical device</span>. And in many  <span class="text-highlight">languages</span>  other than English, they are often described as a ‘<span class="text-highlight">prosthesis</span>’, an <span class="text-highlight">artificial</span> <span class="text-highlight">part</span> of the  <span class="text-highlight">body</span>, part of you, making you who you are. <span class="text-highlight">Choosing</span>  your  <span class="text-highlight">spectacles</span> is, therefore, a <span class="text-highlight">major decision</span>. Increasingly people own <span class="text-highlight">two or more</span> <span class="text-highlight">pairs</span> for <span class="text-highlight">different occasions</span> or <span class="text-highlight">times of the day</span>. There is a phrase for this in the industry. It’s called ‘<span class="text-highlight">lifestyle dispensing</span>’ and it  <span class="text-highlight">dates back</span> to the  <span class="text-highlight">1950s</span> . The idea is that you wear  <span class="text-highlight">one type</span> of spectacles in the <span class="text-highlight">workplace</span> and quite another <span class="text-highlight">at leisure</span> or <span class="text-highlight">on the beach</span>.`,
+    solution: `The lecturer talked about spectacles which are parts of an assemblage in many industries. Spectacles are not only used as accessories in fashion terms, but they are also utilized as medical devices in healthcare terms. In addition, being described as a prosthesis, spectacles are artificial parts of the body making humans who they are. Therefore, it is important to choose spectacles for different occasions or times of the day. _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `**Spectacles** which are parts of an **assemblage** in many industries.`,
+      `The spectacles are used in both **fashion term** and **healthcare term**.`,
+      `This is a **artificial ** of the body so choosing your spectacles is a **major decision**.,`,
+      `People own **two or more pairs** for **different occasions** or times of the day.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-20.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=hqmX7fW3s%2F6dnG1fVZ32fp8kX2DJtl2edx5tbECQWGW69C38CxlCCJc3ZJOTS0e1sEbuU9TOgM6mNOGMtdjCrC%2BRJzQTAq8QJDieDO3HrL6VUPIxm8QqxhynJ86UmSkFSFzfjIYRZl%2F7Z7eBZBzftvkqx0fzLWkaHHhyjlfFp5NPU1EKtE6KVlpLz3FRXsyG43cvuhQfgGnA%2BFAaGPDbQH7N0n%2F00%2BjTZrADccz%2BkWuYa0prJUZxL2GAoDdMC7JGdKpE5t9iRdUwMkOSC4U3kbJxStmvIxFu1MxvKfD5zYJSTBvTW%2BqYmfbh3vuYVIo3AxDEoH3XJJ7E76FNlbX6Kg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/a872a7ac2fc6479bb0d632319cd7c443/original/cd3fb8c30603e21aadc883e22b7d23f9/a872a7ac2fc6479bb0d632319cd7c443.mp3",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 21,
+    topic: "Light Bulbs or Energy Consumption",
+    transcript: `This is a 40-watt <span class="text-highlight">light bulb</span>. If you leave it on all the time, it uses one kilowatt-hour every day. And it's possible to express all forms of <span class="text-highlight">power consumption</span> using  this unit of the light bulb. I started <span class="text-highlight">measuring</span> everything around my <span class="text-highlight">house</span>, around my <span class="text-highlight">office</span>. And I found some surprising things. First, a plug of a <span class="text-highlight">phone charger</span>. And it didn't even register on this power meter. It uses one hundredth of a light bulb of power. So I don’t think the <span class="text-highlight">phone charger</span> is gonna be our <span class="text-highlight">number one form</span> of <span class="text-highlight">energy consumption</span>. Just taking one  <span class="text-highlight">hot bath</span>  every day uses the  <span class="text-highlight">same energy</span> , <span class="text-highlight">same power</span> of five light bulbs on all the time, non-stop. And I found I've been steadily using 40 light bulbs worth of <span class="text-highlight">gas for heating</span>, making <span class="text-highlight">hot air</span> or <span class="text-highlight">hot water</span>. And that surprised me. <span class="text-highlight">Transport</span>  is  <span class="text-highlight">one</span>  of the  <span class="text-highlight">biggest forms</span> of energy consumption, and it uses about a <span class="text-highlight">third</span> of our <span class="text-highlight">energy</span>. If you drive an average car 50 kilometers a day, that car forms too having 40 light bulbs on all the time. Today, the average <span class="text-highlight">British person</span>  is using 125 light bulbs of power. That’s 125 light bulbs on all the time, nonstop. That’s <span class="text-highlight">huge</span>.`,
+    solution: `<p>The talk delineated a detailed picture regarding forms of energy consumption. The lecturer firstly provided many examples of power consumption by using the unit of the light bulb to measure everything around his house. In addition, he found that transport is one of the biggest forms of energy consumption. Finally, the aforementioned discussion emphasized the fact that British people are using a huge amount of power in their daily lives. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `He  measured power consumption in his house and his offic such as phone charger, hot bath, hot air, hot water by a  **light bulb**.`,
+      `Transport is one of the biggest forms of **energy consumption** which is about third of our energy.`,
+      `The the average **British person** is using 125 light bulbs of power. That is huge.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-21.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Yte0PdlqvOdRNapqERAXRdwbQZJMVmtGA%2BQL99Qwj41JVDx7PT7TN8gaqP2vJPzg0Br6aAIGOLlg44NmtI56PWYG35xVcuxu5f%2BMhbUMAshH7FxCBdNzhvwM69hewvx5NRtDjOpY8Awsp3rO4Xz4qJxRQt8dwq8hXJ426iJbUaig6j0gpEA21RFRu76OUq2DpV2oh6WmzJOztYfamGl%2FbxjGsCFQ8vMtMYZ51tx9g6ZW4ECEkXcBrJc6XBby6VbkqhX3wvC%2FqepJGRW9WnpO0xO6mjSpExxtBFFemiD5u3Wd9Ms29jmH2j3tb%2BuCj9RaWZNszMrmMyZioaWzGhLKUA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/how_many_light_bulbs/original/5e5b8bdb405da4aae28c5028fc2c8031/how_many_light_bulbs.mp3?1536807442",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 22,
+    topic: "Fossil Fuels",
+    transcript: `This is talk about <span class="text-highlight">visualizing life</span> without <span class="text-highlight">fossil fuels</span>. We have an addiction to fossil fuels and it's not <span class="text-highlight">sustainable</span> when I say we. I'm talking about the so-called <span class="text-highlight">developed world</span>, the developed world gets 80 or 90% of all its <span class="text-highlight">energy</span> from <span class="text-highlight">fossil fuels</span> and living on fossil fuels for energy. In this way, it's  <span class="text-highlight">not sustainable</span>  for <span class="text-highlight">three</span> fairly obvious <span class="text-highlight">reasons</span>. First, on the left easily <span class="text-highlight">accessible</span> fossil fuels are a <span class="text-highlight">finite</span> <span class="text-highlight">resource</span> and so some point that <span class="text-highlight">resource</span> will be <span class="text-highlight">exploited</span> and humanity will have to do something else. Second, <span class="text-highlight">setting fire</span> to fossil fuels <span class="text-highlight">puts</span> <span class="text-highlight">carbon dioxide</span>  <span class="text-highlight">upstairs</span>. So, we have <span class="text-highlight">climate motivation</span>. The clear <span class="text-highlight">consensus</span> of the <span class="text-highlight">climate science</span>  <span class="text-highlight">community</span> is with substantial aero bars still on exactly what might happen. Their <span class="text-highlight">advice</span>  is this is a  <span class="text-highlight">geoengineering</span> <span class="text-highlight">experiment</span>that was well advised to <span class="text-highlight">stop</span>  <span class="text-highlight">as soon as possible</span>. And third, even if you don't believe in <span class="text-highlight">climate change</span> and even if global fossil fuels aren't running out today, it might be the case that your fossil fuels or our  <span class="text-highlight">fossil fuels</span> in a particular country or state have <span class="text-highlight">run out</span> and you might <span class="text-highlight">depend on</span> other <span class="text-highlight">countries</span> or  <span class="text-highlight">states</span> for fossil fuels in the <span class="text-highlight">future</span>. So, you have a security of  <span class="text-highlight">supply motivation</span> for saying let's <span class="text-highlight">look into</span>  really  <span class="text-highlight">getting off</span>  <span class="text-highlight">fossil fuels</span> in a  <span class="text-highlight">serious way</span>. I find  all three of these  <span class="text-highlight">motivations</span> are  <span class="text-highlight">equally</span> <span class="text-highlight">compelling</span> and I'm just going to take it as given now that we are interested in <span class="text-highlight">discussing</span> <span class="text-highlight">life</span> <span class="text-highlight">after fossil fuels</span>.`,
+    solution: `The lecturer talked about fossil fuels which are unsustainable in developed countries. He firstly indicated that accessible fossil fuels are finite and burning fossil fuels may lead to a significant increase in the amount of carbon dioxide. Moreover, he emphasized that a country may need to depend on other nations for fossil fuels in the future. Hence, the aforementioned discussion highlighted the significance of three motivations which are equally compelling. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `The developed world gets 80 or 90 % of all its energy and living on **fossil fuels**.`,
+      `It is **accessible fossil fuels** are a finite resource and resource will be exploited`,
+      `Setting fire to fossil fuels puts **carbon dioxide upstairs**`,
+      `**Climate change**, countries, states, supply motivation, in serious way`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-22.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=YT8BzfP%2FELuTWwTdQnkwAcTvCB6O7d0klwyCC2vKgSdhhi5S3YzJMf5QqkrEVEV6HixGgMOyv%2FgvnuY5HkE4tj0pzxkRU5ZMcssJ7wOS5xV0VUTR4PQ8fGZtpGCWCwbnlQDpvkovqUSL4Bmnn7eI21q%2B3iFtDYWns7Pid9XP62mp44FSMmjWN7n0xmu5jt6cvnQCusjqW3bUgpzu3bfJRwQzHMUEwK%2BdZgPwT0AbeMKRcvcm3Hq%2FxdMuHk5d2sAaMJ9TKy%2BPCc%2Bq6Y5epSVw1VXo%2BSvB3mYi3MHdsL61bcgkCWStGQOSDu7nZFaMYBRNUA2AbtvklbkD4SNHE0GksA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_fossil_fuel/original/99e960f7641bc35861cf8e3e5a6d630d/SST_fossil_fuel.mp3?1544166666",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 23,
+    topic: "Kids in the museum",
+    transcript: `So, just over  <span class="text-highlight">ten years ago</span> , when I was in the Royal Academy, a  <span class="text-highlight">museum</span> in the centre of <span class="text-highlight">London</span>, with my <span class="text-highlight">three children</span>, at the Aztec <span class="text-highlight">exhibition</span>. I don’t know if any of you saw it. I had an <span class="text-highlight">older child</span> and two <span class="text-highlight">younger children</span>, <span class="text-highlight">twins</span>, strapped in a pushchair, and <span class="text-highlight">one</span>  of my  <span class="text-highlight">children</span>, three years old, <span class="text-highlight">shouted</span> and I’ve never denied he shouted  he shouted, ‘Monster,  monster!’  at this  <span class="text-highlight">statue</span> which looked just <span class="text-highlight">like a monster</span>, had <span class="text-highlight">snakes</span> for hair, a big beak for a nose. And, I thought, this is fantastic – I’ve got a three-year old that’s <span class="text-highlight">appreciating</span>  <span class="text-highlight">pre-Hispanic</span>  <span class="text-highlight">art</span> – how good can it get? <br/><br/> So, I bent down and I said, ‘Yes, it looks just like a monster’. And, at that moment, a room warden came over, a <span class="text-highlight">gallery assistant</span> came over and said we were being too <span class="text-highlight">noisy,</span> and <span class="text-highlight">threw us out</span>. Wrong family. I was, at that time, <span class="text-highlight">a journalist</span> with The <span class="text-highlight">Guardian</span>  <span class="text-highlight">newspaper</span>, and two days later <span class="text-highlight">wrote</span> a big piece in The Guardian about being  <span class="text-highlight">thrown out</span>  of the Royal Academy. What was really interesting was, by the end of that day, we had had, at the paper, over <span class="text-highlight">500 emails</span>  from other <span class="text-highlight">families</span> saying, ‘Museums aren’t working for us. Let’s try and make it work’. So, that’s what we did. In The Guardian, we <span class="text-highlight">set up</span>  a  <span class="text-highlight">campaign</span>. We called it <span class="text-highlight">the Kids in Museums</span>  <span class="text-highlight">campaign</span>, but it didn’t really exist. It was just a  <span class="text-highlight">few pages</span> . We ran  <span class="text-highlight">loads</span>  of  <span class="text-highlight">stories</span>  on it; I began touring the country talking about how to  <span class="text-highlight">make</span>  your  <span class="text-highlight">museum</span>  family  <span class="text-highlight">friendly</span>; I was a journalist. I was called in to see the then <span class="text-highlight">director</span> of the National Gallery in London, and I’ll <span class="text-highlight">never forget</span> this<span class="text-highlight">moment</span>, when he called me in and said, ‘We really like this Kids in Museums campaign, and we’ve been talking on our board about it, and we have  <span class="text-highlight">some ideas</span> of how we might  <span class="text-highlight">work together</span> , and I’d like you to take them back to your team.`,
+    solution: `The talk delineated a detailed picture regarding a campaign named the Kids in Museums. She firstly raised current issues of the museum by introducing her experience of being thrown out of the Royal Academy. She also emphasized the importance of making museums friendlier to families. In addition, her campaign was supported by many people, and the director of the National Gallery in London offered her some ideas to work together. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Talked about a campaign named **the kid in museum** which is a fantastic ideas of the Guardian journalist.`,
+      `Indicated that there were **500 emails from families** and they said museums are not working for them.`,
+      `Described that she called to the director of the national Gallery in London and they have **some ideas** and **work together**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-23.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=FCJubMLi9KAEKC0RyV6vSa1Tfg7K2AmMPZHPWVJ1sR5OWyeNpi4b8go7z2fzdt2AFyILN0GWslrN%2F5t%2FxuO2%2BzCk4YpNBcoH4oYVx25I6P4NADWOLh1P1Fg2i4ZFGquO1c5KCgHH5f4RMoessR6U2zfyPqvk%2FfzR1zBxogPndeCn%2FLtQZPSURHuh4cGbhFhFasfH6aigT%2F5rkMK1BZH9QatviX6LIXxX0pLdjnBgYyU9VuAOtUzWtxlrHi1cHpn0Hsnwy1Rf4Q2P1iBfPAp9yLuRiX3DJ1Gb%2Fg1NDK%2Fro6VEilVnlDpM04VDI7sGVL8M9os35uARi4wQ%2FT%2B4yXW6OA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Kid_museum/original/7f7eb107b5909bda89beee2ab59e7353/SST_Kid_museum.mp3?1551944859",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 24,
+    topic: "Animal behaviour (or Are We Animals)",
+    transcript: `<p>Far too many people often say things like <span class="text-highlight">animals</span> do this but we don’t. Or this animal does this and that animal does this, but the <span class="text-highlight">humans</span> don't do things like that. Those <span class="text-highlight">statements</span> have some <span class="text-highlight">hidden</span>  <span class="text-highlight">assumption</span> that we are  <span class="text-highlight">not animals</span>.
+When we say animals do this, animals do that, we often <span class="text-highlight">assume</span> that we are not animals. If we are not animals, what are we? Are we <span class="text-highlight">plants</span>or <span class="text-highlight">trees</span> or <span class="text-highlight">flowers</span>? No, we are not. Then okay, we are not plants. Are we <span class="text-highlight">microorganisms</span>, really  <span class="text-highlight">tiny</span>  <span class="text-highlight">microscopic</span>  things? No, we are not. Then the natural <span class="text-highlight">conclusion</span> must be we are not <span class="text-highlight">living things</span>.
+That's not true. Yes, we are animals and I <span class="text-highlight">see animals</span>  in us and I see <span class="text-highlight">humans</span>  in  <span class="text-highlight">animals</span>. So I'm going to talk about <span class="text-highlight">animal behavior</span> and human nature in order to  <span class="text-highlight">understand</span>   <span class="text-highlight">human nature</span>. We can <span class="text-highlight">look into</span> animals’  <span class="text-highlight">eyes</span> and animals’ <span class="text-highlight">behavior</span> and find something about <span class="text-highlight">what made us</span> <span class="text-highlight">who we are</span>.`,
+    solution: `The talk delineated a detailed picture regarding the argument that humans are not animals. The lecturer firstly talked about an assumption that people are different from animals, plants and even tiny microscopic things. He also highlighted the importance of investigating animals’ behavior to have a better understanding of human nature. Hence, the aforementioned discussion emphasized the role of studying animal behavior to find the evidence about where humans are from. _(69 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Indicated that some statements have **hidden assumption** that we are not **animals**.`,
+      `So are we **plants** or **trees** or **flowers**?`,
+      `Highlighted that we are not **microorganisms**, **tiny microscopic** and **living things**.`,
+      `Emphasized that we should talk about **animal behavior** and **human nature**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-24.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=2524608000&Signature=RvBjoiBYdmmYi4g6LNg%2F%2B44%2FKwuPuXdZrSsBirCkCa6PQb4cAxmtZKTDRs%2Fo835mBhjXnOEebF0%2BCuyz6fEAbKonM%2BYAhngOZz5Q0fGI8KxGvTDwenWZrnmPAdKExUz%2Fd9T9eCojGv5YyDnxGKYb8gCZtM%2Ful16kvvnzSNUT0MlYFX8IdM9%2F%2BL5EHc3mQZKIIWGSdn5cTE1EAZxWjbtyDTvDFNd8u%2BLA7c7q19JApVKOfoCcDLnjGY7Ubp8tWzoVi1%2FRXbvGySfIFpXwti1xtjwIVri26GqmGejlVHeOwINVJGCjo1GBsIIBobg80b%2Be2cs2KJ3ZHpzTAE%2FdqDIn6A%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Are_we_animals_SST/original/ab556a32940664c68aa85ab069994cc8/Are_we_animals_SST.mp3?1536803770",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 25,
+    topic:
+      "Translator and Interpreter (or The difference between translator and interpreter)",
+    transcript: `Hello, it's Megan. This week I'm going to talk about the <span class="text-highlight">difference</span>between <span class="text-highlight">translators</span> and <span class="text-highlight">interpreters</span>. It’s a <span class="text-highlight">common</span> <span class="text-highlight">misconception</span> that translators and interpreters <span class="text-highlight">do</span> the <span class="text-highlight">same</span>  <span class="text-highlight">thing</span>. So, I just like to highlight a few <span class="text-highlight">similarities</span> and <span class="text-highlight">differences</span> between the two. Firstly, translation refers to <span class="text-highlight">written communication</span> whereas interpreting refers to <span class="text-highlight">verbal communication</span>. So, for example, a translator will not attend a court hearing to verbally translate between the parties involved. But would translate the written evidence used in the case. Secondly, both jobs <span class="text-highlight">require</span>  <span class="text-highlight">different skills</span>. I <span class="text-highlight">translate</span> to require the ability to <span class="text-highlight">write well</span> and <span class="text-highlight">comprehensively</span> into a <span class="text-highlight">target language</span>. This means that they need to have an excellent command of their <span class="text-highlight">native language</span>. For example, although I can <span class="text-highlight">speak French</span> to a <span class="text-highlight">good standard</span>. I cannot <span class="text-highlight">translate</span>  from <span class="text-highlight">English</span> to <span class="text-highlight">French</span> although I could translate from French to English, which means I’m only half way there to being an international player. An <span class="text-highlight">interpreter</span> needs to be able to <span class="text-highlight">speak</span> both <span class="text-highlight">languages</span>  <span class="text-highlight">proficiently</span>. Thirdly, the <span class="text-highlight">qualifications</span> and  <span class="text-highlight">experience</span> <span class="text-highlight">required</span> to become either a <span class="text-highlight">professional translator</span> or <span class="text-highlight">interpreter</span> do differ. Both roles  <span class="text-highlight">acquire</span> <span class="text-highlight">years</span>  of  <span class="text-highlight">training</span>, the resulting  <span class="text-highlight">qualification</span>. But what they can learn from the training Will be <span class="text-highlight">completely different</span>. So just to be clear <span class="text-highlight">translators</span> will <span class="text-highlight">translate</span> <span class="text-highlight">written texts</span> and <span class="text-highlight">interpreters</span> will translate a <span class="text-highlight">verbal communication</span>.`,
+    solution: `The lecturer talked about the difference between translators and interpreters. She firstly introduced a common misconception that translators and interpreters do the same thing. In addition, she highlighted a few similarities and differences between the two by explaining that translation refers to written communication whereas interpreting refers to verbal communication. In conclusion, she emphasized that the qualifications and experience required to become either a professional translator or interpreter do differ. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Indicated that it’s **a common misconception**. The **translation** refers to written communication and **interpreting** refers to verbal communication.`,
+      `Both jobs require different skills, they need **qualifications**, **experience**, **target language**, **native language**`,
+      `Professional interpreter needs to be able to speak both languages proficiently.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-25.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=U7AEaVt80WST9DEM7ui9nCZimodUsAD2n1js53kj15Uopxl1cyJL77JYJp81mqqJpR428XjACZfgXad9ppSolf3Y1ymGhdPTl0Xf5qKb3ReuJO8PdmvP4RtlTuRQlQfMBqYIfPAiUqWkFiTiZvuA3Z8R6CKFZ6YZMmTrcVcNaxzjIXZQOm1NsyuRy3bfGvESxYyPk50QjQJKYHwUVcS5u12TYAy2UrNGVXmYnW5qJ6MPC78MPpvYYW3%2BuiuRr%2BOv0WhmCwFKV4V7xx9BIifDyeczC%2FruCX4UYS1QJDt12MnBaIB565a6A4NC2hFc8XpaCg6D2TAgtASJCwrKhZuUig%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_translator_and_interpreter/original/9a66ef87d9e1fa4804d5fbde10ba4187/SST_translator_and_interpreter.mp3?1544164321",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 26,
+    topic: "Bumble bees pick some flowers",
+    transcript: `Why the <span class="text-highlight">bumble bees</span> <span class="text-highlight">pick</span> some <span class="text-highlight">flowers</span> over others? <span class="text-highlight">Researchers</span> have known for a while that flowers’  <span class="text-highlight">color</span> can be a <span class="text-highlight">signal</span>. Color in shorthand that says to a bee: “Hey, I get some <span class="text-highlight">good quality</span> <span class="text-highlight">nectar</span> here, want to stop by for a visit”. But new  <span class="text-highlight">findings</span>  show that bees also use color to get <span class="text-highlight">clues</span>  about a flower’s  <span class="text-highlight">temperature</span>. And according to a  <span class="text-highlight">study</span> from a <span class="text-highlight">British</span>   <span class="text-highlight">research</span> team published in the journal Nature, some like it hot. <span class="text-highlight">Bees</span> <span class="text-highlight">use up</span>  a lot of  <span class="text-highlight">energy</span> just <span class="text-highlight">stay</span> in <span class="text-highlight">warm</span> on some days. In fact, they <span class="text-highlight">can't</span> even <span class="text-highlight">fly</span> if they are <span class="text-highlight">too cold</span>. So, if one <span class="text-highlight">flower</span> is <span class="text-highlight">warmer</span> than another, a bee can  <span class="text-highlight">save</span> some of its <span class="text-highlight">fuel</span>  by  <span class="text-highlight">basking</span> on that flower while it's doing its <span class="text-highlight">pollinating</span> business. And it turns out that bumble bees  <span class="text-highlight">consistently</span> do <span class="text-highlight">choose</span>  <span class="text-highlight">warmer flowers</span> over  <span class="text-highlight">cooler</span> ones even when the two  <span class="text-highlight">flowers</span> <span class="text-highlight">offer</span>  up the <span class="text-highlight">same quantity</span> and quality of <span class="text-highlight">nectar</span>. Some plants seem to be <span class="text-highlight">evolutionarily</span> <span class="text-highlight">adapted</span> to be slightly <span class="text-highlight">warmer</span> because the warmer ones get  <span class="text-highlight">visited</span> more by the <span class="text-highlight">chilly</span>  <span class="text-highlight">bees</span>. When it comes to getting <span class="text-highlight">pollinated,</span> apparently the <span class="text-highlight">heat</span> is on. And that is the buzz.`,
+    solution: `The lecturer talked about the reason why the bumble bees pick some flowers over others. She firstly introduced that bees use color to recognize a flower's temperature. In addition, bees cannot fly if they are too cold or when they use up a lot of energy. Finally, bumble bees consistently choose warmer flowers over cooler ones even when the two flowers offer up the same quantity and quality of nectar. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Indicated that **bumble bee** choose **flowers** because of the good quality nectar but the truth is flower‘s temperature.`,
+      `Highlighted that a study from British team showed that bees use up a lot of energy just stay in warm on some tool **cold days**.`,
+      `Concluded that bee choose **warmer flowers** over cooler ones and some plants seem to be evolutionarily adapted to be warmer.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-26.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=e3bfbVAUzVvFlKstQrLSdV6qvbevunaOrLQxGGymWP5MXG1MBbFs3Hy6wfdRRg4YZiuy6RnI4QPW5ujFHgbljMKg8vY7TqhLG8Yb6oV2m3gHj6AsOnN6s%2B0azEuG2Cht0mtaVM%2BIX9SmfpmJTQreXvUOgxTSLfwBi1FAV1wsz6jryCWRPc38lKnwpU5WeWbqSZ1P486rLb%2B333WzqUvhfd7JUFJAl0SJniKXCIOb8cergJPiEPxnc%2FayQ14XtfMuXfzVNA4piIFzCixSzv65nA1LSqvpncSmAyxAaTv6F9fZLs3qvcaRRlghEHPejhxgTKSr9mLkqeKHw9ZxahgWcg%3D%3D",
+    level: "medium",
+    times: 1,
+    priority: "normal",
+    newwords: []
+  },
+
+  {
+    id: 27,
+    topic: "Hans Krebs",
+    transcript: `This is <span class="text-highlight">Hans Krebs</span>, who in 1937 <span class="text-highlight">published</span> a <span class="text-highlight">paper</span> showing the <span class="text-highlight">sequence</span> of <span class="text-highlight">chemical reactions</span>, by which <span class="text-highlight">energy</span> is  <span class="text-highlight">released</span> in <span class="text-highlight">individual cells</span>. It is <span class="text-highlight">called</span> <span class="text-highlight">the Krebs cycle</span>, which some of you may remember from your  <span class="text-highlight">chemistry course</span> in your high school. Krebs is a<span class="text-highlight">wonderful</span> <span class="text-highlight">example</span> to me of how a  <span class="text-highlight">scientist</span> who is  <span class="text-highlight">determined</span> can <span class="text-highlight">overcome</span>  all kinds of <span class="text-highlight">human</span> <span class="text-highlight">obstacles</span>. Krebs's <span class="text-highlight">father</span>  constantly <span class="text-highlight">discouraged</span> him and told him that he had just <span class="text-highlight">mediocre intelligence</span> and whenever to anything important in his life, as a teenager. What Krebs <span class="text-highlight">remembers</span> in his <span class="text-highlight">memoir</span>: his father said to him “you can’t make a silk purse at a sow’s ear”. And later on, when Krebs studied with the <span class="text-highlight">great</span> <span class="text-highlight">biochemist</span> Otto Warburg. Warburg also <span class="text-highlight">told</span> him the <span class="text-highlight">same thing</span>. Not the <span class="text-highlight">same quote</span>  but that he had only <span class="text-highlight">mediocre ability</span> and would <span class="text-highlight">never</span> be a <span class="text-highlight">great scientist</span>. And we all hear about how <span class="text-highlight">important</span> it is  for <span class="text-highlight">parents</span> to <span class="text-highlight">encourage</span> their <span class="text-highlight">children</span>, but sometimes the children will go on to <span class="text-highlight">do</span>  <span class="text-highlight">great things</span> no matter what we say to them.`,
+    solution: `The lecturer talked about Hans Krebs who published a paper showing the sequence of chemical reactions, by which energy is released in individual cells. He firstly introduced an example of how a determined scientist could overcome all kinds of human obstacles. Moreover, although many people denied Krebs’s ability to become a great scientist, he still went on to study and received great achievements no matter what people said to him. _(70 words)_`,
+    keywords: [],
+    mainIdeas: [
+      `Talked about Hans Krebs who published a paper showing the sequence of **chemical reactions**, released energy in **individual cells**.`,
+      `Highlighted that Krebs is a wonderful example of how a determined scientist could overcome all kinds of **human obstacles**.`,
+      `Krebs is a great biochemist, great scientist who is very important with parents and they need to **encourage** their children to **do great thing**.`
+    ],
+    fillInTheBlank: "",
+    audio:
+      "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-27.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=OUCHp%2BxP3CSIegAI3m5pp9O1aFTpumw3bGrBV6OvoQsQ5eSK88BrAnzEQkNV6DQrMSew42fYfOKdOPJ%2FUieGkreyrsxgka6M96wEYQMxlG7nkGu%2BlStzRniWPkxjXADuFq2DbF8NWvB8f%2FvoII22QiLXwtx305dmDlzwd6iDkl9Xv2ehC7wcQFvgzsOxe2BR1R0YgWE238w2DTrNqXgqEKsncC9wbzAFaMZLlebGlVRjOOO0be7qzu4hnfmq9RB7ex7QjnTP7Qj%2Ff5SvQYWzSl594ioqLiOuyxZKNGLsDlusGvGtJilZnISue84U3I0uQUececs90c6gcTrLw3aiQw%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_krebs/original/fe17f63eead6acb6c7139fd2297a9ec1/SST_krebs.mp3?1544165911",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -436,7 +765,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 65,
     topic: "History of English",
@@ -444,17 +773,23 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     solution: `The lecturer talked about the history of English and the rise of English as a global language. She firstly indicated that English is not a pure language. In addition, she indicated that English has borrowed from over 350 languages in its history. Finally, she emphasized that the fact that English has borrowed words from over 350 languages has been viewed differently throughout history _(64 words)_`,
     keywords: [],
     mainIdeas: [
+      `The title of the lecture is Heinz 57, the history of English and the rise of English as a **global language**.`,
+      `English, as you've already read, is not a **pure** language.`,
+      `English, in fact, has borrowed from over **350 languages** in its history.`,
+      `And fact, the English has borrowed words from over 350 languages, has been **viewed differently** throughout history.`,
+      `The basis of English lies in **Germanic languages**, so it was very hard to remove all German words from the English language.`
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-65.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PHomB6pxNQ8ShFcltdrIMy2Mf1%2B9JlARYewDOYDWf9rcpzIB0wM0Vo91JiqerDopi7rFqL4rGWmh%2FKxG5Vn%2BXpl%2B0Lra8R52zbSbROQPoz4TKYcA4QQ8Q%2FC9ggdbNYIW92LK%2FkClsumDnPvj2y8Rk3nGOLNBOHGY0%2FJ7Rdi%2BMNd5wb1TECQ41a0ETC3SYf1OA8bXEo%2B8NOp4Z1fb7fSBxiE17%2Ft7SflGAKNHpKK78%2BmfQYyWWMYkKRmoxTVbvTKs2YNOjuVdIxO%2BEopgnez93rAdxtR1fy3YCpYuF8RuIXFDYkZMtZi%2BhJRxvqnhOpG3laczQwv%2Faref%2BTj6d61wfw%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/1030346c6219b06e24a393dc4c685458/original/5dac0824948843b545f5bdad2f8ad6f0/1030346c6219b06e24a393dc4c685458.mp3?1590115238",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/1030346c6219b06e24a393dc4c685458/original/5dac0824948843b545f5bdad2f8ad6f0/1030346c6219b06e24a393dc4c685458.mp3?1590115238",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 66,
     topic: "Bee Decline",
@@ -462,6 +797,11 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     solution: `The lecturer talked about bees which are in decline. He firstly indicated that these declines are well documented, and they're supported by good, strong scientific evidence. In addition, he indicated that the drivers of decline are many and varied, and the effects of pollinator loss could be absolutely huge. Finally, he emphasized that on the positive side, we are aware of the problem and people are taking action _(68 words)_`,
     keywords: [],
     mainIdeas: [
+      `Bees are in **decline**.`,
+      `These declines are well **documented**.`,
+      `They're supported by good, strong **scientific evidence**.`,
+      `The effects of **pollinator** loss could be absolutely huge.`,
+      `On the positive side, **positive side** is being raised all the time, and people are taking action.`
     ],
     fillInTheBlank: "",
     audio:
@@ -471,7 +811,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 67,
     topic: "Where Earthquakes occur?",
@@ -479,6 +819,10 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     solution: `The lecturer talked about a fault plane, on which the earthquake occurred. He firstly introduced the focus of the earthquake, which is a particular point where the earthquake starts. In addition, he indicated that if we wanted to look at where the earthquake was located, we would see the focus. Finally, he emphasized that as a result of the rupture, we see a seismic waves radiated away from the fault _(70 words)_`,
     keywords: [],
     mainIdeas: [
+      `The earthquake occurred on the **fault plane**, the earthquake starts at a particular point on the **fault plane**. We call that the **focus** of the earthquake.`,
+      `The **epicenter** is just the surface projection of the focus of the earthquake.`,
+      `If we wanted to look in map view at where the earthquake was **located**, we would see the focus.`,
+      `As a result of that **rupture**, we see a seismic waves are radiated away from the fault.`
     ],
     fillInTheBlank: "",
     audio:
@@ -488,7 +832,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 68,
     topic: "Globalisation v.2",
@@ -496,17 +840,22 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     solution: `The lecturer talked about globalization, which is an overused and often misunderstood concept. She firstly indicated that it is industries and markets that globalized, not countries. In addition, she indicated that it's helpful to think of globalization as the integration of economic activities across borders. Finally, she emphasized that globalization matters, because it means the rise of interconnectedness between countries and markets across the world _(65 words)_`,
     keywords: [],
     mainIdeas: [
+      `**Globalization** is an overused and often misunderstood concept.`,
+      `The starting point for understanding globalization is that it is **industries** and **markets** that globalized, not countries.`,
+      `It's helpful to think of globalization as the **integrated** of **economic** activities across borders.`,
+      `She would argue that globalization matters, because it means the rise of **interconnectedness** between countries and markets across the world.`
     ],
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-68.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=akISZBn08lA7nuSUa1mzNSTCjbhxOmAWHCFlLooJEAdGAhfVcALCdvEAeSh7%2Fe8fDYotCPVMwxjnWuWEdDxPJDAuJIOQdHXayHetBvAB%2FJCyXyeBfAjmcqAYy7zI2dGBMOvCrsCgyEAsLvZaJ9f5WtIWn3hzpSYhLy9Y18f0rUJ7DC7KZkSuBdeGxP4n3YD9JXgxbZ%2Bh8T1SMfMs1ZUPsQMgpyOZk49KOgKC0AeQt1JVdasZCJBDznxW1X9LpMCLTArhpR9GejkdFRTALyeUWOQkcMoQqtt1SbUr46dp9C2erhKI1sAHgqu94WpzMB23aujmNxp7MjNS0ts123TbVQ%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_149/original/828a0ac52fa5c9ecc395f9a02a156ac9/SST_149.mp3?1557286801",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_149/original/828a0ac52fa5c9ecc395f9a02a156ac9/SST_149.mp3?1557286801",
     level: "medium",
     times: 1,
     priority: "normal",
     newwords: []
   },
-  
+
   {
     id: 73,
     topic: "Consumer Behaviour (Tide Brand)",
