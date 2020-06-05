@@ -272,7 +272,8 @@ const SummarizeSpokenText = [
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-13.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Ltty8wxW3laF5ap%2FKGIgN8ipX3oP0qM5mxOQwTsQyJtgqP%2Ff7Sq662Y9NhDzXci1yyUXntIYXO0%2FdfnurMhb1m3F4VK0dDkW0p4sCATSZnpuDdZvon52LbTb4070%2Bh5Il7ei3eyXRhUYwgdX8yuSym9w%2FuTGsSRCL1ftDfTkSDlnkWe1y9gmxI%2BPXkMAy4Iv3iJtjS2lUzJ4OZMZhBxJgROey3fwKGfPJvat8pYECXdhifJ5S%2BOqJXSv8Idv1UBl5EKsE6mIXWdJQq0k0tx7aAc%2BaSkfD5o%2BHqaS%2FMFGXFlYEew6VmTNUqXet2tZ3Va1OdlNbBWpYvKACxFfMqEX6g%3D%3D",
-    audio2: "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Identity/original/e1a07da6a1f4996dbd101cefbc7f71a9/SST_Identity.mp3?1552375648",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Identity/original/e1a07da6a1f4996dbd101cefbc7f71a9/SST_Identity.mp3?1552375648",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -529,7 +530,7 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
   {
     id: 25,
     topic:
-      "Translator and Interpreter (or The difference between translator and interpreter)",
+      "Translator and Interpreter,
     transcript: `Hello, it's Megan. This week I'm going to talk about the <span class="text-highlight">difference</span>between <span class="text-highlight">translators</span> and <span class="text-highlight">interpreters</span>. It’s a <span class="text-highlight">common</span> <span class="text-highlight">misconception</span> that translators and interpreters <span class="text-highlight">do</span> the <span class="text-highlight">same</span>  <span class="text-highlight">thing</span>. So, I just like to highlight a few <span class="text-highlight">similarities</span> and <span class="text-highlight">differences</span> between the two. Firstly, translation refers to <span class="text-highlight">written communication</span> whereas interpreting refers to <span class="text-highlight">verbal communication</span>. So, for example, a translator will not attend a court hearing to verbally translate between the parties involved. But would translate the written evidence used in the case. Secondly, both jobs <span class="text-highlight">require</span>  <span class="text-highlight">different skills</span>. I <span class="text-highlight">translate</span> to require the ability to <span class="text-highlight">write well</span> and <span class="text-highlight">comprehensively</span> into a <span class="text-highlight">target language</span>. This means that they need to have an excellent command of their <span class="text-highlight">native language</span>. For example, although I can <span class="text-highlight">speak French</span> to a <span class="text-highlight">good standard</span>. I cannot <span class="text-highlight">translate</span>  from <span class="text-highlight">English</span> to <span class="text-highlight">French</span> although I could translate from French to English, which means I’m only half way there to being an international player. An <span class="text-highlight">interpreter</span> needs to be able to <span class="text-highlight">speak</span> both <span class="text-highlight">languages</span>  <span class="text-highlight">proficiently</span>. Thirdly, the <span class="text-highlight">qualifications</span> and  <span class="text-highlight">experience</span> <span class="text-highlight">required</span> to become either a <span class="text-highlight">professional translator</span> or <span class="text-highlight">interpreter</span> do differ. Both roles  <span class="text-highlight">acquire</span> <span class="text-highlight">years</span>  of  <span class="text-highlight">training</span>, the resulting  <span class="text-highlight">qualification</span>. But what they can learn from the training Will be <span class="text-highlight">completely different</span>. So just to be clear <span class="text-highlight">translators</span> will <span class="text-highlight">translate</span> <span class="text-highlight">written texts</span> and <span class="text-highlight">interpreters</span> will translate a <span class="text-highlight">verbal communication</span>.`,
     solution: `The lecturer talked about the difference between translators and interpreters. She firstly introduced a common misconception that translators and interpreters do the same thing. In addition, she highlighted a few similarities and differences between the two by explaining that translation refers to written communication whereas interpreting refers to verbal communication. In conclusion, she emphasized that the qualifications and experience required to become either a professional translator or interpreter do differ. _(70 words)_`,
     keywords: [],
@@ -598,7 +599,7 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
     solution: `The lecturer talked about the outbreak of typhoid, and the biography of Mary Mallon who was the carrier of typhoid virus. Moreover, she infected many people and three of them died in New York during her career as a cook. In addition, the public health authorities isolated here, and she spent the rest of her life in quarantine. He finally confirmed that live typhoid bacteria were found in her gallbladder.`,
     keywords: [],
     mainIdeas: [
-      `Mary Mallonwas the first person in the United States identified as a carrier of the typhoid fever.`,
+      `Mary Mallon was the first person in the United States identified as a carrier of the typhoid fever.`,
       `She was presumed to have infected 51 people, three of whom died, over the course of her career as a cook.`,
       `She was isolated by public health authorities.`,
       `She died after nearly three decades in isolation.`,
@@ -607,6 +608,8 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-41.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=bbud1lB1%2BMwjGqhJuCpcadjOYFRYLr0LVVQJzl9eu1YUYqaLPNWmgtxxePrs%2BFdcZCGnFbUcMLh3BWDO%2BUmHtmTn0w0oMhjdH8zUtvUV0t765hWj6mPeqjvdFpE4s3kylHWAz2ieZJtQ%2B4AO%2F7gBMMyD26GMoSe9Yev3Hi5eVchGzg%2BrdBMm89IxIwoCb%2FSEraNJc3%2FvaRa4%2F02PgkAxgtvF2WDnKB5Ul29PEEVON6zgouCBMNWFlRjn7diSYOGAxG1t3sdl0ABmN3VDRFQydg5sNwwbkhPgbHJn1VNsB1LqS%2BIJlfFdnXigVMmCbeQ2zZT%2BUyJ5OI1ARwLMyxO6UA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/RL_Marry_Mallon/original/0e7ad9da3a0cd9955ee166976e4d1a06/RL_Marry_Mallon.mp3?1549004709",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -616,7 +619,7 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
   {
     id: 42,
     topic: "University Competition",
-    transcript: `Today <span class="text-highlight">university</span> like the LSE (London School of Economics) certainly has to acknowledge that it's  <span class="text-highlight">a competition for the best students</span>, all of whom have chosen, they can <span class="text-highlight">exercise</span> and many of them choose they can <span class="text-highlight">run across nations and continental borders</span>. We are in competition of the staff. The <span class="text-highlight">academic job market</span> is one of the most global there is. In the 21st century English is the new Latin. So universities in <span class="text-highlight">English speaking countries</span> are exposed to <span class="text-highlight">more intensive competitions</span> than elsewhere. We are in competition for government funding through the assessment of research quality. We are in competition for <span class="text-highlight">research contracts from public and private sources</span>, and indeed, we are in competition for the philanthropic pound.. Many of our own donors were at more than one university. And indeed, think of the LSE request alongside: there are other charities to which they are committed. That is <span class="text-highlight">a competitive environment</span> which is practically visible to our chancellors.`,
+    transcript: `Today <span class="text-highlight">university</span> like the LSE (London School of Economics) certainly has to acknowledge that it's  <span class="text-highlight">a competition for the best students</span>, all of whom have chosen, they can <span class="text-highlight">exercise</span> and many of them choose they can <span class="text-highlight">run across nations and continental borders</span>. We are in competition of the staff. The <span class="text-highlight">academic job market</span> is one of the most global there is. In the 21st century English is the new Latin. So universities in <span class="text-highlight">English speaking countries</span> are exposed to <span class="text-highlight">more intensive competitions</span> than elsewhere. We are in competition for government funding through the assessment of research quality. We are in competition for <span class="text-highlight">research contracts from public and private sources</span>, and indeed, we are in competition for the philanthropic pound. Many of our own donors were at more than one university. And indeed, think of the LSE request alongside: there are other charities to which they are committed. That is <span class="text-highlight">a competitive environment</span> which is practically visible to our chancellors.`,
     solution: `The lecturer talked about competitions at many universities across nations and continental borders. He firstly indicated the importance of the academic job market in the current century. In addition, he had a discussion on a more intensive competition for the search contracts from both public and private sources, as well as for government funding through the assessment of research quality. Finally, he reemphasized a competitive environment for other charity activities. _(70 words)_`,
     keywords: [],
     mainIdeas: [
@@ -628,6 +631,8 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-42.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=FlNrOj9f0HRiU%2FgMRXd55tAD1o9pNMFCq0mxjZOTXOgi4hLqbsJnnlVSZMHb0CqmDHDqouANgwA%2B0IhxfN4k1dl7oEMnOebuZFT4L6Wt%2B39wfG%2BQDbhm5wb1L02WQPRATIVbToNlgJPX6%2FRZeOYAv5uHDHgrzEQDsxJsfpB8BQiEFvB5VE8ukmAQ%2FR46P2ccRx359d0fOaOfjQNKQWb%2BlQgl9l8bqd7T0HLa1P%2FGyqZzmRDr7FQj9jNa3I4QqIBFktFxJhxCQqFcseUsr7lsfOcjmAUwpCF50ntRxUzqlWk4w4DrCGBVGql3T9WJ6zPwf9OJCe943gGmsx4IOyP1rA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_University_Competition/original/2f452cb8a0f93fc67c7fa3552af548a5/SST_University_Competition.mp3?1551946561",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -637,7 +642,7 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
   {
     id: 43,
     topic: "Talent war version 1",
-    transcript: `<span class="text-highlight">Talent war</span>! I think there is <span class="text-highlight">an intense competition</span> at the moment to hire <span class="text-highlight">the most talented</span> and <span class="text-highlight">the most intellectually able people</span>. There is a time when I think companies had many of the adventures in the world, that it was the company's world, it will be the bosses’ world. Now, I think the reverse is the case. We have <span class="text-highlight">a shortage of talent</span> both within countries and between countries: have <span class="text-highlight">intense battle between companies</span> trying to hire the most talented workers and also between countries which are looking to recruit <span class="text-highlight">talented young people</span>, <span class="text-highlight">talented young immigrants</span>. We have these senses of immigrants being things that countries are battling to keep out and immigrants trying to get in, climb over the walls. I think the opposite is, in fact, the case. And the topic is that countries are trying to woo bright young people to get them to go to the universities and get them to become immigrants. So, on many, many levels, time that is a premium, there is a shortage of talent. And so, <span class="text-highlight">countries, companies, all sorts of organizations</span>, of course, voluntary organization as well as are competing to <span class="text-highlight">hire the best and the brightest</span>. You know, we have <span class="text-highlight">a baby boomer population which is aging</span>. We have <span class="text-highlight">an economy which is becoming more sophisticated</span>. And for other sorts of reasons, <span class="text-highlight">talent is the premium</span>.`,
+    transcript: `<span class="text-highlight">Talent war</span>! I think there is <span class="text-highlight">an intense competition</span> at the moment to hire <span class="text-highlight">the most talented</span> and <span class="text-highlight">the most intellectually able people</span>. There is a time when I think companies had many of the adventures in the world, that it was the company's world, it will be the bosses’ world. <br/> <br /> Now, I think the reverse is the case. We have <span class="text-highlight">a shortage of talent</span> both within countries and between countries: have <span class="text-highlight">intense battle between companies</span> trying to hire the most talented workers and also between countries which are looking to recruit <span class="text-highlight">talented young people</span>, <span class="text-highlight">talented young immigrants</span>. We have these senses of immigrants being things that countries are battling to keep out and immigrants trying to get in, climb over the walls. I think the opposite is, in fact, the case. And the topic is that countries are trying to woo bright young people to get them to go to the universities and get them to become immigrants. So, on many, many levels, time that is a premium, there is a shortage of talent. And so, <span class="text-highlight">countries, companies, all sorts of organizations</span>, of course, voluntary organization as well as are competing to <span class="text-highlight">hire the best and the brightest</span>. You know, we have <span class="text-highlight">a baby boomer population which is aging</span>. We have <span class="text-highlight">an economy which is becoming more sophisticated</span>. And for other sorts of reasons, <span class="text-highlight">talent is the premium</span>.`,
     solution: `The lecturer talked about an intense competition to hire the most talented and smart people. She firstly indicated a shortage of talent both within countries and between nations while looking to recruit talented young immigrants. In addition, she emphasized a shortage of talent in many countries, as well as highlighted current issues of a baby boomer population. Finally, she had a discussion on our economy, which is becoming more sophisticated. (_70 words)_`,
     keywords: [],
     mainIdeas: [
@@ -650,6 +655,8 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-43.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=Rziqv18NGsHNrLaMeQvTT%2Fz19mk%2BB8dm6w2dsTYAHrvzqWZnY82%2BLXuRoFWV5nmhP9N2mAN4U47zh4FpdKGWvdjMWrl%2Bc2QqrlQk0sBmSWeKjUSNHHE6FM6Q24VKbfJufp0A82bjMawSyqpHrsJ75sXm2NUGD1Gkjj3OaIEC1MF10oZt1W5G5jGVd0qW7377isDrLbsDVMQxpYjLbU7dUpY%2BU2OsV4RQPJrNDT%2FPQsE5TFtnfJzHSjm20Ouy7HrmYsqNV3BgcfXO3%2Fga5NWeaZUV3yDanU6f7YFh%2BKXyz1Lj4JkwvMtNvRsCR6%2FkmZiVQWxHVk83Sa0N57fDoWngmA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_Talent_war/original/d3f00dd9c2f9fe9a34e9feceb883a3bc/SST_Talent_war.mp3?1551946355",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -658,7 +665,7 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
 
   {
     id: 44,
-    topic: "Urbanization Development",
+    topic: "Urbanization Development (or Agriculture and Urbanization)",
     transcript: `I'm trying here to capture the dynamic that just conventionally been associated with <span class="text-highlight">urbanization development</span>. And it gets back once again to this question of <span class="text-highlight">agriculture</span>. Once you have cities you also as a reflection of cities, you have the countryside, you have <span class="text-highlight">rural areas</span> that have this relationship with <span class="text-highlight">urban areas</span> and at mediated by the production of <span class="text-highlight">agricultural goods</span>. And then the trade of those are increasingly <span class="text-highlight">industrial goods</span>. Increasing an agricultural productivity <span class="text-highlight">reduces labour needs and opportunities in rural areas</span>, pushing people towards the city's. There's this notion that in order to have progress and developments in cities, you need people. If everybody is busy growing crops, growing food to simply subsist, you can have people going into the city, you need to <span class="text-highlight">increase productivity in the countryside</span>. You need to have one farmer produce enough food more than one family. And then you will have growth and productivity in the countryside which will free up people to move to the cities. In fact, in many ways, it will compel them to <span class="text-highlight">move to the cities</span> because they won't be able to make a living in the countryside anymore. They will go to the cities <span class="text-highlight">in search of jobs</span> and provide <span class="text-highlight">a labour force</span> for <span class="text-highlight">the production of all kinds of other things</span>.`,
     solution: `The lecturer talked about the dynamic that conventionally associated with urbanization development. He firstly indicated that an increase in agricultural productivities can reduce labour needs and opportunities in rural areas, then this may push people towards the city. In addition, he argued that people need to leave the countryside and move to the cities in search of jobs and provide a labour force for the production of many various items. (70 words)`,
     keywords: [],
@@ -670,6 +677,8 @@ That's not true. Yes, we are animals and I <span class="text-highlight">see anim
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-44.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=PmpaGG2not1FApCpQiA4YAdhXkqUerRhstZuXXb3BpEfEeZddmWVjtgOBDirsP1oT8TM6krMg4Uk4Z56AkYBNmf%2BXycZA0GKj3A5Q4UsxlgXtu6SxMrKBkt3coGtDhmeKr645JrutdzC2tQdSP4egHdpLQW0agNA6DnLvStM7CFh9HSAwxI0%2BS2ZIjlv4RnbFjjhFuB8eZvjTVPFA2Nq7QlsPcaMSZ9Stq0KSa6ZeYMyZG8H%2B%2FA%2B%2FrkcxBrQqfwCtM8St4U9YFbqZ%2FGfrKsaagRWoftdEq%2BhJw3itwaMFn4Ig48og5pKaYO6newQorNe5djotYERp878qesTPZLfPg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_143/original/19ce67a9c350c665c365c57bde3cabe5/SST_143.mp3?1566115565",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -895,6 +904,8 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-74.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=I6kcQxug4MkTGrqmvRnEYdRcIFcW%2BwA%2BfPBq6xaWM4VfuWaOMmUshc6SIBEKNMOw730APKbkBxoS48QqRRfjSU1DlLzyudov2d1CGhGI%2FX4Eu7gUoLBIEU1ouERqxpq7q%2FfXGdkHeoSBqAgxZCyc2bq2sADkmWCg3AIpX0kpXPAu%2BOg07cdDtcvaikr5cPdb7VdC%2FLLuKg8X5ouvL4QiqXNwvIL2cHWhaSRdjAZLAfB%2FzS2qrVXB6pGi6jJQTq4J3waeOj%2F88NlWzFmdmn90Y%2BZFOBuqCTlc%2BDK24bvZHn3Qe6CBAdVPblMjQ0RYYbZninVHleg7rUdX1dg3XRmMIg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/SST_64/original/d20e99b850c14c567ca7c9971d8a2fdf/SST_64.mp3?1557286698",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -917,6 +928,8 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-75.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=KAXV3Ama8RKLFjoGkv3jOXqTxo%2FlaruDCh5BbB5bm85v5NJarP4eJBhHUxz5TUH9%2F1yWpJ2mT%2FpsBf%2Baa%2BTvZTNKN8ZltBj9TMu2h%2FSF1YNTpzte1liUJmnbaPIZzvN3JJ4f%2Fv40cvGJuhLeHnyXodUqab1VhmfFu38k2A23IQ15pnPSpHqDmATFyRsfjGNbY%2FRn2N5Sr1qgwJNQD3nAv3WPOGgkkISzYFU8DcBkITC6yKM%2FxDqYzqEIF%2BM%2Bt6cMbZxCcbFD3yz1tHXCQyGAE4IMbo6SSJG9gcjEifzRm32HFdMQVYEMjuaahUvvC9cirKeFS7u%2FYjMQeV6Rk0%2F9HA%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/6bb00c1a05175975bfaf/original/1adfeb5772f466a5ea027a1e767a4f75/6bb00c1a05175975bfaf.mp3?1566449366",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -981,6 +994,8 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-82.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=W%2BN8buBIbyZIgvlj9vBczJG%2Fp%2F2QpW5KtRqn2fljTsNtc%2FZZyw2PFK27r71GUZt5l8eZyg7rtxGxJPGsFQ8U6PIg%2FzFwiEqy7Xk98whoAK6CaVq6tgbsG0xwjkCK4LaTKGym0RfQ%2Bw1LNs9EbtP0xf94ntqQDzGNqGhEVP0daHdwak35beLziO85ergSLLd6sMrVze6umMNdGYqR9WBClWhaSix8c84TuueRXbttMYkqfEFihgkqGY9p4pSr58F3nQCvSwkTQt9Ia7HiHwVW5QMrB56U2wg2%2Fizmyzf7dpO527rh3LeZrqaPIADY7893b8DRStLc%2BbE2rrghwev5NQ%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/Thomas_Friedman__Globalization_of_Higher_Education_01/original/98f2967cad44bed45ec0e107fd3f8bf8/Thomas_Friedman__Globalization_of_Higher_Education_01.mp3?1563508409",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -989,7 +1004,7 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
 
   {
     id: 83,
-    topic: "“What makes you itch?”",
+    topic: "“What makes you itch? (or How to Spend Life)”",
     transcript: `What makes you itch? What sort of a <span class="text-highlight">situation</span>? Would you like?
     Let's suppose I do this often in <span class="text-highlight">vocational guidance</span> of students. They come to me and say, well, we're <span class="text-highlight">getting out of college</span> and we have the <span class="text-highlight">faintest idea</span> what we want to do. So I always ask the <span class="text-highlight">question</span>, what would you like to do if <span class="text-highlight">money</span> were <span class="text-highlight">no object</span>? What would How would you really <span class="text-highlight">enjoy spending your life?</span> Well, it's so amazing as a result of our kind of <span class="text-highlight">educational system</span>. Crowds of students say, Well, we'd like to be <span class="text-highlight">painters</span>, we'd like to be <span class="text-highlight">poets</span>. We'd like to be <span class="text-highlight">writers</span>, but as everybody knows, you can't done any money that way. Or another person says, Well, I'd like to<span class="text-highlight">live an outdoors life</span> and <span class="text-highlight">ride horses</span>.
     I said you want to teach in riding school?
@@ -1008,6 +1023,8 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-83.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=F4uGLCIlwaXxt%2BUDUxtz8B42JPFwssaPKwguRCow9hDScinXmQeJ9w%2BdhfFTQKdRLDVe56Ce01x7j7toGIpaEPrytRJ9owSiVoHcr9R3ioQyBfYHcQ9bgJa4nr3vf2qi%2FexbaB7x0G%2BkOxwyNdDInweEKvqZ%2FfMfhnwnuBMW2CXvm4F9xRer5lm7hOPK7aI2wQ1LSfo2rpMaBmEKtePWmt95VtdDwwWaBZfS12m8iiI1joQPj6BpkvhVv11F37fCDjvqP6B46GmXJhsTRcJQi4C%2FJF%2FMSy4ALCy8wH9WM8uM8kq%2BYLFGL%2BwCKSFaHkrCSeV7YSvTx%2BJjpITdBQ0PQg%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/4d540f472fd7c9eb2d48/original/a55f9901e3109e020c60da159933be9f/4d540f472fd7c9eb2d48.mp3?1571706119",
     level: "medium",
     times: 1,
     priority: "normal",
@@ -1032,6 +1049,8 @@ So it's beginning to become <span class="text-highlight">a subject of greater in
     fillInTheBlank: "",
     audio:
       "https://storage.googleapis.com/pte-assistant.appspot.com/app%2Faudio%2Fsst-84.mp3?GoogleAccessId=firebase-adminsdk-t7i9w%40pte-assistant.iam.gserviceaccount.com&Expires=1735650000&Signature=JImWnkeyl1zr%2FasDHlfwex9Nq5xwuxGh9pZf2DSzl0Sd2wWtL50grhLE0OG5GrQcZlLUJsCHXtmIGC9wjwsg59oSPLG8l%2BQXmBTCeQ7%2Blr94SY2sqmQhBGeHiRhiNImEa5TpT4dMhmFry%2BHzJX4GUBnLgEM8tst6o1hd2HCh%2BiHLlbabLY6GYz4RFrpVMymyuInNmXggFjY5IcBAlppKoN9WgmWCE97%2Fn26r7IbtJcTXEAOlcjOln9zhfy3MxKQarDTrMwoBUNdCwiLPnqNeGrctPPAXhs7Q%2BZFom2g%2Fgc2Cc3VCgCIku2fwNddTRCjUK2tx7TdxWYWs6W2JFXk3BQ%3D%3D",
+    audio2:
+      "https://apeuni-prod.oss-cn-hangzhou.aliyuncs.com/public/system/ssts/audios/179/original/6d4e1c66de875ab87a7cf8fe162b564c/179.mp3?1571064945",
     level: "medium",
     times: 1,
     priority: "normal",
